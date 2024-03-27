@@ -1,15 +1,20 @@
 ---
 layout: home
 title: Torre Escribana
-subtitle: Nuestro proyecto de vida y permacultura
+subtitle: Un proyecto viviencial basado en la Permacultura
 ---
 
-Torre Escribana es un hogar en el que caben dos familias, un montón de animales, árboles, flores, insectos,
-experiencias, encuentros, errores, penas y alegrías. Te invitamos a descubrirlo a través de ésta web.
+Torre Escribana está concebida para albergar vida.
+
+Diseñada bajo principios permaculturales pretende ser ejemplo e inspiración para otras personas que desean vivir de una forma más responsable y consciente. Igual que en la naturaleza, todo está relacionado entre sí para darse apoyo mutuo y conseguir una resiliencia que de otra manera sería imposible.
 
 ## ¿Qué hay en Torre Escribana?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis enim ut tellus elementum sagittis vitae et. Cras fermentum odio eu feugiat pretium nibh ipsum. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Iaculis urna id volutpat lacus laoreet non. Viverra maecenas accumsan lacus vel. Et odio pellentesque diam volutpat commodo sed egestas egestas. Duis convallis convallis tellus id interdum. Convallis convallis tellus id interdum velit laoreet id donec. Amet risus nullam eget felis eget nunc. Orci dapibus ultrices in iaculis nunc sed augue lacus. Amet nisl suscipit adipiscing bibendum. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus.
+Hay cientos de arboles, arbustos, flores, plantas medicinales, aromáticas, hortalizas... Que unidos forman huertos, bosques comestibles, setos vivos...
+Bichos, grandes como una cabra y pequeños como una bacteria, todos cumplen su función dentro del sistema.
+y además... Bioconstrucción, energías renovables, sistemas de gestión de aguas, relaciones con el resto de mundo...
+
+Descubre más Aqui. (enlace a pestaña "PROYECTO")
 
 ## ¿Cómo está diseñada?
 
