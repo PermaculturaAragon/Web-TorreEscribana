@@ -1,0 +1,38 @@
+---
+layout: page
+title: agenda
+---
+
+{% assign eventos = site.agenda %}
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Próximos eventos</h2>
+        <hr class="primary">
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="row row-centered">
+
+      {% for evento in eventos %}
+
+      <div class="col-lg-4 col-md-6 col-sm-12 col-centered text-center wow bounceIn taller-box">
+        <div class="proximo-taller-box" style="background-image: url({{taller.taller_imagen}})">
+          <div class="proximo-taller-box-info">
+            <h3>{{ evento.title }}</h3>
+            {{evento.date}}
+
+            <a href="{{ evento.url }}" class="btn btn-primary btn-xl page-scroll "><i class="fa fa-info-circle"></i>
+              detalles</a>
+
+          </div>
+        </div>
+      </div>
+
+      {% endfor %}
+
+    </div>
+  </div>
+</section>
