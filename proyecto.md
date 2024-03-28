@@ -2,6 +2,7 @@
 layout: page
 title: ¿Cómo está diseñada?
 subtitle: Nuestro proyecto
+cover-img: /assets/img/hotel insectos.jpg
 ---
 
 {: .box-success}
