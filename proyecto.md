@@ -4,4 +4,4 @@ title: ¿Cómo está diseñada?
 subtitle: Nuestro proyecto
 ---
 
-TODO: escribir esto
+{: .box-success}TODO: escribir esto
