@@ -7,4 +7,5 @@ subtitle: Nuestro proyecto
 {: .box-success}
 Cajita verde de prueba. [con enlace de por medio](https://permaculturaaragon.github.io/Web-TorreEscribana/)
 
+![foto](assets/img/hotel insectos.jpg)
 sdsdf
