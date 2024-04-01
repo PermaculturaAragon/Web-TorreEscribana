@@ -4,29 +4,18 @@ title: Torre Escribana
 subtitle: Un proyecto viviencial basado en la Permacultura
 ---
 
-Torre Escribana está concebida para albergar vida.
 
-Diseñada bajo principios permaculturales pretende ser ejemplo e inspiración para otras personas que desean vivir de una forma más responsable y consciente. Igual que en la naturaleza, todo está relacionado entre sí para darse apoyo mutuo y conseguir una resiliencia que de otra manera sería imposible.
+
+Torre Escribana, una finca situada en la fértil zona de huerta cerca de Zaragoza y regada por las aguas del río Gállego, está diseñada con principios permaculturales para albergar y fomentar la vida en todas sus formas. Inspirada por la naturaleza, la finca busca ser un modelo ejemplar de sostenibilidad y responsabilidad ambiental, ofreciendo inspiración a aquellos que desean vivir de manera más consciente. A través de la aplicación de patrones naturales, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
 
 ## ¿Qué hay en Torre Escribana?
 
-Hay cientos de arboles, arbustos, flores, plantas medicinales, aromáticas, hortalizas... Que unidos forman huertos, bosques comestibles, setos vivos...
-Bichos, grandes como una cabra y pequeños como una bacteria, todos cumplen su función dentro del sistema.
-y además... Bioconstrucción, energías renovables, sistemas de gestión de aguas, relaciones con el resto de mundo...
+
+En Torre Escribana, la vida bulle en todas sus formas. Desde cientos de árboles, arbustos y flores hasta plantas medicinales y aromáticas, desde bichos diminutos hasta criaturas tan grandes como una cabra, nuestra finca es un ecosistema vibrante donde la diversidad es la norma. Pero no se trata solo de naturaleza; elementos como acequias, vallas y bioconstrucciones se entrelazan con la vida vegetal y animal, formando sistemas complejos como huertos, bosques comestibles, el Wc Seco, espacios de convivencia y estructuras de apoyo para sistemas de energías renovables y gestión del agua asegurando una armonía sostenible con el entorno natural. En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y estamos emocionados de compartir este oasis de vida y sostenibilidad con vosotras.
+
 
 Descubre más Aqui. (enlace a pestaña "PROYECTO")
 
-## ¿Cómo está diseñada?
-
-Sed sed risus pretium quam vulputate dignissim suspendisse. Purus in massa tempor nec. Morbi tristique senectus et netus
-et malesuada. Ac turpis egestas maecenas pharetra. Cras ornare arcu dui vivamus. Elit at imperdiet dui accumsan sit.
-Tellus in metus vulputate eu scelerisque felis. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Sed
-faucibus turpis in eu mi bibendum neque egestas congue. Risus ultricies tristique nulla aliquet enim tortor at auctor
-urna. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Cursus metus aliquam eleifend mi in nulla. Vitae
-purus faucibus ornare suspendisse sed nisi lacus sed viverra. Leo a diam sollicitudin tempor id eu nisl nunc. Tellus at
-urna condimentum mattis. Vestibulum sed arcu non odio euismod lacinia.
-
-[ver más](/proyecto/)
 
 ## Al dia
 
