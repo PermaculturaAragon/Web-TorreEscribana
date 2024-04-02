@@ -12,25 +12,26 @@ Torre Escribana, una finca situada en la fértil zona de huerta cerca de Zaragoz
 
 En Torre Escribana, la vida bulle en todas sus formas. Desde cientos de árboles, arbustos y flores hasta plantas medicinales y aromáticas, desde bichos diminutos hasta criaturas tan grandes como una cabra, nuestra finca es un ecosistema vibrante donde la diversidad es la norma.
 
- Pero no se trata solo de naturaleza; elementos como acequias, vallas y bioconstrucciones se entrelazan con la vida vegetal y animal, formando sistemas complejos como huertos, bosques comestibles, el Wc Seco, espacios de convivencia y estructuras de apoyo para sistemas de energías renovables y gestión del agua asegurando una armonía sostenible con el entorno natural. 
+Pero no se trata solo de naturaleza; elementos como acequias, vallas y bioconstrucciones se entrelazan con la vida vegetal y animal, formando sistemas complejos como huertos, bosques comestibles, el Wc Seco, espacios de convivencia y estructuras de apoyo para sistemas de energías renovables y gestión del agua asegurando una armonía sostenible con el entorno natural. 
  
- En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y estamos emocionados de compartir este oasis de vida y sostenibilidad con vosotras.
+En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y estamos emocionados de compartir este oasis de vida y sostenibilidad con vosotras.
 
 
-Descubre que más cosas hay en Torre Escribana. [Proyecto](/proyecto/)
+[Descrubre mucho más.](/proyecto/)  
+[Conoce a sus integrantes.](/nosotras/)  
+[Profundiza en su diseño.](/diseno/)
 
 
 ## ¿Qué es la Permacultura?
 
 La Permacultura es un enfoque holístico para el diseño y la gestión de sistemas sostenibles que se basa en principios éticos y patrones naturales. Se trata de crear hábitats humanos armoniosos y productivos que trabajen en colaboración con los ecosistemas naturales en lugar de contra ellos.
 
- En la Permacultura, se valora la diversidad, la interconexión y la resiliencia,se busca minimizar el desperdicio y maximizar el rendimiento del sistema. Es un enfoque integral que abarca áreas como la agricultura, la arquitectura, la energía, el agua, la economía y la comunidad que se centra en soluciones creativas y sostenibles para los desafíos contemporáneos.
+En la Permacultura, se valora la diversidad, la interconexión y la resiliencia,se busca minimizar el desperdicio y maximizar el rendimiento del sistema. Es un enfoque integral que abarca áreas como la agricultura, la arquitectura, la energía, el agua, la economía y la comunidad que se centra en soluciones creativas y sostenibles para los desafíos contemporáneos.
  
-  En resumen, la permacultura es un camino hacia un estilo de vida más consciente, en armonía con la tierra y sus recursos.
+<p>Para saber más <a href="http://www.permaculturaaragon.org/" target="_blank">Permacultura Aragón</a>.</p>
 
-Descrubre más sobre la Permacultura en ENLACE PERMACULTURA ARAGON
 
-## Agenda
+
 
 {% assign eventos = site.agenda %}
 <section>
@@ -84,9 +85,8 @@ Es importante saber que Torre Escribana es el hogar de sus moradores. Nuestra"cu
 
 La intimidad como la libertad de vivir con cierta desconexión del ajetreado día en la ciudad son valores que perseguimos al elegir vivir en este entorno.  Las visitas al proyecto deben estar estrictamente pautadas con antelación ya que a nuestra organización y privacidad le damos una profunda importancia.
 
-Si quieres visitar el proyecto consulta la agenda de torre escribana para comprobar si se acerca una jornada colaborativa o día de puertas abiertas y ponte en contacto con nosotras aquí:
+Si quieres visitar el proyecto [AQUI](/visitas/) te explicamos como puedes hacerlo. Consulta además la [agenda](/agenda/) de Torre Escribana para comprobar si se acerca una jornada colaborativa o día de puertas abiertas.
 
-[ven a vernos](/visitas/)
 
 ## Contacto
 
