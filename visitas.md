@@ -14,11 +14,11 @@ subtitle: Conoce Torre Escribana
 Explora nuestras opciones de visita a continuación y únete a nosotras en esta emocionante aventura hacia un futuro más verde y consciente. ¡Esperamos conocerte pronto en Torre Escribana!"
 
 
-##### Visitas de Centros Educativos
+##### - Visitas de Centros Educativos
 Estamos encantados de recibir a grupos de centros educativos....
 
 
-##### Actividades exclusivas grupos SCOUTS
+##### - Actividades exclusivas grupos SCOUTS y GUÍAS
 Conocemos de primera mano la importancia de educar en la naturaleza. Nuestro pasado, presente y futuro en un grupo Scout nos da las herramientas necesarias para ofreceros una experiencia personalizada a cada grupo y sección. Desde salidas de día a acampadas de una o dos noches, estamos seguros que vuestros chavales disfrutarán y volverán con más ganas y más compromiso de dejar este mundo mejor de como se lo han encontrado. 
 
 {: .box-note}
@@ -28,13 +28,13 @@ Contacta a través de éste formulario si quieres venir con alguna de las seccio
 ![scouts2]({{ '/assets/img//visitas/scout2.png' | relative_url }})
 
 
-##### Jornadas y talleres
+##### - Jornadas y talleres
 Una forma de visitar Torre Escribana es aprovechar las jornadas colaborativas, los talleres y cursos formativos que se realizan aquí. Para estar informada de los mismos aprovecha para "REGISTRARTE"?? o visitando regularmente la **[AGENDA](/agenda/)**
 
-##### Visitas personalizadas.
+##### - Visitas personalizadas.
 
 {: .box-error}
-**PRÓXIMAMENTE:** Estamos trabajando para poder ofrecerte este tipo de visitas **a partir de Septiembre.**
+**ATENCIÓN:** Estamos trabajando para poder ofrecerte este tipo de visitas **a partir de Septiembre de 2024.**
 
 
 <p>Recientemente hemos tenido la oportunidad de sumarnos a <a href="https://elcaminoess.com//" target="_blank">El CAMINO ESS</a>. Iniciativa que surge como una propuesta turística alternativa a través de <b>experiencias sostenibles y responsables</b> en Cataluña, Aragón, La Rioja, Castilla y León y Galicia.</p> 

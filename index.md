@@ -17,7 +17,7 @@ Pero no se trata solo de naturaleza; elementos como acequias, vallas y bioconstr
 En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y estamos emocionados de compartir este oasis de vida y sostenibilidad con vosotras.
 
 
-[Descrubre mucho más.](/proyecto/)  
+[Descubre mucho más.](/proyecto/)  
 [Conoce a sus integrantes.](/nosotras/)  
 [Profundiza en su diseño.](/diseno/)
 
@@ -26,7 +26,7 @@ En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y es
 
 La Permacultura es un enfoque holístico para el diseño y la gestión de sistemas sostenibles que se basa en principios éticos y patrones naturales. Se trata de crear hábitats humanos armoniosos y productivos que trabajen en colaboración con los ecosistemas naturales en lugar de contra ellos.
 
-En la Permacultura, se valora la diversidad, la interconexión y la resiliencia,se busca minimizar el desperdicio y maximizar el rendimiento del sistema. Es un enfoque integral que abarca áreas como la agricultura, la arquitectura, la energía, el agua, la economía y la comunidad que se centra en soluciones creativas y sostenibles para los desafíos contemporáneos.
+En la Permacultura, se valora la diversidad, la interconexión y la resiliencia, se busca minimizar el desperdicio y maximizar el rendimiento del sistema. Es un enfoque integral que abarca áreas como la agricultura, la arquitectura, la energía, el agua, la economía y la comunidad que se centra en soluciones creativas y sostenibles para los desafíos contemporáneos.
  
 <p>Para saber más <a href="http://www.permaculturaaragon.org/" target="_blank">Permacultura Aragón</a>.</p>
 
@@ -81,9 +81,7 @@ ENLACE A TODAS LAS NOTICIAS
 
 ## Visita Torre escribana
 
-Es importante saber que Torre Escribana es el hogar de sus moradores. Nuestra"cueva". Es allí donde vivimos las alegrías y penas familiares y donde hacemos nuestra vida día tras día.
-
-La intimidad como la libertad de vivir con cierta desconexión del ajetreado día en la ciudad son valores que perseguimos al elegir vivir en este entorno.  Las visitas al proyecto deben estar estrictamente pautadas con antelación ya que a nuestra organización y privacidad le damos una profunda importancia.
+Es posible visitar Torre Escribana de diferentes maneras y estaremos encantadas de abrir nuestras puertas para compartir con vosotras nuestras experiencias, pero es importante saber que es nuestro hogar, nuestra"cueva". Es allí donde vivimos las alegrías y penas familiares y donde hacemos nuestra vida día tras día.
 
 Si quieres visitar el proyecto [AQUI](/visitas/) te explicamos como puedes hacerlo. Consulta además la [agenda](/agenda/) de Torre Escribana para comprobar si se acerca una jornada colaborativa o día de puertas abiertas.
 
