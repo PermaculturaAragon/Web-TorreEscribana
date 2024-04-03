@@ -89,3 +89,8 @@ Si quieres visitar el proyecto [AQUI](/visitas/) te explicamos como puedes hacer
 ## Contacto
 
 [Contacto](/contacto/)
+
+
+## Proyectos amigos
+
+links a enlaces de interes
