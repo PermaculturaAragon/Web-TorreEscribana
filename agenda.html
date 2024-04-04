@@ -22,8 +22,12 @@ title: Agenda
         <div class="proximo-taller-box" style="background-image: url({{taller.taller_imagen}})">
           <div class="proximo-taller-box-info">
             <h3>{{ evento.title }}</h3>
-            {{evento.date}}
-
+            {{evento.dia}} de {{evento.mes}} de {{evento.ano}}<br><br>
+            {{evento.resumen}}<br><br>
+            Inscripción previa: {{evento.inscripcion}}<br><br>
+            
+           
+           
             <a href="{{ evento.url }}" class="btn btn-primary btn-xl page-scroll "><i class="fa fa-info-circle"></i>
               detalles</a>
 
