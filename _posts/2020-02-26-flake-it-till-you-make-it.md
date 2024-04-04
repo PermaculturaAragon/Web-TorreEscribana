@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/index/flores.jpg
+title: Ya han nacido los tomates
+subtitle: mira tu que bien
+cover-img: assets\img\otros\patitos.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [books, noticias]
 author: Sharon Smith and Barry Simpson
 ---
 
