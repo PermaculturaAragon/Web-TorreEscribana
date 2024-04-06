@@ -7,7 +7,7 @@ cover-img: /assets/img//otros/hotelinsectos.jpg
 
 
 {: .box-note}
-En esta página puedes ver un **pequeño resumen** del diseño de Torre Escribana. Está basado en el SISTEMA GOBRADIMET y en encuentra en constante REDISEÑO.
+En esta página puedes ver un **pequeño resumen** del diseño de Torre Escribana. Está basado en el **SISTEMA GOBRADIMET** y en encuentra en constante **REDISEÑO.**
 
 
 
@@ -16,7 +16,7 @@ En esta página puedes ver un **pequeño resumen** del diseño de Torre Escriban
 
 {: .box-success}
 __Misión:__  
-"Nos dedicamos a ser un espacio educativo y de inspiración en permacultura y regeneración. Nuestra misión es ofrecer experiencias enriquecedoras y prácticas para promover un futuro más regenerativo. A través de visitas guiadas, cursos y talleres, compartimos conocimientos sobre autosuficiencia y vida sostenible, alentando a otros a adoptar prácticas regeneradoras fel medio ambiente y la comunidad."
+"Nos dedicamos a ser un espacio educativo y de inspiración en permacultura y regeneración. Nuestra misión es ofrecer experiencias enriquecedoras y prácticas para promover un futuro más regenerativo. A través de visitas guiadas, cursos y talleres, compartimos conocimientos sobre autosuficiencia y vida sostenible, alentando a otros a adoptar prácticas regeneradoras del medio ambiente y la comunidad."
 
 {: .box-success}
 __Visión:__  
@@ -33,11 +33,14 @@ __Contribuir a la autosuficiencia alimentaria:__ *Cultivar alimentos orgánicos 
 ## OBSERVACIÓN
 Cuando en un diseño nos encontramos en la fase de Observación tendremos especial atención de plasmar solo los datos objetivos, sin llegar a evaluar, juzgar o analizarlos. Diferentes personas deberían realizar observaciones similares respecto a un mismo fenómeno o situación, ya que la observación se centra en capturar hechos y detalles concretos de manera imparcial y sin prejuicios. Esto garantiza una base sólida de información sobre la cual posteriormente se podrá realizar un análisis más detallado y riguroso. La observación a continuación se refiere a ese primer momento en 2015 cuando entramos por primera vez en la finca.
 
-Nos encontramos en una finca de 1ha en la zona de huerta protegida cercana a Zaragoza a escasos 2km de la ciudad.  El clima aquí es típicamente continental, con veranos calurosos donde llegamos a superar los 40º e inviernos fríos donde las heladas nocturnas son frecuentes, con variaciones estacionales cada vez menos marcadas en las que la primavera y el otoño tienden a acortarse. De media llueve sólo 300mm al año. (Ese "sÓlo" es un ejemplo claro de ANALISIS y no de OBSERVACIÓN.) 
+Nos encontramos en una finca de 1ha en la zona de huerta protegida cercana a Zaragoza a escasos 2km de la ciudad.  El clima aquí es típicamente continental, con veranos calurosos donde llegamos a superar los 40º e inviernos fríos donde las heladas nocturnas son frecuentes, con variaciones estacionales cada vez menos marcadas en las que la primavera y el otoño tienden a acortarse. De media llueve sólo 300mm al año. (Ese "sólo" es un ejemplo claro de ANALISIS y no de OBSERVACIÓN.) 
 
 La finca es prácticamente llana. Dispone de varias construcciones: Una vivienda de dos plantas construida con adobe con capacidad para dos familias, un garage de 40m2 en el mismo edificio y otra edificación antigua de dos plantas que presenta claros indicios de derrumbe.
 
 Colinda con un ramal de la acequia Camarera que viene desde Ontinar de Sanz y por donde transcurre agua prácticamente todas las semanas excepto el mes de limpieza en febrero. Dispone de conexión a la red eléctrica y de telecomunicaciones pero no dispone de red de agua potable ni saneamiento. 
+
+Al observar los sectores, ganamos una comprensión más profunda de la interacción entre nuestro sitio y su entorno circundante. Reconocemos las oportunidades que nos ofrecen los sectores favorables, como la captura de energía solar y la protección contra vientos fuertes. Del mismo modo, identificamos los desafíos que plantean los sectores desfavorables, como la exposición excesiva al sol o la posible exposición a herbicidas de vecinos.
+![Sectores](..\assets\img\proyecto\sectores.jpg)
 
 ## BORDES Y LÍMITES
 En permacultura, los **"BORDES"** se refieren a las áreas de transición entre diferentes elementos o sistemas dentro de un diseño. Estas áreas son lugares de gran actividad e interacción, donde se encuentran dos ecosistemas o elementos diferentes, como por ejemplo, el borde entre un bosque y un prado, entre un estanque y un área de cultivo, o entre un camino y un huerto.
@@ -79,15 +82,35 @@ Estos recursos pueden ser:
 
 Gestionar y utilizar estos recursos de manera eficiente y efectiva es fundamental en la permacultura para crear sistemas que sean autosuficientes, resistentes y regenerativos a largo plazo. Esto implica considerar cómo maximizar el uso de los recursos disponibles, minimizar los residuos y las externalidades negativas, y fomentar la renovación y regeneración de los recursos naturales.
 
+**Ejemplos de Recursos en Torre Escribana**  
+- **Físicos:** Viviendas, garage, patio interior, 250m2 de tejado, acequia, 1ha de suelo, 
+- **Financieros:** Sueldos externos de integrantes, Coop57
+- **Humanos:** Integrantes de las dos viviendas, amigos y familiares, interesados en la Permacultura. Habilidades de albañilería, fontanería, electricidad, imagen y sonido, educación, voluntariado, etc.
+- **Naturales:** Sol, viento, lluvia, suelo, agua cosechada de la cuenca a través de acequias.
+
+
 
 ## ANÁLISIS
 
+Durante esta etapa, profundizamos en la comprensión de los datos recopilados durante la fase de observación. Examinamos detalladamente los elementos naturales y humanos que influyen en Torre Escribana, identificando patrones, tendencias y áreas de oportunidad. Utilizamos herramientas analíticas para interpretar la información y tomar decisiones informadas sobre el diseño futuro del sitio. El análisis nos permite comprender mejor las necesidades del lugar y desarrollar estrategias efectivas para maximizar sus recursos y minimizar los impactos negativos.
+
 ## DISEÑO
+
+En esta etapa, tomamos los conocimientos obtenidos durante la observación y el análisis para crear un diseño regenerativo para Torre Escribana. Utilizamos principios de permacultura y técnicas de diseño sostenible para planificar el uso del espacio, la ubicación de las estructuras, la gestión del agua, la plantación de cultivos y la integración de sistemas naturales.
+![diseño realtime](..\assets\img\proyecto\realtime.png)
+
 ## IMPLEMENTACIÓN
+Con el diseño en mano, pasamos a la fase de implementación donde ponemos en práctica las ideas y planes desarrollados. Esto puede incluir la construcción de estructuras, la siembra de plantas, la instalación de sistemas de captación de agua, la creación de senderos, entre otras acciones. Es importante llevar a cabo la implementación de manera cuidadosa y considerada para asegurar que el diseño se lleve a cabo de manera efectiva.
+
 ## MANTENIMIENTO
+Una vez que el diseño ha sido implementado, es crucial mantener y cuidar el sitio de manera continua. El mantenimiento incluye tareas como el riego de plantas, la poda de árboles, la reparación de estructuras, la gestión de residuos y la protección contra plagas y enfermedades. El mantenimiento adecuado es esencial para garantizar que el diseño permacultural se mantenga saludable y productivo a lo largo del tiempo.
+
 ## EVALUACIÓN
-## TUNEO
+Regularmente evaluamos el éxito y la efectividad del diseño permacultural en Torre Escribana. Observamos cómo están creciendo las plantas, cómo funcionan los sistemas de agua, cómo se comportan las estructuras en diferentes condiciones climáticas, y cómo responde la comunidad a las iniciativas implementadas. Utilizamos esta retroalimentación para ajustar y mejorar el diseño según sea necesario.
+
+## TUNEO  
 ###### - Rediseño.
+Basándonos en los resultados de la evaluación, realizamos ajustes y modificaciones al diseño para optimizar su funcionamiento y adaptarlo a las cambiantes condiciones del entorno. Esto puede implicar cambios en la disposición de las plantas, la incorporación de nuevas tecnologías, la revisión de sistemas de gestión, o la expansión de áreas específicas. El tuneo continuo es parte integral del proceso de diseño permacultural, permitiendo una mejora constante.
 
 
 
