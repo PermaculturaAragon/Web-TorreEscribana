@@ -21,18 +21,17 @@ author: Escuin
 
 navbar-links:
   Inicio: "index"
-  Proyecto: 
-   - Descúbre: "proyecto"
-   - Diseño: "diseno"
-   - Quienes Somos: "nosotras"
+  Proyecto:
+    - Descúbre: "proyecto"
+    - Diseño: "diseno"
+    - Quienes Somos: "nosotras"
   Visitas: "visitas"
   Agenda: "agenda"
   Blog:
-  - Artículos: "tags/#books"  # TAG artículos
-  - Últimas noticias: "tags/#noticias" # TAG noticias
-  - Todos: "tags" # Todos
+    - Artículos: "tags/#books" # TAG artículos
+    - Últimas noticias: "tags/#noticias" # TAG noticias
+    - Todos: "tags" # Todos
   Contacto: "contacto"
-
 
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -75,11 +74,11 @@ social-network-links:
   #  xing: yourname
   #  stackoverflow: "3943160/daattali"
   #  snapchat: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  #  spotify: yourname
+  #  telephone: +14159998888
+  #  steam: deanat78
+  #  twitch: yourname
+  #  yelp: yourname
   telegram: torreescribana
 #  calendly: yourname
 #  mastodon: instance.url/@username
@@ -289,9 +288,12 @@ defaults:
     values:
       layout: "page"
   - scope:
-      path: "agenda"
+      path: ""
+      type: "agenda"
     values:
       layout: "evento"
+
+future: true
 
 # Exclude these files from production site
 exclude:

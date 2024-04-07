@@ -1,0 +1,48 @@
+---
+layout: base
+---
+
+<div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}
+  {% for bigimg in page.cover-img %} {% assign imgnum = forloop.index %} {% for imginfo in bigimg %} {% if imginfo[0] %}
+  data-img-src-{{ imgnum }}="{{ imginfo[0] | absolute_url }}" data-img-desc-{{ imgnum }}="{{ imginfo[1] }}" {% else %}
+  data-img-src-{{ imgnum }}="{{ imginfo | absolute_url }}" {% endif %} {% endfor %} {% endfor %}></div>
+
+<div class="intro-header ">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="page-heading">
+          <h1>{{ page.title | strip_html }}</h1>
+          <h2 class="post-subheading">{{ page.formatted-date | strip_html }}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  <span class='img-desc'></span>
+</div>
+
+<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  {% if page.before-content %}
+  <div class="before-content">
+    {% for file in page.before-content %}
+    {% include {{ file }} %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="row">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+      {{ content }}
+    </div>
+  </div>
+
+  {% if page.after-content %}
+  <div class="after-content">
+    {% for file in page.after-content %}
+    {% include {{ file }} %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <a href="{{ '/agenda ' | absolute_url}}">volver a la agenda</a>
+</main>

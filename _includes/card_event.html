@@ -1,0 +1,21 @@
+<div class="card">
+  <div class="media media--16-9">
+    <div class="primary-title">
+      <div class="primary-text">{{ evento.title }}</div>
+      <div class="secondary-text">{{ evento.formatted-date }}</div>
+    </div>
+    {% if evento.cover-img %}
+    <img src="{{ evento.cover-img }}" alt="" width="960" height="640">
+    {% endif %}
+  </div>
+  <div class="actions">
+    <div class="action-buttons">
+      <a href="{{ evento.url | absolute_url }}" class="button" type="button">{% if evento.inscription %}
+        inscríbete
+        {% else %}
+        ver detalles
+        {% endif %}
+      </a>
+    </div>
+  </div>
+</div>

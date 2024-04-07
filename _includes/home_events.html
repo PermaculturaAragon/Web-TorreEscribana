@@ -1,0 +1,12 @@
+{% assign eventos = site.agenda | where_exp:"item","item.in-home == true" || sort: "start-date" | reverse%}
+
+<h2 class="section-heading">Próximos eventos</h2>
+<div class="container-fluid">
+  <div class="row">
+    {% for evento in eventos %}
+    <div class="col-10 col-lg-6">
+      {% include card_event.html %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
