@@ -8,7 +8,7 @@
     <img src="{{ evento.cover-img | absolute_url }}" alt="" width="960" height="640">
     {% endif %}
   </div>
-  <div class="actions">
+   <div class="actions">
     <div class="action-buttons">
       <a href="{{ evento.url | absolute_url }}" class="button" type="button">{% if evento.inscription %}
         inscríbete
@@ -16,6 +16,7 @@
         ver detalles
         {% endif %}
       </a>
+    
     </div>
   </div>
 </div>

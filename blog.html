@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blog
+title: Blog
 ---
 {% assign posts = paginator.posts | default: site.posts %}
 
@@ -45,11 +45,11 @@ title: blog
       </a>
 
       {% if post.author %}
-      <span>By <strong>{{ post.author | strip_html }}</strong></span>
+      <span>Por <strong>{{ post.author | strip_html }}</strong></span>
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Posted on {{ post.date | date: date_format }}
+        Escrito el {{ post.date | date: date_format }}
       </p>
 
       {% if thumbnail != "" %}
@@ -74,7 +74,7 @@ title: blog
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Leer&nbsp;Más]</a>
         {% endif %}
       </div>
       {% endunless %}

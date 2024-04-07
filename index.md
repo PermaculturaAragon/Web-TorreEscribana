@@ -15,10 +15,13 @@ Pero no se trata solo de naturaleza; elementos como acequias, vallas y bioconstr
 
 En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y estamos emocionados de compartir este oasis de vida y sostenibilidad con vosotras.
 
+<a href="{{ '/proyecto ' | absolute_url  }}" class="button" type="button" >Descubre mucho más.  
+</a>
+<a href="{{ '/nosotras ' | absolute_url  }}" class="button" type="button" >Conoce a sus integrantes.  
+  </a>
+<a href="{{ '/diseno ' | absolute_url  }}" class="button" type="button" >Profundiza en su diseño.
+</a>
 
-[Descubre mucho más.](/proyecto/)  
-[Conoce a sus integrantes.](/nosotras/)  
-[Profundiza en su diseño.](/diseno/)
 
 ## ¿Qué es la Permacultura?
 
@@ -26,7 +29,8 @@ La Permacultura es un enfoque holístico para el diseño y la gestión de sistem
 
 En la Permacultura, se valora la diversidad, la interconexión y la resiliencia, se busca minimizar el desperdicio y maximizar el rendimiento del sistema. Es un enfoque integral que abarca áreas como la agricultura, la arquitectura, la energía, el agua, la economía y la comunidad que se centra en soluciones creativas y sostenibles para los desafíos contemporáneos.
 
-Para saber más [Permacultura Aragón](http://www.permaculturaaragon.org).
+Para saber más: <a href="{{ "http://www.permaculturaaragon.org" }}" class="button" type="button" target="_blank">Permacultura Aragón
+  </a>
 
 {% include home_events.html %}
 

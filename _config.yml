@@ -28,9 +28,8 @@ navbar-links:
   Visitas: "visitas"
   Agenda: "agenda"
   Blog:
-    - Artículos: "tags/#books" # TAG artículos
-    - Últimas noticias: "tags/#noticias" # TAG noticias
-    - Todos: "tags" # Todos
+    - Artículos: "blog" # TAG artículos
+    - Noticias: "tags/#noticias" # TAG noticias
   Contacto: "contacto"
 
   # Resources:
@@ -255,7 +254,7 @@ site-css:
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%e %h %G"
 
 # Facebook App ID
 #fb_app_id: ""
