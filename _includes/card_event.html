@@ -5,7 +5,7 @@
       <div class="secondary-text">{{ evento.formatted-date }}</div>
     </div>
     {% if evento.cover-img %}
-    <img src="{{ evento.cover-img }}" alt="" width="960" height="640">
+    <img src="{{ evento.cover-img | absolute_url }}" alt="" width="960" height="640">
     {% endif %}
   </div>
   <div class="actions">
