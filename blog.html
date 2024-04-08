@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+
 ---
 {% assign posts = paginator.posts | default: site.posts %}
 
@@ -35,17 +36,17 @@ title: Blog
       {% endif %}
 
       <a href="{{ post.url | absolute_url }}">
-        <h2 class="post-title">{{ post.title | strip_html }}</h2>
+        <h3 class="post-title">{{ post.title | strip_html }}</h3>
 
         {% if post.subtitle %}
-        <h3 class="post-subtitle">
+        <h5 class="post-subtitle">
           {{ post.subtitle | strip_html }}
-        </h3>
+        </h5>
         {% endif %}
       </a>
 
       {% if post.author %}
-      <span>Por <strong>{{ post.author | strip_html }}</strong></span>
+      <span>Por {{ post.author | strip_html }}</span>
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
