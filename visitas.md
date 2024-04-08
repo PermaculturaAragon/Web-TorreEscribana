@@ -24,8 +24,14 @@ Conocemos de primera mano la importancia de educar en la naturaleza. Nuestro pas
 {: .box-note}
 Contacta a través de éste formulario si quieres venir con alguna de las secciones de tu grupo. ENLACE A FORMULARIO ESPECIFICO SCOUT.
 
-![scouts1]({{ '/assets/img//visitas/scout1.png' | relative_url }})
-![scouts2]({{ '/assets/img//visitas/scout2.png' | relative_url }})
+
+
+<img class=img1 src="../assets/img//visitas/scout1.png"/>
+<img class=img1 src="../assets/img//visitas/scout2.png"/>
+
+
+
+
 
 
 ##### - Jornadas y talleres

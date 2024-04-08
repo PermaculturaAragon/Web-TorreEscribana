@@ -5,8 +5,23 @@ subtitle: Explora la esencia y los rincones de Torre Escribana
 permalink: /proyecto/
 ---
 
-A lo largo de los años, Torre Escribana ha experimentado cambios significativos, reflejando la naturaleza dinámica y en constante evolución del proyecto. Entre estos cambios se encuentran las salidas de algunas personas que, por diversas razones, han decidido seguir diferentes caminos.
 
-Durante su tiempo en Torre Escribana, [Nombre de la(s) Persona(s)] contribuyeron al proyecto con su energía y talento, dejando una marca única en nuestra historia. Si bien apreciamos sus contribuciones, reconocemos que los proyectos y las circunstancias personales evolucionan con el tiempo, y que las decisiones individuales forman parte de ese proceso.
-
-Al despedirnos de quienes han elegido partir, damos la bienvenida a nuevas oportunidades y perspectivas que surgen en el camino. La comunidad de Torre Escribana continúa creciendo y cambiando, adaptándose a los desafíos y abrazando nuevas posibilidades mientras avanzamos hacia el futuro.
+<section class="principal">
+      <!-- PRIMER EJEMPLO  -->
+      <div class="zoom-basico">
+        <img src="..\assets\img\proyecto\calabazas.jpg" alt="" />
+      </div>
+      <!-- SEGUNDO EJEMPLO  -->
+      <div class="zoom-rotacion">
+        <img src="..\assets\img\proyecto\lombrices.jpg" />
+      </div>
+      <!-- TERCER EJEMPLO  -->
+      <div class="zoom-vertical">
+        <img src="..\assets\img\proyecto\casaarbol.jpg" alt="" />
+      </div>
+      <!-- BONUS  -->
+      <div class="zoom-color">
+        <img src="..\assets\img\proyecto\libros.jpg" alt="" />
+      </div>    
+    </section>
+    
