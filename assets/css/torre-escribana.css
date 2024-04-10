@@ -6,14 +6,24 @@
   font-weight: 900;
 }
 
-.logo-home {
-  background-image: url(/img/path.jpg);
-  background-image: url(/img/path.jpg),
-    linear-gradient(to left, #d13531, rgba(0, 0, 0, 0) 95%);
+.navbar-brand img {
+  height: 80px;
+  box-shadow: none;
+  margin: -70px 0;
+  -webkit-transition: 0.5s ease-in-out;
+  -moz-transition: 0.5s ease-in-out;
+  -o-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
 }
 
-.logo-home img {
-  max-width: 300px;
+.top-nav-short .navbar-brand img {
+  height: 50px;
+}
+
+body {
+  background-image: url("../img/bg-torreescribana.png");
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 img {
@@ -627,40 +637,36 @@ h6 {
   }
 }
 
-
 @keyframes show {
-	from {
-		opacity: 0;
-		scale: 25%;
-	}
+  from {
+    opacity: 0;
+    scale: 25%;
+  }
 
-	to {
-		opacity: 1;
-		scale: 100%;
-	}
+  to {
+    opacity: 1;
+    scale: 100%;
+  }
 }
 
 /* Para que las imagenes se aparezcan   */
 .img1 {
-	view-timeline-name: --image;
-	view-timeline-axis: block;
+  view-timeline-name: --image;
+  view-timeline-axis: block;
 
-	animation-timeline: --image;
-	animation-name: show;
+  animation-timeline: --image;
+  animation-name: show;
 
-	animation-range: entry 25% cover 50%;
-	animation-fill-mode: both;
+  animation-range: entry 25% cover 50%;
+  animation-fill-mode: both;
 }
 
 /* Para la imagen del logo de telegram  */
 .img2 {
-  
   width: 100px;
   height: 100px;
   object-fit: cover;
 }
-
-
 
 /* LA SECCION PRINCIPAL PARA ORGANIZAR LAS IMAGENES  */
 .principal {
