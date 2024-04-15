@@ -36,17 +36,9 @@ Para saber más: <a href="{{ "http://www.permaculturaaragon.org" }}" class="butt
 
 {% include home_events.html %}
 
-## Blog
 
-ULTIMOS 3 ARTICULOS
+{% include home_posts.html %}
 
-ENLACE AL BLOG
-
-## Noticias
-
-ULTIMAS 3 NOTICIAS
-
-ENLACE A TODAS LAS NOTICIAS
 
 ## Visita Torre escribana
 
@@ -61,10 +53,11 @@ Si quieres visitar el proyecto [AQUI](/visitas/) te explicamos como puedes hacer
 ## Proyectos amigos
 
 <div class="zoom-basico">
-  <a href="http://www.permaculturaaragon.org/">  
+  <a href="http://www.permaculturaaragon.org/" target=_blank>  
     <img class="img2"
       src="..\assets\img\links\permacultura-aragon-logo.png"
        />      
+       
 </a>
 </div>
 

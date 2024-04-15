@@ -3,6 +3,7 @@ layout: post
 title: ¿Que es un bosque comestible?
 subtitle: El edén en tu jardín
 tags: 
+portada: true
 comments: true
 thumbnail-img: /assets/img//posts/bosque1.jpg
 author: Escuín

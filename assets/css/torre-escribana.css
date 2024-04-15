@@ -663,8 +663,8 @@ h6 {
 
 /* Para la imagen del logo de telegram  */
 .img2 {
-  width: 100%;
-  height: 100px;
+  width: 300px;
+  aspect-ratio: auto;
   object-fit: cover;
 }
 
