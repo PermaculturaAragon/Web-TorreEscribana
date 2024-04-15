@@ -5,6 +5,7 @@ subtitle: El edén en tu jardín
 tags: 
 portada: true
 comments: true
+cover-img: /assets/img//posts/bosque1.jpg
 thumbnail-img: /assets/img//posts/bosque1.jpg
 author: Escuín
 ---
