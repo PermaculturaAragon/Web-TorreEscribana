@@ -5,6 +5,8 @@ subtitle: Un proyecto viviencial basado en la Permacultura
 cover-img: /assets/img/index/abeja.jpg
 ---
 
+<link rel="icon" href="..\assets\img\favicon.png" type="image/x-icon">
+
 Torre Escribana, una finca situada en la fértil zona de huerta cerca de Zaragoza y regada por las aguas del río Gállego, está diseñada con principios permaculturales para albergar y fomentar la vida en todas sus formas. Inspirada por la naturaleza, la finca busca ser un modelo de sostenibilidad y responsabilidad ambiental, ofreciendo inspiración a aquellos que desean vivir de manera más consciente. A través de la aplicación de patrones naturales, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
 
 ## ¿Qué hay en Torre Escribana?
@@ -58,4 +60,11 @@ Si quieres visitar el proyecto [AQUI](/visitas/) te explicamos como puedes hacer
 
 ## Proyectos amigos
 
-links a enlaces de interes
+<div class="zoom-basico">
+  <a href="http://www.permaculturaaragon.org/">  
+    <img class="img2"
+      src="..\assets\img\links\permacultura-aragon-logo.png"
+       />      
+</a>
+</div>
+
