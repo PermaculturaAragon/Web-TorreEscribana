@@ -13,7 +13,7 @@
 title: Torre <strong>Escribana</strong>
 
 # Your name to show in the footer
-author: Escuin
+author: Escuín
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -140,14 +140,14 @@ navbar-var-length: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#eaeaeaaf"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#84bb2e"
-footer-col: "#EAEAEA"
+footer-col: "#eaeaeaaf"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#84bb2e"
@@ -156,7 +156,7 @@ footer-hover-col: "#84bb2e"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+# footer-img: "/assets/img/carton1.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.

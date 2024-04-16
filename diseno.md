@@ -2,7 +2,7 @@
 layout: page
 title: ¿Cómo está diseñada?
 subtitle: Pasos hacia la Sostenibilidad, Explora Nuestro Diseño.
-cover-img: /assets/img//otros/hotelinsectos.jpg
+cover-img: /assets/img/proyecto/realtime2.png
 ---
 
 

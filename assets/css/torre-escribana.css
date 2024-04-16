@@ -21,8 +21,9 @@
 }
 
 body {
-  background-image: url("../img/bg-torreescribana.png");
-  background-repeat: no-repeat;
+  background-image: url("../img/fondo.jpg");
+  background-repeat: repeat;
+  background-position: right;
   min-height: 100vh;
 }
 
@@ -31,24 +32,6 @@ img {
     rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
   border-radius: 0.3125rem;
   margin-bottom: 1rem;
-}
-
-.card {
-  background-color: #fff;
-  -moz-border-radius: 4px;
-  -webkit-border-radius: 4px;
-  border-radius: 4px;
-  -moz-box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
-    0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
-  -webkit-box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
-    0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
-  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14),
-    0 1px 5px 0 rgba(0, 0, 0, 0.12);
-  color: rgba(0, 0, 0, 0.87);
-  margin: 8px;
-  min-width: 290px;
-  overflow: hidden;
-  position: relative;
 }
 
 .media {
@@ -116,14 +99,23 @@ textarea {
   float: left;
   padding: 0 0.5%;
 }
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 h1 {
+  font-family:  "Lilita One", sans-serif;
   font-size: 96px;
   font-weight: 300;
   letter-spacing: -1.5px;
 }
 h2 {
-  font-size: 60px;
-  font-weight: 300;
+  font-family:  "Lilita One", sans-serif;
+  font-size: 40px;
+  font-weight: 200;
   letter-spacing: -0.5px;
 }
 h3 {
@@ -279,7 +271,7 @@ h6 {
   height: 24px;
 }
 .card {
-  background-color: #fff;
+  background-color: #ffffffd7;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -724,3 +716,6 @@ img {
   transition: transform 0.5s, filter 1s ease-in-out;
   filter: grayscale(100%);
 }
+
+
+

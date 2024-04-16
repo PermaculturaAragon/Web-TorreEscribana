@@ -10,11 +10,18 @@
   </div>
    <div class="actions">
     <div class="action-buttons">
-      <a href="{{ evento.url | absolute_url }}" class="button" type="button">{% if evento.inscription %}
+      <a href="{{ evento.url | absolute_url }}" class="button" type="button">
+
+        {% if evento.inscription %}
         inscríbete
+        {% elsif evento.layout == "post" %}
+        Leer más
         {% else %}
         ver detalles
         {% endif %}
+
+
+        
       </a>
     
     </div>
