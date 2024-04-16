@@ -34,6 +34,8 @@ img {
   margin-bottom: 1rem;
 }
 
+link { color: #FF0000; }
+
 .media {
   position: relative;
 }
@@ -657,7 +659,7 @@ h6 {
 .img2 {
   width: 300px;
   aspect-ratio: auto;
-  object-fit: cover;
+  
 }
 
 /* LA SECCION PRINCIPAL PARA ORGANIZAR LAS IMAGENES  */

@@ -53,7 +53,7 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-  color: {{ site.link-col | default: "#008AFF" }};
+  color: {{ site.link-col | default: "#86c742" }};
 }
 a:hover,
 a:focus {
@@ -385,7 +385,7 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 1px #EAEAEA solid;
+  border-top: 1px #eaeaeada solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
@@ -1093,3 +1093,5 @@ pre {
     display: inline-block;
   }
 }
+
+
