@@ -1,10 +1,22 @@
 ---
 layout: page
-title: ¿Qué es Torre Escribana?
+title: ¿Qué hay en Torre Escribana?
 subtitle: Explora la esencia y los rincones de Torre Escribana
 permalink: /proyecto/
 ---
 
+Multitud de elementos y seres vivos conviven dándose apoyo mutuo en el sistema Torre Escribana.
+
+
+
+{% include home_design.html %}
+
+
+
+
+
+
+ejemplos de efectos
 
 <section class="principal">
       <!-- PRIMER EJEMPLO  -->

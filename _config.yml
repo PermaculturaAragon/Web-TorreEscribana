@@ -291,6 +291,8 @@ defaults:
       type: "agenda"
     values:
       layout: "evento"
+      
+  
 
 future: true
 
@@ -313,5 +315,10 @@ plugins:
 
 collections:
   agenda:
+    output: true
+    permalink: /:collection/:path/
+
+    collections:
+  disenos:
     output: true
     permalink: /:collection/:path/

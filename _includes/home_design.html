@@ -1,0 +1,12 @@
+{% assign designs = site.disenos %}
+
+
+<div class="container-fluid">
+  <div class="row">
+    {% for design in designs %}
+    <div class="col-10 col-lg-6">
+      {% include card_design.html %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
