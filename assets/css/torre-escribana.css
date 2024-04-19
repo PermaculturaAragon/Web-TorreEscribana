@@ -4,7 +4,7 @@
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
-   font-family: "Averia Serif Libre", 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-family:  'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-style: bold;
 
   {% if site.navbar-img %}
@@ -87,6 +87,7 @@ html {
 }
 body {
   font-family: Roboto, sans-serif;
+  
 }
 hr {
   background-color: rgba(0, 0, 0, 0.12);
@@ -116,51 +117,15 @@ textarea {
   padding: 0 0.5%;
 }
 
-.averia-serif-libre-light {
-  font-family: "Averia Serif Libre", serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.averia-serif-libre-regular {
-  font-family: "Averia Serif Libre", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.averia-serif-libre-bold {
-  font-family: "Averia Serif Libre", serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.averia-serif-libre-light-italic {
-  font-family: "Averia Serif Libre", serif;
-  font-weight: 300;
-  font-style: italic;
-}
-
-.averia-serif-libre-regular-italic {
-  font-family: "Averia Serif Libre", serif;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.averia-serif-libre-bold-italic {
-  font-family: "Averia Serif Libre", serif;
-  font-weight: 700;
-  font-style: italic;
-}
-
 
 h1 {
-  font-family:  "Averia Serif Libre", serif;
+  font-family:  Roboto, sans-serif;
   font-size: 96px;
   font-weight: 300;
   letter-spacing: -1.5px;
 }
 h2 {
-  font-family:  "Averia Serif Libre", sans-serif;
+  font-family:  Roboto , sans-serif;
   font-size: 40px;
   font-weight: 200;
   letter-spacing: -0.5px;
