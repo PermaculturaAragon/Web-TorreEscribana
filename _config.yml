@@ -42,14 +42,13 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/torre-escribana_logo.png"
+avatar: "/assets/img/torre-escribana_logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
-
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/logonuevo2.png"
 
 #####################################
 # --- Footer social media links --- #
@@ -92,7 +91,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Web sobre el proyecto vivencial Torre Escribana
 
 ###########################
 # --- General options --- #
@@ -156,7 +155,7 @@ footer-hover-col: "#84bb2e"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-# footer-img: "/assets/img/carton1.png"
+#footer-img: "/assets/img/carton1.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
