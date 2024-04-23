@@ -119,21 +119,24 @@ textarea {
 
 
 h1 {
-  font-family:  Roboto, sans-serif;
+  font-family:  "escribana", Roboto, sans-serif;
   font-size: 96px;
   font-weight: 300;
-  letter-spacing: -1.5px;
+  letter-spacing: 1.5px;
 }
 h2 {
-  font-family:  Roboto , sans-serif;
+  font-family:  "escribana", Roboto , sans-serif;
   font-size: 40px;
   font-weight: 200;
-  letter-spacing: -0.5px;
+  letter-spacing: 1.5px;
+ 
 }
 h3 {
+  font-family:  "escribana", Roboto , sans-serif;
   font-size: 48px;
   font-weight: 400;
   letter-spacing: 0;
+  letter-spacing: 1.5px;
 }
 h4 {
   font-size: 34px;
@@ -730,3 +733,9 @@ img {
 }
 
 
+@font-face {
+  font-family: 'Escribana';
+  src: url('../fonts/EscribanaFont.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
