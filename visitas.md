@@ -2,6 +2,7 @@
 layout: page
 title: Visitas
 subtitle: Conoce Torre Escribana
+cover-img: assets\img\visitas\bulgaros.jpg
 ---
 
 {: .box-success}
@@ -10,7 +11,7 @@ subtitle: Conoce Torre Escribana
 ¡Bienvenido a la sección de Visitas de Torre Escribana! El proyecto está vivo y en constante evolución, y estamos encantados de compartir este viaje con vosotras. Cada visita nos brinda la oportunidad de aprender y crecer juntos.
 
 
-## Diferentes tipos de visitas.
+## ¿Cómo vas a visitarnos?
 Explora nuestras opciones de visita a continuación y únete a nosotras en esta emocionante aventura hacia un futuro más verde y consciente. ¡Esperamos conocerte pronto en Torre Escribana!"
 
 

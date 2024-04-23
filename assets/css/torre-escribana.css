@@ -488,7 +488,9 @@ h1 {
   transform: translate(0, -50%);
 }
 .primary-text {
-  font-size: 24px;
+  font-size: 30px;
+  font-family:'escribana';
+  text-shadow: 2px 2px 4px black;
 }
 .primary-text + .secondary-text,
 .secondary-text + .primary-text,
