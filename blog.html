@@ -7,7 +7,10 @@ subtitle: prueba de subtitulo
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
+
+  
   {% for post in posts %}
+
   <li class="post-preview">
     <article>
 
@@ -96,7 +99,9 @@ subtitle: prueba de subtitulo
 
     </article>
   </li>
-  {% endfor %}
+
+
+  {%- endfor -%}
 </ul>
 
 {% if paginator.total_pages > 1 %}

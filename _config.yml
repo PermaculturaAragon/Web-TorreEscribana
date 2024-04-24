@@ -27,10 +27,13 @@ navbar-links:
     - Quienes Somos: "nosotras"
   Visitas: "visitas"
   Agenda: "agenda"
-  Blog:
-    - Artículos: "blog" # TAG artículos
-    - Noticias: "tags/#noticias" # TAG noticias
+  Noticias: "Noticias"
   Contacto: "contacto"
+
+  # PARA CUANDO HAYA BLOG
+  #Blog:
+  # - Artículos: "blog" # TAG artículos
+  # - Noticias: "tags/#noticias" # TAG noticias
 
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"

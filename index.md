@@ -37,7 +37,7 @@ Para saber más: <a href="{{ "http://www.permaculturaaragon.org" }}" class="butt
 {% include home_events.html %}
 
 
-{% include home_posts.html %}
+<!-- {% include home_posts.html %} -->
 
 
 ## Visita Torre escribana
