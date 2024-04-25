@@ -1,7 +1,7 @@
 ---
-title:  Rumiantes
+title:  Aves
 subtitle: Estamos trabajando en ello.
-cover-img: /assets\img\otros\cabra.jpg
+cover-img: /assets\img\otros\patitos.jpg
 
 
 ---
