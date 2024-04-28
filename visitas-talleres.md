@@ -2,7 +2,7 @@
 layout: page
 title: Jornadas y Talleres
 subtitle: Conoce Torre Escribana mientras aprendes
-cover-img: assets\img\proyecto\herramientas.jpg
+cover-img: ..\assets\img\proyecto\herramientas.jpg
 ---
 
 

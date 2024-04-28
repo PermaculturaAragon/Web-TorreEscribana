@@ -3,7 +3,7 @@ layout: page
 title: ¿Qué hay en Torre Escribana?
 subtitle: Explora la esencia y los rincones de Torre Escribana
 permalink: /proyecto/
-cover-img: assets\img\index\almendro.jpg
+cover-img: ..\assets\img\index\almendro.jpg
 ---
 
 Multitud de elementos y seres vivos conviven dándose apoyo mutuo en el sistema Torre Escribana.
