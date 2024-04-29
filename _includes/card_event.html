@@ -1,11 +1,12 @@
 <div class="card">
   <div class="media media--16-9">
+    <div class="zoom-basico">
     <div class="primary-title">
       <div class="primary-text">{{ evento.title }}</div>
       <div class="secondary-text">{{ evento.formatted-date }}</div>
     </div>
     {% if evento.cover-img %}
-    <div class="zoom-basico">
+   
     <img src="{{ evento.cover-img | absolute_url }}" alt="" width="960" height="640">
     {% endif %}
   </div>

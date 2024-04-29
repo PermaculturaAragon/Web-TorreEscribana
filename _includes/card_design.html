@@ -2,11 +2,12 @@
 <a href="{{ design.url | absolute_url }}" >
 <div class="card">
   <div class="media media--4-3">
+    <div class="zoom-basico">
     <div class="primary-title">
       <div class="primary-text">{{ design.title }}</div>
     </div>
     {% if design.cover-img %}
-    <div class="zoom-basico">
+    
     <img src="{{ design.cover-img | absolute_url }}" alt="" width="960" height="640">
     {% endif %}
   </div>

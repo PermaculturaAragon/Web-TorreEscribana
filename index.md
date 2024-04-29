@@ -56,7 +56,7 @@ Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><stro
 <div class="zoom-basico">
   <a href="http://www.permaculturaaragon.org/" target=_blank>  
     <img class="img2"
-      src="/assets/img/links/permacultura-aragon-logo.png" alt="www.permaculturaaragon.org"
+      src="../assets/img/links/permacultura-aragon-logo.png" alt="www.permaculturaaragon.org"
        />      
        
 </a>
