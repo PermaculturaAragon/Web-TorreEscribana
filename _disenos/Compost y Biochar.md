@@ -1,7 +1,7 @@
 ---
 title:  Compost y Biochar
 subtitle: Estamos trabajando en ello.
-cover-img: /assets\img\proyecto\lombrices.jpg
+cover-img: /assets/img/proyecto/lombrices.jpg
 
 
 ---

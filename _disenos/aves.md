@@ -1,7 +1,7 @@
 ---
 title:  Aves
 subtitle: Estamos trabajando en ello.
-cover-img: /assets\img\otros\patitos.jpg
+cover-img: /assets/img/otros/patitos.jpg
 
 
 ---

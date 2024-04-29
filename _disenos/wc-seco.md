@@ -1,7 +1,7 @@
 ---
 title:  Wc Seco
 subtitle: Estamos trabajando en ello.
-cover-img: /assets\img\proyecto\wc-seco.jpg
+cover-img: /assets/img/proyecto/wc-seco.jpg
 
 ---
 
