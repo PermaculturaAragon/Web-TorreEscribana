@@ -6,9 +6,8 @@ cover-img: /assets/img/proyecto/herramientas.jpg
 ---
 
 
-Una forma de visitar Torre Escribana es aprovechar las jornadas colaborativas, los talleres y cursos formativos que se realizan aquí. Para estar informada de los mismos aprovecha para Suscribirte al Canal de **[TELEGRAM](https://t.me/torreescribana)** o visitando regularmente la **[AGENDA](/agenda/)**
-
-
+Una forma de visitar Torre Escribana es aprovechar las jornadas colaborativas, los talleres y cursos formativos que se realizan aquí. Para estar informada de los mismos aprovecha para Suscribirte al Canal de **[TELEGRAM](https://t.me/torreescribana)** o visitando regularmente la <a href="{{ '/agenda ' | absolute_url  }}"><strong>AGENDA</strong>
+</a>
 
 
 {% assign eventos = site.agenda | sort: "start-date" | reverse  %}

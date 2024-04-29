@@ -35,23 +35,28 @@ Para saber más: <a href="{{ "http://www.permaculturaaragon.org" }}" class="butt
 
 <!-- {% include home_posts.html %} -->
 
-
+<br>
 ## Visita Torre escribana
 
 Es posible visitar Torre Escribana de diferentes maneras y estaremos encantadas de abrir nuestras puertas para compartir con vosotras nuestras experiencias, pero es importante saber que es **nuestro hogar, nuestra"cueva"**. Es allí donde vivimos las alegrías y penas familiares y donde hacemos nuestra vida día tras día.
 
-Si quieres visitar el proyecto [AQUI](/visitas/) te explicamos como puedes hacerlo. Consulta además la [agenda](/agenda/) de Torre Escribana para comprobar si se acerca una jornada colaborativa o día de puertas abiertas.
+Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><strong>AQUÍ</strong>
+</a> te explicamos como puedes hacerlo. Consulta además la <a href="{{ '/agenda ' | absolute_url  }}"><strong>AGENDA</strong>
+</a> de Torre Escribana para comprobar si se acerca una jornada colaborativa o día de puertas abiertas.
 
 ## Contacto
 
-[Contacto](/contacto/)
+
+<a href="{{ '/contacto' | absolute_url  }}"><strong>CONTACTO</strong>
+</a>
+
 
 ## Proyectos amigos
 
 <div class="zoom-basico">
   <a href="http://www.permaculturaaragon.org/" target=_blank>  
     <img class="img2"
-      src="..\assets\img\links\permacultura-aragon-logo.png" alt="www.permaculturaaragon.org"
+      src="/assets/img/links/permacultura-aragon-logo.png" alt="www.permaculturaaragon.org"
        />      
        
 </a>
