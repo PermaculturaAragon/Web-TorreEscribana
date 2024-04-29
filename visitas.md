@@ -2,7 +2,7 @@
 layout: page
 title: Visitas
 subtitle: Conoce Torre Escribana
-cover-img: assets\img\visitas\bulgaros.jpg
+cover-img: /assets/img/visitas/bulgaros.jpg
 ---
 
 {: .box-success}
