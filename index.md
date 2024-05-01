@@ -20,6 +20,7 @@ En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y es
 <a href="{{ '/diseno ' | absolute_url  }}" class="button" type="button" >Profundiza en su diseño.
 </a>
 
+<hr>
 
 ## ¿Qué es la Permacultura?
 
@@ -29,13 +30,13 @@ En la Permacultura, se valora la diversidad, la interconexión y la resiliencia,
 
 Para saber más: <a href="{{ "http://www.permaculturaaragon.org" }}" class="button" type="button" target="_blank">Permacultura Aragón
   </a>
-
+<hr> 
 {% include home_events.html %}
 
 
 <!-- {% include home_posts.html %} -->
-
 <br>
+<hr> 
 ## Visita Torre escribana
 
 Es posible visitar Torre Escribana de diferentes maneras y estaremos encantadas de abrir nuestras puertas para compartir con vosotras nuestras experiencias, pero es importante saber que es **nuestro hogar, nuestra"cueva"**. Es allí donde vivimos las alegrías y penas familiares y donde hacemos nuestra vida día tras día.

@@ -14,16 +14,23 @@ cover-img: /assets/img/visitas/bulgaros.jpg
 ## ¿Cómo vas a visitarnos?
 Explora nuestras opciones de visita a continuación y únete a nosotras en esta emocionante aventura hacia un futuro más verde y consciente. ¡Esperamos conocerte pronto en <span class="letralogo"> Torre Escribana. </span>!
 
-<a href="{{ '/visitas-educa ' | absolute_url  }}" class="button" type="button" >Centros Educativos
+
+
+<a href="{{ '/visitas-educa ' | absolute_url  }}"  ><button>Centros Educativos</button>
 </a>
 
-<a href="{{ '/visitas-individual ' | absolute_url  }}" class="button" type="button" >Visitas Personalizadas
+
+
+
+
+
+<a href="{{ '/visitas-individual ' | absolute_url  }}" ><button>Visitas Personalizadas</button>
 </a>
 
-<a href="{{ '/visitas-scouts ' | absolute_url  }}" class="button" type="button" >Scouts, Guías y Tiempo Libre
+<a href="{{ '/visitas-scouts ' | absolute_url  }}"  ><button>Scouts, Guías y Tiempo Libre</button>
 </a>
 
-<a href="{{ '/visitas-talleres ' | absolute_url  }}" class="button" type="button" >Jornadas y Talleres
+<a href="{{ '/visitas-talleres ' | absolute_url  }}"  ><button>Jornadas y Talleres</button>
 </a>
 
 
