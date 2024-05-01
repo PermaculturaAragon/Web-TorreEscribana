@@ -705,10 +705,22 @@ img {
   filter: grayscale(100%);
 }
 
+.letralogo {
+font-family: 'Escribana';
+}
+
 
 @font-face {
   font-family: 'Escribana';
   src: url('../fonts/EscribanaFont.otf') format('truetype');
   font-style: normal;
   font-weight: normal;
+}
+
+.card-design .primary-title {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
 }

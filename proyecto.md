@@ -5,7 +5,8 @@ subtitle: Explora la esencia y los rincones de Torre Escribana
 permalink: /proyecto/
 cover-img: /assets/img/index/almendro.jpg
 ---
-Multitud de elementos y seres vivos conviven dándose apoyo mutuo en el sistema Torre Escribana.
+
+<p>Aquí puedes descubrir un poquito más de todos los elementos y que conforman  <span class="letralogo"> Torre Escribana. </span></p>
 
 {% include home_design.html %}
 
