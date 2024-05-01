@@ -13,7 +13,7 @@ subtitle: Conoce Torre Escribana
 <p>Recientemente hemos tenido la oportunidad de sumarnos a <a href="https://elcaminoess.com//" target="_blank">El CAMINO ESS</a>. Iniciativa que surge como una propuesta turística alternativa a través de <b>experiencias sostenibles y responsables</b> en Cataluña, Aragón, La Rioja, Castilla y León y Galicia.</p> 
 
 
-Como descubrir todos los elementos que hay en Torre Escribana es imposible en una sola visita, esta experiencia te permite elegir de un menú en función de lo que más te interese o te llame la atención. **¡Crea tu propia visita!**
+Como descubrir todos los elementos que hay en <span class="letralogo"> Torre Escribana. </span> es imposible en una sola visita, esta experiencia te permite elegir de un menú en función de lo que más te interese o te llame la atención. **¡Crea tu propia visita!**
 
 #### Menú de visita
 1. ###### Aperitivos fijos  
