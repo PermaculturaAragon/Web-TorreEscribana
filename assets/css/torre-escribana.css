@@ -244,6 +244,7 @@ h1 {
   color: rgba(0, 0, 0, 0.54);
 }
 .actions {
+  background-color: #467c28;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -251,6 +252,7 @@ h1 {
   padding: 8px;
   position: relative;
   z-index: 1;
+  text-align: center;
 }
 .divider {
   display: block;
@@ -643,6 +645,7 @@ h1 {
 
 /* Para la imagen del logo de telegram  */
 .img2 {
+  
   width: 300px;
   aspect-ratio: auto;
   
@@ -676,6 +679,7 @@ img {
 
 .zoom-basico img {
   transition: transform 0.5s ease-in-out;
+  
 }
 /* EFECTO ZOOM CON ROTACION  */
 .zoom-rotacion:hover img {
@@ -728,16 +732,17 @@ font-size:larger;
 
 
 button{
-  background:#73c247;
+  background:#467c28;
   color:#fff;
   border:none;
   position:relative;
-  height:60px;
-  font-size:1.6em;
+  height:40px;
+  font-size:1.2em;
   padding:0 2em;
   cursor:pointer;
   transition:800ms ease all;
   outline:none;
+  width: 100%;
 }
 button:hover{
   background:#fff;
@@ -750,7 +755,7 @@ button:before,button:after{
   right:0;
   height:2px;
   width:0;
-  background: #73c247;
+  background: #548f34;
   transition:400ms ease all;
 }
 button:after{
@@ -767,4 +772,8 @@ button:hover:before,button:hover:after{
 hr {
   height: 5px;
   background-color:#b6ce16;
+}
+
+a {
+  color:#265510
 }

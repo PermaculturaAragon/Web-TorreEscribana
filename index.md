@@ -13,12 +13,13 @@ Diferentes elementos interconectados y las dinámicas que manejan dichos element
 
 En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y estamos emocionados de abrir y compartir este oasis de vida y sostenibilidad con vosotras.
 
-<a href="{{ '/proyecto ' | absolute_url  }}" class="button" type="button" >Descubre mucho más.  
-</a>
-<a href="{{ '/nosotras ' | absolute_url  }}" class="button" type="button" >Conoce a sus integrantes.  
-  </a>
-<a href="{{ '/diseno ' | absolute_url  }}" class="button" type="button" >Profundiza en su diseño.
-</a>
+
+
+<a href="{{ '/proyecto ' | absolute_url  }}" ><button>Descubre mucho más</button>   </a>
+
+<a href="{{ '/nosotras ' | absolute_url  }}" ><button>Conoce a sus integrantes</button>   </a>
+
+<a href="{{ '/diseno ' | absolute_url  }}" ><button>Profundiza en su diseño</button>   </a>
 
 <hr>
 

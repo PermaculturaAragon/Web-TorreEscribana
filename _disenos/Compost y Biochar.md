@@ -1,5 +1,5 @@
 ---
-title:  Compost y Biochar y un monton de cositas mas
+title:  Compost y Biochar
 subtitle: Estamos trabajando en ello.
 cover-img: /assets/img/proyecto/lombrices.jpg
 
