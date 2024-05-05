@@ -2,7 +2,7 @@
 layout: home
 title: Torre Escribana
 subtitle: Un proyecto viviencial basado en la Permacultura
-cover-img: /assets/img/index/abeja.jpg
+cover-img: /assets/img/index/dron1.jpg 
 ---
 
 <link rel="icon" href="..\assets\img\favicon.png" type="image/x-icon">

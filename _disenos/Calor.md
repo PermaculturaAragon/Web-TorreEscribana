@@ -1,7 +1,7 @@
 ---
 title:  Calor
 subtitle: Estamos trabajando en ello.
-cover-img: /assets/img/otros/tejas.jpg
+cover-img: /assets/img/proyecto/biochar.jpg
 
 
 ---
