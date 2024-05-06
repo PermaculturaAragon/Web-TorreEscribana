@@ -733,9 +733,9 @@ font-size:larger;
 
 
 button{
-  border-radius: 8px;
-  background:#467c28;
-  color:#fff;
+
+  background:linear-gradient(70deg, rgb(29, 150, 65), 10%, rgb(141, 219, 15));;
+  color:#000000;
   border:none;
   position:relative;
   height:40px;
@@ -749,7 +749,7 @@ button{
 button:hover{
  
   background:#fff;
-  color:#73c247;
+  color:#404040;
 }
 button:before,button:after{
 
@@ -759,7 +759,7 @@ button:before,button:after{
   right:0;
   height:2px;
   width:0;
-  background: #548f34;
+  background: #b6ce16;
   transition:400ms ease all;
 }
 button:after{

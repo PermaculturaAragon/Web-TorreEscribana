@@ -2,6 +2,7 @@
 layout: page
 title: Visitas de Centros Educativos
 subtitle: Una experiencia diferente
+cover-img: /assets/img/visitas/educativos.jpg
 ---
 
 Próximamente más información sobre visitas de Centros Educativos.

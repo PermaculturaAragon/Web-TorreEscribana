@@ -21,7 +21,7 @@ author: Escuín
 
 navbar-links:
   Inicio: "index"
-  Proyecto:
+  Proyecto: 
     - Descúbre: "proyecto"
     - Diseño: "diseno"
     - Quienes Somos: "nosotras"

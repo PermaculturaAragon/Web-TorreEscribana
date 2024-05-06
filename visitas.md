@@ -5,10 +5,12 @@ subtitle: Conoce Torre Escribana
 cover-img: /assets/img/visitas/bulgaros.jpg
 ---
 
-{: .box-success}
-**Recuerda** que <span class="letralogo"> Torre Escribana. </span> además de un proyecto visitable es un **hogar privado.** Estaremos encantadas de recibirte si previamente hemos concretado el momento para ello.
 
 ¡Bienvenido a la sección de **Visitas** de <span class="letralogo"> Torre Escribana. </span>! El proyecto está vivo y en constante evolución, y estamos encantados de compartir este viaje con vosotras. Cada visita nos brinda la oportunidad de aprender y crecer juntos.
+
+
+{: .box-success}
+**Recuerda** que <span class="letralogo"> Torre Escribana. </span> además de un proyecto visitable es un **hogar privado.** Estaremos encantadas de recibirte si previamente hemos concretado el momento para ello.
 
 
 ## ¿Cómo vas a visitarnos?

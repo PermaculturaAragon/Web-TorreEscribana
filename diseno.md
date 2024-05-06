@@ -6,12 +6,12 @@ cover-img: /assets/img/proyecto/realtime2.png
 ---
 
 
-{: .box-note}
+{: .box-success}
 En esta página puedes ver un **pequeño resumen** del diseño de Torre Escribana. Está basado en el **SISTEMA GOBRADIMET** y en encuentra en constante **REDISEÑO.**
 
 
-<details>
-<summary>GOALS</summary>
+
+GOALS
 
 ###### - Misión, Visión y Objetivos
 
@@ -31,13 +31,10 @@ __Fomentar la conexión con la naturaleza:__ *Proporcionar un entorno natural do
 __Impulsar la participación comunitaria:__ *Facilitar oportunidades y espacios para que la comunidad se involucre en proyectos colaborativos, eventos y actividades que promuevan la regeneración y el bienestar colectivo.*  
 __Contribuir a la autosuficiencia alimentaria:__ *Cultivar alimentos orgánicos y saludables en la finca, promoviendo prácticas agrícolas resilientes y ofreciendo recursos para que las personas aprendan a cultivar sus propios alimentos de manera regenerativa.*
 
-</details>
 
-<details>
 
-<sumary>
 ## OBSERVACIÓN
-</sumary>
+
 Cuando en un diseño nos encontramos en la fase de Observación tendremos especial atención de plasmar solo los datos objetivos, sin llegar a evaluar, juzgar o analizarlos. Diferentes personas deberían realizar observaciones similares respecto a un mismo fenómeno o situación, ya que la observación se centra en capturar hechos y detalles concretos de manera imparcial y sin prejuicios. Esto garantiza una base sólida de información sobre la cual posteriormente se podrá realizar un análisis más detallado y riguroso. La observación a continuación se refiere a ese primer momento en 2015 cuando entramos por primera vez en la finca.
 
 Nos encontramos en una finca de 1ha en la zona de huerta protegida cercana a Zaragoza a escasos 2km de la ciudad.  El clima aquí es típicamente continental, con veranos calurosos donde llegamos a superar los 40º e inviernos fríos donde las heladas nocturnas son frecuentes, con variaciones estacionales cada vez menos marcadas en las que la primavera y el otoño tienden a acortarse. De media llueve sólo 300mm al año. (Ese "sólo" es un ejemplo claro de ANALISIS y no de OBSERVACIÓN.) 
@@ -49,7 +46,7 @@ Colinda con un ramal de la acequia Camarera que viene desde Ontinar de Sanz y po
 Al observar los sectores, ganamos una comprensión más profunda de la interacción entre nuestro sitio y su entorno circundante. Reconocemos las oportunidades que nos ofrecen los sectores favorables, como la captura de energía solar y la protección contra vientos fuertes. Del mismo modo, identificamos los desafíos que plantean los sectores desfavorables, como la exposición excesiva al sol o la posible exposición a herbicidas de vecinos.
 ![Sectores](..\assets\img\proyecto\sectores.jpg)
 
-</details>
+
 
 
 ## BORDES Y LÍMITES
@@ -123,6 +120,11 @@ Regularmente evaluamos el éxito y la efectividad del diseño permacultural en T
 Basándonos en los resultados de la evaluación, realizamos ajustes y modificaciones al diseño para optimizar su funcionamiento y adaptarlo a las cambiantes condiciones del entorno. Esto puede implicar cambios en la disposición de las plantas, la incorporación de nuevas tecnologías, la revisión de sistemas de gestión, o la expansión de áreas específicas. El tuneo continuo es parte integral del proceso de diseño permacultural, permitiendo una mejora constante.
 
 
+
+
+<a href="{{ '/proyecto ' | absolute_url  }}" ><button>Descubre mucho más</button>   </a>
+
+<a href="{{ '/nosotras ' | absolute_url  }}" ><button>Conoce a sus integrantes</button>   </a>
 
 
 
