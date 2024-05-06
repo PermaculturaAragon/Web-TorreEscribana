@@ -1,32 +1,39 @@
-<div class="card">
+{% assign dataEndDate = '' %}
+
+{% if evento.end-date %}
+{% assign dataEndDate = evento.end-date | date_to_xmlschema %}
+{% endif %}
+
+<div class="card" data-end="{{ dataEndDate }}">
+
   <div class="media media--16-9">
     <div class="zoom-basico">
-    <div class="primary-title">
-      <div class="primary-text">{{ evento.title }}</div>
-      <div class="secondary-text">{{ evento.formatted-date }}</div>
-    </div>
-    {% if evento.cover-img %}
-   
-    <img src="{{ evento.cover-img | absolute_url }}" alt="" width="960" height="640">
-    {% endif %}
-  </div>
-  </div>
-   <div class="actions">
-    <div class="action-buttons">
-      <a href="{{ evento.url | absolute_url }}" ><button>
+      <div class="primary-title">
+        <div class="primary-text">{{ evento.title }}</div>
+        <div class="secondary-text">{{ evento.formatted-date }}</div>
+      </div>
+      {% if evento.cover-img %}
 
-        {% if evento.inscription %}
-        inscríbete
-        {% elsif evento.layout == "post" %}
-        Leer más
-        {% else %}
-        ver detalles
-        {% endif %}
+      <img src="{{ evento.cover-img | absolute_url }}" alt="" width="960" height="640">
+      {% endif %}
+    </div>
+  </div>
+  <div class="actions">
+    <div class="action-buttons">
+      <a href="{{ evento.url | absolute_url }}"><button>
+
+          {% if evento.inscription %}
+          inscríbete
+          {% elsif evento.layout == "post" %}
+          Leer más
+          {% else %}
+          ver detalles
+          {% endif %}
 
 
         </button>
       </a>
-    
+
     </div>
   </div>
 </div>
