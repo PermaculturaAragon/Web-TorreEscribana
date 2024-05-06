@@ -16,15 +16,10 @@ Explora nuestras opciones de visita a continuación y únete a nosotras en esta 
 
 
 
-<a href="{{ '/visitas-educa ' | absolute_url  }}"  ><button>Centros Educativos</button>
+<a href="{{ '/visitas-individual ' | absolute_url  }}" ><button>Visitas Personalizadas</button>
 </a>
 
-
-
-
-
-
-<a href="{{ '/visitas-individual ' | absolute_url  }}" ><button>Visitas Personalizadas</button>
+<a href="{{ '/visitas-educa ' | absolute_url  }}"  ><button>Centros Educativos</button>
 </a>
 
 <a href="{{ '/visitas-scouts ' | absolute_url  }}"  ><button>Scouts, Guías y Tiempo Libre</button>

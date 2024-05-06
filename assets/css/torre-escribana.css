@@ -640,7 +640,7 @@ h1 {
   animation-timeline: --image;
   animation-name: show;
 
-  animation-range: entry 25% cover 50%;
+  animation-range: entry 10% cover 50%;
   animation-fill-mode: both;
 }
 
@@ -779,7 +779,8 @@ hr {
 }
 
 a {
-  color:#265510
+  color:#3b8519;
+  font-weight: bold;
 }
 
 .dropdown-toggle {

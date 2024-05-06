@@ -7,7 +7,7 @@ cover-img: /assets/img/index/dron1.jpg
 
 <link rel="icon" href="..\assets\img\favicon.png" type="image/x-icon">
 
-Torre Escribana es un **Centro Demostrativo de Permacultura** situado en la fértil zona de huerta cerca de **Zaragoza** y regado por las aguas del río Gállego, está diseñado para albergar y fomentar la vida en todas sus formas. Inspirada por la **naturaleza**, la finca busca ser un modelo de **sostenibilidad** y **responsabilidad ambiental y social**, ofreciendo inspiración a aquellos que desean vivir de manera más **consciente y autosuficiente**. A través de la aplicación de **patrones naturales**, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
+Torre Escribana está formada por dos viviendas y una finca de una hectárea. Prentede ser un **Centro Demostrativo de Permacultura** situado en la fértil zona de huerta cerca de **Zaragoza** y regado por las aguas del río Gállego, está diseñado para albergar y fomentar la vida en todas sus formas. Inspirada por la **naturaleza**, la finca busca ser un modelo de **sostenibilidad** y **responsabilidad ambiental y social**, ofreciendo inspiración a aquellos que desean vivir de manera más **consciente y autosuficiente**. A través de la aplicación de **patrones naturales**, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
 
 Diferentes elementos interconectados y las dinámicas que manejan dichos elementos componen el ecosistema de Torre Escribana. Intentamos cerrar todos los ciclos posibles de materia y energía con el objetivo en mente de generar incluso más de la que necesitamos para el funcionamiento. 
 
