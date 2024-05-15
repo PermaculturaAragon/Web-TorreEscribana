@@ -20,5 +20,5 @@ En éste taller práctico de 4 horas de duración os enseñaremos cómo lo fabri
 {: .box-success}
 Para pedir más información y preinscribirte escríbenos a **torre.escribana (arroba) gmail.com**
 
-<img class=img1 src="../assets/img/posts/biochar1.jpg"/>
+<img class=img1 src="/assets/img/posts/biochar1.jpg"/>
 <br>

@@ -29,7 +29,7 @@ La **Permacultura** es un enfoque holístico para el **diseño** y la gestión d
 
 En la Permacultura, se valora la diversidad, la interconexión y la resiliencia, se busca minimizar el desperdicio y maximizar el rendimiento del sistema. Es un **enfoque integral** que abarca áreas como la agricultura, la arquitectura, la energía, el agua, la economía y la comunidad que se centra en soluciones creativas y sostenibles para los desafíos contemporáneos.
 
-Para saber más: <a href="{{ "http://www.permaculturaaragon.org" }}" class="button" type="button" target="_blank">Permacultura Aragón
+Para saber más: <a href="{{ '/diseno ' | absolute_url  }}" class="button" type="button" target="_blank">Diseño de <span class="letralogo"> Torre Escribana. </span>
   </a>
 <hr> 
 {% include home_events.html %}
