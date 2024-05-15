@@ -797,3 +797,10 @@ a {
   filter: unset;
   opacity: 1;
 }
+
+.centrado {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+}

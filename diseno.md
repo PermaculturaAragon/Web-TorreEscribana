@@ -89,7 +89,6 @@ Podemos tener un impacto positivo sobre el cambio inevitable observándolo cuida
 
 
 
-<a href="{{ '/diseno ' | absolute_url  }}" ><button>Vuelve a DISEÑO</button>   </a>
 
 
 

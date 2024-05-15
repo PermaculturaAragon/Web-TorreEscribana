@@ -122,7 +122,7 @@ Basándonos en los resultados de la evaluación, realizamos ajustes y modificaci
 
 
 
-<a href="{{ '/proyecto ' | absolute_url  }}" ><button>Descubre mucho más</button>   </a>
+<a href="{{ '/proyecto ' | absolute_url  }}" ><button class="letralogo">Descubre mucho más</button>   </a>
 
 <a href="{{ '/nosotras ' | absolute_url  }}" ><button>Conoce a sus integrantes</button>   </a>
 

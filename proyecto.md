@@ -12,9 +12,9 @@ Aquí puedes descubrir un poquito más de todos los elementos que conforman  <sp
 
 
 
-<a href="{{ '/nosotras ' | absolute_url  }}" ><button>Conoce a sus integrantes</button>   </a>
+<a href="{{ '/nosotras ' | absolute_url  }}" ><button class="letralogo">Conoce a sus integrantes</button>   </a>
 
-<a href="{{ '/diseno ' | absolute_url  }}" ><button>Profundiza en su diseño</button>   </a>
+<a href="{{ '/diseno ' | absolute_url  }}" ><button class="letralogo">Profundiza en su diseño</button>   </a>
 
 
 

@@ -15,11 +15,11 @@ En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y es
 
 
 
-<a href="{{ '/proyecto ' | absolute_url  }}" ><button>Descubre mucho más</button>   </a>
+<a href="{{ '/proyecto ' | absolute_url  }}" ><button class="letralogo">Descubre mucho más</button>   </a>
 
-<a href="{{ '/nosotras ' | absolute_url  }}" ><button>Conoce a sus integrantes</button>   </a>
+<a href="{{ '/nosotras ' | absolute_url  }}" ><button class="letralogo">Conoce a sus integrantes</button>   </a>
 
-<a href="{{ '/diseno ' | absolute_url  }}" ><button>Profundiza en su diseño</button>   </a>
+<a href="{{ '/diseno ' | absolute_url  }}" ><button class="letralogo">Profundiza en su diseño</button>   </a>
 
 <hr>
 
@@ -46,21 +46,53 @@ Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><stro
 </a> te explicamos como puedes hacerlo. Consulta además la <a href="{{ '/agenda ' | absolute_url  }}"><strong>AGENDA</strong>
 </a> de Torre Escribana para comprobar si se acerca una jornada colaborativa o día de puertas abiertas.
 
-## Contacto
+<hr> 
 
+<div class="centrado">
 
-<a href="{{ '/contacto' | absolute_url  }}"><strong>CONTACTO</strong>
-</a>
+  <a href="https://www.instagram.com/torrescribana/" target=_blank>  
+    <img 
+      src="{{ '/assets/img/insta.png' | absolute_url  }}" alt="instagram @torrescribana"
+       />  
+           
+   </a>
+</div>
+
+<a href="{{ '/contacto ' | absolute_url  }}" ><button> <span class="letralogo"> Contáctanos</span></button>   </a>
 
 
 ## Proyectos amigos
+<div class="centrado">
+  <div class="zoom-basico">
+    <a href="http://www.permaculturaaragon.org/" target=_blank>  
+      <img class="img2"
+        src="{{ '/assets/img/links/permacultura-aragon-logo.png' | absolute_url  }}" alt="www.permaculturaaragon.org"/> 
+    </a>
+  </div>
 
-<div class="zoom-basico">
-  <a href="http://www.permaculturaaragon.org/" target=_blank>  
-    <img class="img2"
-      src="{{ '/assets/img/links/permacultura-aragon-logo.png' | absolute_url  }}" alt="www.permaculturaaragon.org"
-       />      
-       
-</a>
+
+  <div class="zoom-basico">
+    <a href="https://www.coopernat.com/" target=_blank>  
+      <img class="img2"
+        src="{{ '/assets/img/links/coopernat.png' | absolute_url  }}"  />      
+      </a>
+  </div>
+
+   <div class="zoom-basico">
+    <a href="https://www.instagram.com/pernatura/?hl=es" target=_blank>  
+      <img class="img2"
+        src="{{ '/assets/img/links/pernatura.png' | absolute_url  }}"  />      
+      </a>
+  </div>
+
+   <div class="zoom-basico">
+    <a href="https://academiapermaculturaibera.org/" target=_blank>  
+      <img class="img2"
+        src="{{ '/assets/img/links/academia.jpg' | absolute_url  }}"  />      
+      </a>
+  </div>
+
+  
+
 </div>
 
