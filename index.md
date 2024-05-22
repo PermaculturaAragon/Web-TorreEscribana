@@ -2,12 +2,14 @@
 layout: home
 title: Torre Escribana
 subtitle: Un proyecto viviencial basado en la Permacultura
-cover-img: /assets/img/index/dron1.jpg 
+cover-img: /assets/img/index/portada.jpg 
 ---
 
 <link rel="icon" href="..\assets\img\favicon.png" type="image/x-icon">
 
 Torre Escribana está formada por dos viviendas y una finca de una hectárea. Prentede ser un **Centro Demostrativo de Permacultura** situado en la fértil zona de huerta cerca de **Zaragoza** y regado por las aguas del río Gállego, está diseñado para albergar y fomentar la vida en todas sus formas. Inspirada por la **naturaleza**, la finca busca ser un modelo de **sostenibilidad** y **responsabilidad ambiental y social**, ofreciendo inspiración a aquellos que desean vivir de manera más **consciente y autosuficiente**. A través de la aplicación de **patrones naturales**, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
+
+![](assets\img\proyecto\nuevas\DSC_7585.jpg)
 
 Diferentes elementos interconectados y las dinámicas que manejan dichos elementos componen el ecosistema de Torre Escribana. Intentamos cerrar todos los ciclos posibles de materia y energía con el objetivo en mente de generar incluso más de la que necesitamos para el funcionamiento. 
 
@@ -21,6 +23,9 @@ En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y es
 
 <a href="{{ '/diseno ' | absolute_url  }}" ><button class="letralogo">Profundiza en su diseño</button>   </a>
 
+
+![](assets\img\proyecto\nuevas\DSC_7668.jpg)
+
 <hr>
 
 ## ¿Qué es la Permacultura?
@@ -31,6 +36,9 @@ En la Permacultura, se valora la diversidad, la interconexión y la resiliencia,
 
 Para saber más: <a href="{{ '/diseno ' | absolute_url  }}" class="button" type="button" target="_blank">Diseño de <span class="letralogo"> Torre Escribana. </span>
   </a>
+![](assets\img\proyecto\nuevas\JJG_2332.jpg)
+
+
 <hr> 
 {% include home_events.html %}
 
@@ -46,7 +54,10 @@ Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><stro
 </a> te explicamos como puedes hacerlo. Consulta además la <a href="{{ '/agenda ' | absolute_url  }}"><strong>AGENDA</strong>
 </a> de Torre Escribana para comprobar si se acerca una jornada colaborativa o día de puertas abiertas.
 
+![](assets\img\proyecto\nuevas\JJG_2591.jpg)
 <hr> 
+
+<a href="{{ '/contacto ' | absolute_url  }}" ><button> <span class="letralogo"> Contáctanos</span></button>   </a>
 
 <div class="centrado">
 
@@ -58,7 +69,7 @@ Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><stro
    </a>
 </div>
 
-<a href="{{ '/contacto ' | absolute_url  }}" ><button> <span class="letralogo"> Contáctanos</span></button>   </a>
+
 
 
 ## Proyectos amigos
@@ -95,4 +106,7 @@ Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><stro
   
 
 </div>
+
+
+
 
