@@ -62,7 +62,7 @@ title-img: "/assets/img/logonuevo2.png"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "torre.escribana@gmail.com"
-  rss: true
+  # rss: true
   instagram: torrescribana
   #  facebook: deanattali
   #  github: daattali

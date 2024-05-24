@@ -17,5 +17,8 @@ Aquí puedes descubrir un poquito más de todos los elementos que conforman  <sp
 <a href="{{ '/diseno ' | absolute_url  }}" ><button class="letralogo">Profundiza en su diseño</button>   </a>
 
 
+![](assets\img\otros\mapa.jpg)
+
+
 
 
