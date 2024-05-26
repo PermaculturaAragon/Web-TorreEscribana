@@ -37,3 +37,5 @@ Al despedirnos de quienes han elegido partir, damos la bienvenida a nuevas oport
 <a href="{{ '/proyecto ' | absolute_url  }}" ><button class="letralogo">Descubre mucho más</button>   </a>
 
 <a href="{{ '/diseno ' | absolute_url  }}" ><button class="letralogo">Profundiza en su diseño</button>   </a>
+
+<hr>

@@ -6,18 +6,24 @@ permalink: /proyecto/
 cover-img: /assets/img/index/almendro.jpg
 ---
 
-Aquí puedes descubrir un poquito más de todos los elementos que conforman  <span class="letralogo"> Torre Escribana. </span>
+Aquí puedes descubrir un poquito más de muchos de los elementos que conforman  <span class="letralogo"> Torre Escribana. </span>
 
 {% include home_design.html %}
 
 
+
+<a href="../assets/img/otros/mapa.jpg" ><img src="../assets/img/otros/mapa.jpg"> </a>
 
 <a href="{{ '/nosotras ' | absolute_url  }}" ><button class="letralogo">Conoce a sus integrantes</button>   </a>
 
 <a href="{{ '/diseno ' | absolute_url  }}" ><button class="letralogo">Profundiza en su diseño</button>   </a>
 
 
-![](assets\img\otros\mapa.jpg)
+
+
+
+
+<hr>
 
 
 

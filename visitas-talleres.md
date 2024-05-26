@@ -29,4 +29,8 @@ Una forma de visitar <span class="letralogo"> Torre Escribana. </span> es aprove
 </section>
 
 
+<img class=img1 src="../assets/img/proyecto/nuevas/maqueta.jpg"/>
+<hr>
+
+
 

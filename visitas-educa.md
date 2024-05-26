@@ -11,4 +11,5 @@ Escribe a <strong> torre.escribana (arroba) gmail.com </strong> si quieres más 
 <a href="{{ '/contacto' | absolute_url  }}"><strong>CONTACTO</strong>
 </a>
 
+<hr>
 

@@ -15,6 +15,8 @@ Conocemos de primera mano la importancia de **educar en la naturaleza.** Nuestro
 <br>
 <img class=img1 src="../assets/img/visitas/scout2.png"/>
 
+<hr>
+
 
 
 
