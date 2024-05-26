@@ -23,7 +23,7 @@ Guían todas las prácticas y decisiones en permacultura.
 
 
 {: .box-success}
-<img class='principle' src="/assets/img/principios/es_principle_1.gif"/> **1 - Observa e interactúa:**
+<img class='principle' src="../assets/img/principios/es_principle_1.gif"/> **1 - Observa e interactúa:**
 *“La belleza está en los ojos del observador”*  
 Si tomamos el tiempo para interactuar con la naturaleza podemos diseñar soluciones aptas para nuestra situación particular.
 {: .box-success}
