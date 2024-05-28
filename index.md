@@ -7,13 +7,13 @@ cover-img: /assets/img/index/portada.jpg
 
 <link rel="icon" href="..\assets\img\favicon.png" type="image/x-icon">
 
-Torre Escribana está formada por dos viviendas y una finca de una hectárea. Pretende ser un **Centro Demostrativo de Permacultura** situado en la fértil zona de huerta cerca de **Zaragoza** y regado por las aguas del río Gállego, está diseñado para albergar y fomentar la vida en todas sus formas. Inspirada por la **naturaleza**, la finca busca ser un modelo de **sostenibilidad** y **responsabilidad ambiental y social**, ofreciendo inspiración a aquellos que desean vivir de manera más **consciente y autosuficiente**. A través de la aplicación de **patrones naturales**, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
+<span class="letralogo"> Torre Escribana. </span> está formada por dos viviendas y una finca de una hectárea. Pretende ser un **Centro Demostrativo de Permacultura** situado en la fértil zona de huerta cerca de **Zaragoza** y regado por las aguas del río Gállego, está diseñado para albergar y fomentar la vida en todas sus formas. Inspirada por la **naturaleza**, la finca busca ser un modelo de **sostenibilidad** y **responsabilidad ambiental y social**, ofreciendo inspiración a aquellos que desean vivir de manera más **consciente y autosuficiente**. A través de la aplicación de **patrones naturales**, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
 
 ![](assets\img\proyecto\nuevas\patitos.jpg)
 
-Diferentes elementos interconectados y las dinámicas que manejan dichos elementos componen el ecosistema de Torre Escribana. Intentamos cerrar todos los ciclos posibles de materia y energía con el objetivo en mente de generar incluso más de la que necesitamos para el funcionamiento. 
+Diferentes elementos interconectados y las dinámicas que manejan dichos elementos componen el ecosistema de <span class="letralogo"> Torre Escribana. </span>. Intentamos cerrar todos los ciclos posibles de materia y energía con el objetivo en mente de generar incluso más de la que necesitamos para el funcionamiento. 
 
-En Torre Escribana, la conexión con la tierra es palpable en cada rincón, y estamos emocionados de abrir y compartir este oasis de vida y sostenibilidad con vosotras.
+En <span class="letralogo"> Torre Escribana. </span>, la conexión con la tierra es palpable en cada rincón, y estamos emocionados de abrir y compartir este oasis de vida y sostenibilidad con vosotras.
 
 
 
@@ -48,11 +48,11 @@ Para saber más: <a href="{{ '/diseno ' | absolute_url  }}" class="button" type=
 <hr> 
 ## Visita Torre escribana
 
-Es posible visitar Torre Escribana de diferentes maneras y estaremos encantadas de abrir nuestras puertas para compartir con vosotras nuestras experiencias, pero es importante saber que es **nuestro hogar, nuestra"cueva"**. Es allí donde vivimos las alegrías y penas familiares y donde hacemos nuestra vida día tras día.
+Es posible visitar <span class="letralogo"> Torre Escribana. </span> de diferentes maneras y estaremos encantadas de abrir nuestras puertas para compartir con vosotras nuestras experiencias, pero es importante saber que es **nuestro hogar, nuestra"cueva"**. Es allí donde vivimos las alegrías y penas familiares y donde hacemos nuestra vida día tras día.
 
 Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><strong>AQUÍ</strong>
 </a> te explicamos como puedes hacerlo. Consulta además la <a href="{{ '/agenda ' | absolute_url  }}"><strong>AGENDA</strong>
-</a> de Torre Escribana para comprobar si se acerca una jornada colaborativa o día de puertas abiertas.
+</a> de <span class="letralogo"> Torre Escribana. </span> para comprobar si se acerca una jornada colaborativa o día de puertas abiertas.
 
 
 

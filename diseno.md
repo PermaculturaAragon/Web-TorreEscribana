@@ -6,7 +6,7 @@ cover-img: /assets/img/proyecto/realtime2.png
 ---
 
 
-La permacultura es una metodología de diseño sostenible que integra prácticas ecológicas para crear sistemas agrícolas y comunitarios autosuficientes y resilientes. El término fue acuñado por Bill Mollison y David Holmgren en la década de 1970.
+La **permacultura** es una metodología de diseño sostenible que integra prácticas ecológicas para crear sistemas agrícolas y comunitarios autosuficientes y resilientes. El término fue acuñado por **Bill Mollison** y **David Holmgren** en la década de 1970.
 
 ### Principios éticos
 Guían todas las prácticas y decisiones en permacultura.
