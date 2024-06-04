@@ -15,7 +15,7 @@ En <span class="letralogo"> Torre Escribana. </span>, somos una comunidad íntim
 
 Nuestra historia está marcada por el arduo trabajo y la dedicación de todos los que habéis pasado por aquí. Cada persona que se une a nuestros cursos y talleres trae consigo una energía única y contribuye a enriquecer nuestra comunidad.
 
-Irene, con su atención meticulosa a los detalles y su determinación implacable, ha sido fundamental en la creación de un entorno acogedor y ordenado para todos nosotros. Mientras tanto, Ángel, con su pasión contagiosa y su dedicación inquebrantable a la permacultura, nos ha inspirado a todos a soñar en grande y a trabajar duro por nuestros ideales.
+ Irene, con su atención a los pequeños detalles y su determinación ante el trabajo, ha sido fundamental en la creación de un entorno acogedor para todas nosotras. Mientras tanto, Ángel, con su pasión contagiosa y su dedicación inquebrantable a la permacultura, nos ha inspirado a todos a soñar en grande y a trabajar duro por nuestros ideales.
 
 Juntos, formamos un equipo comprometido con la regeneración y el cambio positivo en el mundo. Seguimos avanzando con optimismo y determinación, sabiendo que cada paso que damos nos acerca un poco más a nuestra visión compartida de un futuro más sostenible y consciente.
 
