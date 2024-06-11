@@ -8,7 +8,7 @@ cover-img: /assets/img/index/quienes.jpg
 ---
 
 En <span class="letralogo"> Torre Escribana. </span>, somos una comunidad dedicada a la permacultura cuya experiencia queremos compartir. Comenzada sin nombre en 2015 nuestro proyecto ha evolucionado gracias a la dedicación y el compromiso de muchas personas que habéis pasado por aquí, contribuyendo con vuestra energía y conocimientos.
-
+<hr>
 ### Quiénes vivimos actualmente
 
 En <span class="letralogo"> Torre Escribana. </span>, somos una comunidad íntima y comprometida, formada por Irene y Ángel, fundadores del proyecto junto a Ester y Pedro. Desde nuestros inicios, hemos sido guiados por el deseo compartido de crear un espacio donde la autosuficiencia y el respeto por la naturaleza sean nuestros pilares fundamentales. Un lugar ideal para ver crecer a nuetros hijos.
@@ -19,12 +19,16 @@ Nuestra historia está marcada por el arduo trabajo y la dedicación de todos lo
 
 Juntos, formamos un equipo comprometido con la regeneración y el cambio positivo en el mundo. Seguimos avanzando con optimismo y determinación, sabiendo que cada paso que damos nos acerca un poco más a nuestra visión compartida de un futuro más sostenible y consciente.
 
+<img class=img1 src="../assets/img/proyecto//nuevas/leo.jpg"/>
+<br>
+<hr>
 
 ### <span class="letralogo"> Torre Escribana. </span> también sois vosotras
 
 Queremos expresar nuestro profundo agradecimiento a todas las personas que habéis sido parte de <span class="letralogo"> Torre Escribana. </span> a lo largo de los años. Desde aquellos que habéis contribuido con vuestro trabajo en las jornadas colaborativas hasta aquellos que habéis compartido vuestros conocimientos en nuestros talleres y eventos, cada una de vosotras ha dejado una huella imborrable en nuestra historia.
 
 Gracias por vuestra dedicación, vuestro apoyo y vuestro compromiso con la visión de <span class="letralogo"> Torre Escribana. </span>. Vuestra generosidad ha sido fundamental para el crecimiento y la evolución de nuestro proyecto, y esperamos seguir compartiendo este viaje juntas en el futuro.
+<hr>
 
 ### A los que parten o partirán
 

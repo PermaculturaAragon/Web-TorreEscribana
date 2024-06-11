@@ -30,7 +30,7 @@ Explora nuestras opciones de visita a continuación y únete a nosotras en esta 
 <a href="{{ '/visitas-talleres ' | absolute_url  }}"  ><button class="letralogo">Jornadas y Talleres</button>
 </a>
 
-<a href="../assets/img/proyecto/nuevas/casaarbol2.jpg" target="_blank"><img class=img1 src="../assets/img/proyecto/nuevas/casaarbol2.jpg"/> </a>
+<a href="../assets/img/proyecto/nuevas/salvia.jpg" target="_blank"><img class=img1 src="../assets/img/proyecto/nuevas/salvia.jpg"/> </a>
 
 
 
