@@ -810,3 +810,27 @@ a {
 .principle {
   width: 10%;  
 }
+
+/* IMAGENES CIRCULARES DISEÑO*/
+
+.circularimagen {
+  border-radius: 50%;
+  box-shadow: unset;
+}
+
+
+.navbar-custom .nav-item.dropdown.show{
+  background-color: #ffffff;
+}
+
+
+button:focus {
+  outline: unset;
+  color: #085a1a;
+}
+
+
+.navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover{
+
+  font-weight:bold;
+}

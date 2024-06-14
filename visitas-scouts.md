@@ -10,9 +10,8 @@ Conocemos de primera mano la importancia de **educar en la naturaleza.** Nuestro
 <img class=img1 src="../assets/img/visitas/scout1.png"/>
 <br>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerCJWv7CPSIce97gVE9xiEhfUPLI7iC0me3cV32FIzgUBLig/viewform?embedded=true" width="640" height="1372" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSerCJWv7CPSIce97gVE9xiEhfUPLI7iC0me3cV32FIzgUBLig/viewform?embedded=true" width="100%" height="1500" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
-<br>
 <img class=img1 src="../assets/img/visitas/scout2.png"/>
 
 <hr>
