@@ -6,7 +6,7 @@ subtitle: Conoce Torre Escribana
 
 
 {: .box-error}
-**ATENCIÓN:** Estamos trabajando para poder ofrecerte este tipo de visitas **a partir de Septiembre de 2024.**
+**ATENCIÓN:** Estamos trabajando para poder ofrecerte este tipo de visitas **a partir de Noviembre de 2024.**
 
 
 <p>Recientemente hemos tenido la oportunidad de sumarnos a <a href="https://elcaminoess.com//" target="_blank"><strong>El CAMINO ESS</strong></a>. Iniciativa que surge como una propuesta turística alternativa a través de <b>experiencias sostenibles y responsables</b> en Cataluña, Aragón, La Rioja, Castilla y León y Galicia.</p> 
