@@ -10,8 +10,8 @@ La **permacultura** es una metodología de diseño sostenible que integra práct
 
 ### Principios éticos
 Guían todas las prácticas y decisiones en permacultura.
- - **Cuidado de la Tierra:** Proteger y regenerar los recursos naturales.
- - **Cuidado de las Personas:** Satisfacer las necesidades humanas de manera sostenible.
+ - **Cuidado de la Tierra:** Nos invita a proteger y regenerar los recursos naturales. 
+ - **Cuidado de las Personas:** Satisfaciendo las necesidades humanas de manera sostenible.
  - **Repartición Justa:** Distribuir equitativamente los recursos y los excedentes.
 
 <hr>
@@ -76,7 +76,7 @@ Podemos tener un impacto positivo sobre el cambio inevitable observándolo cuida
 <img class=img1 src="../assets/img/proyecto/nuevas/puertagallinero.jpg"/>
 <br>
 
-### Etapas del Proceso de Diseño
+### Etapas de un Proceso de Diseño
 **(O) Observación:** Estudiar el lugar, sus usuarios, y los flujos de energía.  
 **(B) Limitaciones y Recursos:** Identificar y mapear limitaciones y recursos.  
 **(R) Investigación:** Recoger datos relevantes sobre el sitio y su contexto.  
@@ -87,9 +87,6 @@ Podemos tener un impacto positivo sobre el cambio inevitable observándolo cuida
 
 ### Métodos y Herramientas
 Se utilizan habilidades de observación, técnicas de análisis y métodos de diseño específicos para crear conexiones eficientes entre elementos. Herramientas como el análisis de sectores, análisis de pendientes y redes, y auditorías ambientales son esenciales.
-
-### Composición del Diseño
-El diseño se compone de varios principios: colocación relativa, múltiples funciones por elemento, planificación energética eficiente, uso de recursos biológicos, diversidad de elementos y conexiones, y más. Estos principios se aplican para crear sistemas intensivos y sostenibles a pequeña escala.
 
 ### Reflexión y Revisión
 La observación continua permite identificar problemas y éxitos, y ajustar el diseño según sea necesario. Esto asegura que el sistema evolucione y mejore con el tiempo, manteniéndose dinámico y flexible.
