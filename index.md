@@ -7,7 +7,7 @@ cover-img: /assets/img/index/portada.jpg
 
 <link rel="icon" href="..\assets\img\favicon.png" type="image/x-icon">
 
-<span class="letralogo"> Torre Escribana. </span> está formada por dos viviendas y una finca de una hectárea. Pretende ser un **Centro Demostrativo de Permacultura** situado en la fértil zona de huerta cerca de **Zaragoza** y regado por las aguas del río Gállego, está diseñado para albergar y fomentar la vida en todas sus formas. Inspirada por la **naturaleza**, la finca busca ser un modelo de **sostenibilidad** y **responsabilidad ambiental y social**, ofreciendo inspiración a aquellos que desean vivir de manera más **consciente y autosuficiente**. A través de la aplicación de **patrones naturales**, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
+<span class="letralogo"> Torre Escribana. </span> pretende ser un **Centro Demostrativo de Permacultura** situado en la fértil zona de huerta cerca de **Zaragoza** y regado por las aguas del río Gállego. Inspirada por la **naturaleza**, la finca busca ser un modelo de **sostenibilidad** y **responsabilidad ambiental y social**, ofreciendo inspiración a aquellos que desean vivir de manera más **consciente y autosuficiente**. A través de la aplicación de **patrones naturales**, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
 
 ![](assets\img\proyecto\nuevas\patitos.jpg)
 
