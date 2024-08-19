@@ -9,12 +9,12 @@ cover-img: /assets/img/visitas/educativos.jpg
 ## Bienvenidos al Centro Demostrativo de Permacultura <span class="letralogo"> Torre Escribana. </span>
 ### ¡Un lugar mágico donde las niñas y niños aprenden de la naturaleza!
 
-En nuestro Centro Demostrativo de Permacultura, ofrecemos una experiencia educativa única y adaptada para los más pequeños. Aquí, las niñas y niños descubren la magia de la naturaleza, aprenden a cuidar el medio ambiente, y desarrollan un amor por la tierra a través de actividades prácticas y divertidas. Está dirigida a **Escuela Infantiles**, 
+En nuestro Centro Demostrativo de Permacultura, ofrecemos una experiencia educativa única y adaptada para los más pequeños. Aquí, las niñas y niños descubren la magia de la naturaleza, aprenden a cuidar el medio ambiente, desarrollan un amor por la tierra y sus habitantes y a ser parte de un ciclo natural que alimenta y protege a todos. Todo a través de actividades prácticas y divertidas. Está dirigida a **Escuela Infantiles**, 
 **Centros de Educación Primaria**, **Centros de Educación Especial** y **Grupos de familias con niños y niñas** 
 <hr>
 
 ## ¿Qué es la permacultura?
-La permacultura es una manera de vivir en armonía con la naturaleza, creando espacios donde todo está conectado y tiene un propósito. En nuestro centro, enseñamos a los niños cómo podemos cuidar el planeta, respetar a los animales y las plantas, y ser parte de un ciclo natural que alimenta y protege a todos.
+La permacultura es una manera de vivir en armonía con la naturaleza, creando espacios donde todo está conectado y tiene un propósito. Se basa en 3 principios éticos: Cuidado de la Tierra, de las Personas y del Futuro. 
 <hr>
 
 ## ¿Qué ofrecemos a las escuelas infantiles?
