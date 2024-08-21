@@ -25,7 +25,7 @@ Precio: El coste por persona es de 15€ para la visita de 70 minutos y 25€ pa
 
 <a href="../assets/img/visitas/menu.jpg" download="menu-torre-escribana.jpg"><button class="letralogo">Descargar Menú</button></a>
 
-<p>Las reservas de visitas las recogemos en nuestro mail <strong> torre.escribana (arroba) gmail.com </strong>, pero te invitamos a visitar nuestra sección en <a href="https://elcaminoess.com/itinerario/permacultureando-a-tu-aire//" target="_blank">El CAMINO ESS</a> donde encontrarás mas info acerca de esta experiecia turística y de otras más de la ECONOMICA SOCIAL Y SOLIDARIA</p> 
+<p>Las reservas de visitas las recogemos en nuestro mail <strong> torreescribana (arroba) gmail.com </strong>, pero te invitamos a visitar nuestra sección en <a href="https://elcaminoess.com/itinerario/permacultureando-a-tu-aire//" target="_blank">El CAMINO ESS</a> donde encontrarás mas info acerca de esta experiecia turística y de otras más de la ECONOMICA SOCIAL Y SOLIDARIA</p> 
 
 <img class=img1 src="../assets/img/proyecto/nuevas/olivo2.jpg"/>
 <br>

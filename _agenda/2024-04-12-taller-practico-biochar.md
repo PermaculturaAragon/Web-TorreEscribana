@@ -18,7 +18,7 @@ Esta sustancia posee propiedades extraordinarias que tienen un inmenso potencial
 En éste taller práctico de 4 horas de duración os enseñaremos cómo lo fabricamos, lo activamos y lo usamos en  <span class="letralogo"> Torre Escribana. </span>.
 
 {: .box-success}
-Para pedir más información y preinscribirte escríbenos a **torre.escribana (arroba) gmail.com**
+Para pedir más información y preinscribirte escríbenos a **torreescribana (arroba) gmail.com**
 
 <img class=img1 src="/assets/img/posts/biochar1.jpg"/>
 <br>

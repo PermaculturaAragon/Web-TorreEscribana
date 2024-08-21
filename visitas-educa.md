@@ -43,7 +43,7 @@ Una visita a nuestro Centro Demostrativo es una forma maravillosa de complementa
 
 **Contacto:**  
 Teléfono: 644 304883  
-Email: torre.escribana (arroba) gmail.com  
+Email: torreescribana (arroba) gmail.com  
 <a href="{{ '/contacto' | absolute_url  }}"><strong>CONTACTO</strong>
 </a>
 
