@@ -65,6 +65,20 @@ No obstante, estamos encantados de recibir visitas durante todo el año. Sin emb
 **Política de Cancelación:** Las visitas canceladas por la entidad visitante con al menos 5 días de antelación se deberán reagendar a lo largo del curso siempre que haya huecos disponibles. La reserva de la visita no se podrá devolver en caso de cancelación total o con menos de 5 días. La visita se puede realizar con un poco de lluvia y ropa adecuada. La entidad organizadora se reserva el derecho de cancelar la visita por tiempo adverso haciendo lo posible para reagendarla a lo largo del curso. 
 
 
+<div class="centrado">
+
+  <a href="https://torre-escribana.com/assets/docs/folleto_escuelas_torre_escribana.pdf" target=_blank>  
+  <div class="zoom-basico">
+    <img class="img2"
+      src="{{ '/assets/img/links/pdf_download.jpg' | absolute_url  }}" alt="descarga doc"
+       />  
+       </div>      
+</a>
+</div>
+<br>
+
+DESCARGA AQUI LA INFORMACION EN PDF
+
 <a href="../assets/img/proyecto/nuevas/casaarbol2.jpg" target="_blank"><img class=img1 src="../assets/img/proyecto/nuevas/casaarbol2.jpg"/> </a>
 
 
