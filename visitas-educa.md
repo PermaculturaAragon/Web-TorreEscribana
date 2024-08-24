@@ -18,13 +18,15 @@ La permacultura es una manera de vivir en armonía con la naturaleza, creando es
 <hr>
 
 ## ¿Qué ofrecemos a las escuelas infantiles?
-**Exploración Guiada:** Las niños y niños disfrutarán de un recorrido por nuestro centro, donde podrán descubrir huertos, jardines, y pequeños animales que forman parte de nuestro ecosistema. A través de historias y juegos, aprenderán sobre la importancia de cuidar la tierra y cómo cada planta y animal tiene un papel especial en la naturaleza.
+**Exploración Guiada:** El duende Escribano nos guiará en un recorrido por nuestro centr  o dejando pistas para que podamos descubrir de una forma lúdica el huerto, los árboles, y pequeños animales que forman parte de nuestro ecosistema.  A través de cuentos y juegos, aprenderán sobre la importancia de cuidar la tierra y cómo cada planta y animal tiene un papel especial en la naturaleza.
 
-**Actividades Prácticas:** Ofrecemos talleres adaptados para los más pequeños, donde podrán sembrar sus primeras semillas, aprender a cuidar las plantas, y participar en la creación de compost. Estas actividades están diseñadas para ser divertidas, educativas, y seguras, permitiendo a las niñas y niños explorar con sus manos y corazones.
+**Actividades Prácticas:** Ofrecemos talleres para los más pequeños adaptados a cada época del año. (Sembrar en el huerto, collage de hojas secas, ramos de flores de temporada, texturas y olores...)
+Estas actividades están diseñadas para ser divertidas, educativas, y seguras, permitiendo a las niñas y niños explorar con sus manos y corazones.
 
-**Encuentro con Animales:** Las niñas y niños tendrán la oportunidad de conocer a nuestros animales, como gallinas, patos, ocas, pavos, cabras... Aprenderán cómo estos animales nos ayudan a cuidar y regenerar la tierra y cómo podemos respetarlos y cuidarlos a cambio.
+**Encuentro con Animales:** Las niñas y niños tendrán la oportunidad de conocer a nuestros animales, como gallinas, patos, ocas, pavos, cabras... Podrán tocar y dar de comer alguno de ellos.
+Aprenderán cómo estos animales nos ayudan a cuidar y regenerar la tierra y cómo podemos respetarlos y cuidarlos a cambio.
 
-**Juegos y Cuentos en la Naturaleza:** Nuestro espacio también incluye áreas para juegos al aire libre y momentos de lectura bajo la sombra de los árboles, ¡o subídos a ellos en la casa del árbol!. Utilizamos cuentos y dinámicas que enseñan valores como la cooperación, la responsabilidad, y el amor por el medio ambiente.
+**Juegos y Cuentos en la Naturaleza:** Torre Escribana también dispone de espacios al aire libre para pasar tiempos de juego libre o almorzar a la sombra de los árboles. Utilizamos cuentos y dinámicas que enseñan valores como la cooperación, la responsabilidad, y el amor por el medio ambiente.
 
 ### Beneficios para las niños y los niños
 Una visita a nuestro Centro Demostrativo es una forma maravillosa de complementar la educación en el aula con experiencias prácticas y sensoriales. Las niñas y niños desarrollarán una conexión más profunda con la naturaleza, aprenderán sobre sostenibilidad de manera sencilla y lúdica, y vivirán una aventura que recordarán siempre.
