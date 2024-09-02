@@ -76,11 +76,14 @@ Podemos tener un impacto positivo sobre el cambio inevitable observándolo cuida
 <img class=img1 src="../assets/img/proyecto/nuevas/puertagallinero.jpg"/>
 <br>
 
+<hr>
+
 ### Proceso de Diseño   
 En permacultura, contamos con una gran variedad de enfoques de diseño que podemos emplear. Estos enfoques incluyen técnicas que son habitualmente utilizadas por profesionales como arquitectos e ingenieros. En nuestro caso, damos especial importancia a los métodos que destacan las interacciones entre las diversas partes del diseño, ya que aunque los elementos pueden ser dispuestos de múltiples maneras, un diseño bien pensado crea conexiones provechosas que resultan en un sistema eficiente y resiliente.
 
 **No existe un único método para diseñar.**
 
+<hr>
 
 ### Fases de un proceso de diseño.  
 Hay un montón de estructuras que nos guían para completar un diseño. Muchas de las fases se repiten en unos u otros:
@@ -97,20 +100,28 @@ Hay un montón de estructuras que nos guían para completar un diseño. Muchas d
 **(T) Tuneo:** Rediseñar y ajustar.
 
 Otros métodos de diseño: Dadi, Dragon Dreaming, Red de Diseño, La Rueda EsEmCueM...
+<hr>
 
 ### Herramientas de Obervación.  
 Para entrenar y realizar una observación objetiva nos apoyamos en herramientas que nos facilitan la tarea. Mapa mental Mapa base, Mapa de sombras, TOAFE, DAFOR, Topografía, Microclimas, Composición del suelo, Cuestionario para clientes, Lenguaje de patrones, Planificando de verdad...  
+<hr>
 
 ### Herramientas de Análisis.
 El análisis nos hace reflexionar sobre la información obtenida y nos invita a harmonizar la visión y empezar a crear las relaciones necesarias de los elementos.
 Algunas de las herramientas de análisis son: Análisis de sectores p36
 Análisis de zonas, Entradas y salidas, Máximo uso, Asociación aleatoria, Red de conexiones, PMI, DAFO, Análisis de huella ecológica, Elementos y funciones, Escala de permanencia, Matriz de prioridades...
+<hr>
 
 ### Diseño.  
 La presentación de un diseño de permacultura tiene que ser lo más armónico, entendible, ajustado a la realidad y bello posible. Éste diseño tiene que invitar a ponerse manos a la obra con ello. Cada diseño es exclusivo de un lugar, unos usuarios y un momento, no podemos replicar un mismo diseño global en dos fincas diferentes. 
+<hr>
 
 ### Conclusión
-El diseño de permacultura es un proceso continuo y flexible que requiere una observación constante y adaptación para crear sistemas sostenibles y resilientes. Es crucial desarrollar habilidades de observación y análisis, y estar abierto a modificar el diseño según las necesidades del entorno y las personas.
+El diseño de permacultura es un proceso continuo y flexible que requiere una observación constante y adaptación para crear sistemas sostenibles y resilientes. Es crucial desarrollar habilidades de observación y análisis, y estar abierto a modificar el diseño según las necesidades del entorno y las personas.  
+
+<a href="{{ '/proyecto ' | absolute_url  }}" ><button class="letralogo">Descubre mucho más</button>   </a>
+
+<a href="{{ '/nosotras ' | absolute_url  }}" ><button class="letralogo">Conoce a sus integrantes</button>   </a>
 
 
 <img class=img1 src="../assets/img/proyecto/nuevas/aromaticas2.jpg"/>
