@@ -76,20 +76,38 @@ Podemos tener un impacto positivo sobre el cambio inevitable observándolo cuida
 <img class=img1 src="../assets/img/proyecto/nuevas/puertagallinero.jpg"/>
 <br>
 
-### Etapas de un Proceso de Diseño
+### Proceso de Diseño   
+En permacultura, contamos con una gran variedad de enfoques de diseño que podemos emplear. Estos enfoques incluyen técnicas que son habitualmente utilizadas por profesionales como arquitectos e ingenieros. En nuestro caso, damos especial importancia a los métodos que destacan las interacciones entre las diversas partes del diseño, ya que aunque los elementos pueden ser dispuestos de múltiples maneras, un diseño bien pensado crea conexiones provechosas que resultan en un sistema eficiente y resiliente.
+
+**No existe un único método para diseñar.**
+
+
+### Fases de un proceso de diseño.  
+Hay un montón de estructuras que nos guían para completar un diseño. Muchas de las fases se repiten en unos u otros:
+
+**(G) Misión, Visión y Objetivos**
 **(O) Observación:** Estudiar el lugar, sus usuarios, y los flujos de energía.  
 **(B) Limitaciones y Recursos:** Identificar y mapear limitaciones y recursos.  
 **(R) Investigación:** Recoger datos relevantes sobre el sitio y su contexto.  
-**(E) Evaluación y Análisis:** Analizar y organizar la información recogida.  
+**(A) Análisis:** Analizar y organizar la información recogida.  
 **(D) Diseño:** Crear el diseño basándose en los datos y análisis.  
 **(I) Implementación:** Poner en práctica el diseño.  
-**(M) Monitoreo, Modificación y Mantenimiento:** Vigilar, ajustar y mantener el sistema.  
+**(M) Monitoreo y Mantenimiento:** Vigilar y mantener el sistema.    
+**(E) Evaluación:** Qué objetivos se han cumplido y cómo está funcionando.  
+**(T) Tuneo:** Rediseñar y ajustar.
 
-### Métodos y Herramientas
-Se utilizan habilidades de observación, técnicas de análisis y métodos de diseño específicos para crear conexiones eficientes entre elementos. Herramientas como el análisis de sectores, análisis de pendientes y redes, y auditorías ambientales son esenciales.
+Otros métodos de diseño: Dadi, Dragon Dreaming, Red de Diseño, La Rueda EsEmCueM...
 
-### Reflexión y Revisión
-La observación continua permite identificar problemas y éxitos, y ajustar el diseño según sea necesario. Esto asegura que el sistema evolucione y mejore con el tiempo, manteniéndose dinámico y flexible.
+### Herramientas de Obervación.  
+Para entrenar y realizar una observación objetiva nos apoyamos en herramientas que nos facilitan la tarea. Mapa mental Mapa base, Mapa de sombras, TOAFE, DAFOR, Topografía, Microclimas, Composición del suelo, Cuestionario para clientes, Lenguaje de patrones, Planificando de verdad...  
+
+### Herramientas de Análisis.
+El análisis nos hace reflexionar sobre la información obtenida y nos invita a harmonizar la visión y empezar a crear las relaciones necesarias de los elementos.
+Algunas de las herramientas de análisis son: Análisis de sectores p36
+Análisis de zonas, Entradas y salidas, Máximo uso, Asociación aleatoria, Red de conexiones, PMI, DAFO, Análisis de huella ecológica, Elementos y funciones, Escala de permanencia, Matriz de prioridades...
+
+### Diseño.  
+La presentación de un diseño de permacultura tiene que ser lo más armónico, entendible, ajustado a la realidad y bello posible. Éste diseño tiene que invitar a ponerse manos a la obra con ello. Cada diseño es exclusivo de un lugar, unos usuarios y un momento, no podemos replicar un mismo diseño global en dos fincas diferentes. 
 
 ### Conclusión
 El diseño de permacultura es un proceso continuo y flexible que requiere una observación constante y adaptación para crear sistemas sostenibles y resilientes. Es crucial desarrollar habilidades de observación y análisis, y estar abierto a modificar el diseño según las necesidades del entorno y las personas.
