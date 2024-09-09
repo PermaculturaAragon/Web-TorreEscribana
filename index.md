@@ -82,6 +82,12 @@ Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><stro
         src="{{ '/assets/img/links/permacultura-aragon-logo.png' | absolute_url  }}" alt="www.permaculturaaragon.org"/> 
     </a>
   </div>
+  <div class="zoom-basico">
+    <a href="https://rayen.org/" target=_blank>  
+      <img class="img2"
+        src="{{ '/assets/img/links/rayen.png' | absolute_url  }}" alt="rayen.org/"/> 
+    </a>
+  </div>
 
 
   <div class="zoom-basico">
