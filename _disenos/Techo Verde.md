@@ -2,7 +2,7 @@
 title:  Techo Verde
 subtitle: 
 cover-img: /assets/img/otros/tejas.jpg
-
+finished: true
 
 ---
 

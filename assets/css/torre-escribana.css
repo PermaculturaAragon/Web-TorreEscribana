@@ -789,13 +789,18 @@ a {
 
 .past-event {
   transition: transform 1s ease-in-out;
-  filter: grayscale(100%);
+  filter: grayscale(80%);
   opacity: 0.8;
 }
 
 .past-event:hover {
   filter: unset;
   opacity: 1;
+}
+
+.gray {
+  filter: grayscale(100%);
+  opacity: 0.6
 }
 
 .centrado {

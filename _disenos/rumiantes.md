@@ -2,7 +2,7 @@
 title:  Rumiantes
 subtitle: Estamos trabajando en ello.
 cover-img: /assets/img/otros/cabra.jpg
-
+finished: false
 
 ---
 

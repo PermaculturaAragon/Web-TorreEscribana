@@ -2,7 +2,7 @@
 title: Gallinero
 subtitle: Estamos trabajando en ello.
 cover-img: /assets/img/proyecto/gallinero.jpg
-
+finished: false
 
 ---
 

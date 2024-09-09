@@ -8,6 +8,9 @@ cover-img: /assets/img/index/almendro.jpg
 
 Aquí puedes descubrir un poquito más de muchos de los elementos que conforman  <span class="letralogo"> Torre Escribana. </span>
 
+{: .box-warning}
+Iremos añadiendo contenido y soluciones de diseño en cada apartado a lo largo de todo este año.
+
 {% include home_design.html %}
 
 

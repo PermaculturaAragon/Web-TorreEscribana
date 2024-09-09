@@ -2,7 +2,7 @@
 title:  Tadelakt
 subtitle: Revestimiento de cal tradicional.
 cover-img: /assets/img/proyecto/nuevas/tadelakt.jpg
-
+finished: true
 
 
 ---

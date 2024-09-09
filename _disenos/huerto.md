@@ -2,7 +2,7 @@
 title:  Huerto
 subtitle: Estamos trabajando en ello.
 cover-img: /assets/img/proyecto/huerto.jpg
-
+finished: false
 
 ---
 

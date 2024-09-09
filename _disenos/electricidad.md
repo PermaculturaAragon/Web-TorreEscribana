@@ -2,7 +2,7 @@
 title:  Energía Eléctrica
 subtitle: Estamos trabajando en ello.
 cover-img: /assets/img/proyecto/electricidad.jpg
-
+finished: false
 
 ---
 

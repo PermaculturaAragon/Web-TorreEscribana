@@ -2,7 +2,7 @@
 title:  Compost y Biochar
 subtitle: Almacenando energía.
 cover-img: /assets/img/proyecto/lombrices.jpg
-
+finished: true
 
 ---
 

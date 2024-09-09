@@ -2,7 +2,7 @@
 title:  Vivienda
 subtitle: Construida en 1955 con adobes y rehabilitada en 2020 con cal y mucho amor
 cover-img: /assets/img/proyecto/vivienda.jpg
-
+finished: false
 
 ---
 

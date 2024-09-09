@@ -2,7 +2,7 @@
 title:  Calor
 subtitle: Estamos trabajando en ello.
 cover-img: /assets/img/proyecto/biochar.jpg
-
+finished: false
 
 ---
 
