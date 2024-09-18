@@ -2,6 +2,7 @@
 layout: page
 title: Visitas Personalizadas
 subtitle: Conoce Torre Escribana
+cover-img: /assets/img/visitas/aerea.png
 ---
 
 
