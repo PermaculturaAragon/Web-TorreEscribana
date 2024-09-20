@@ -93,7 +93,7 @@ Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><stro
   <div class="zoom-basico">
     <a href="https://www.coopernat.com/" target=_blank>  
       <img class="img2"
-        src="{{ '/assets/img/links/coopernat.jpg' | absolute_url  }}"  />      
+        src="{{ '/assets/img/links/coopernat.png' | absolute_url  }}"  />      
       </a>
   </div>
 
@@ -107,7 +107,7 @@ Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><stro
    <div class="zoom-basico">
     <a href="https://academiapermaculturaibera.org/" target=_blank>  
       <img class="img2"
-        src="{{ '/assets/img/links/academia.jpg' | absolute_url  }}"  />      
+        src="{{ '/assets/img/links/academia.png' | absolute_url  }}"  />      
       </a>
   </div>
 
