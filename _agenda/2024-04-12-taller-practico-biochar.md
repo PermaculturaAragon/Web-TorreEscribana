@@ -1,9 +1,9 @@
 ---
 title: Taller Práctico BIOCHAR
 subtitle: prueba
-start-date: 2024-12-12
-end-date: 2024-12-12
-formatted-date: Diciembre 2024
+start-date: 2024-11-09
+end-date: 2024-11-09
+formatted-date: 9 de Noviembre de 2024
 cover-img: /assets/img/proyecto/biochar.jpg
 in-home: true
 inscription: true
