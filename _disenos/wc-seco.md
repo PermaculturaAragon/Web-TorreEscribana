@@ -1,6 +1,6 @@
 ---
 title:  Wc Seco
-subtitle: Reutilización total de recursos.
+subtitle: Reutilización total de recursos
 cover-img: /assets/img/proyecto/wc-seco.jpg
 finished: true
 ---
