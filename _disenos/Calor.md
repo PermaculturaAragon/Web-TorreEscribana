@@ -1,6 +1,6 @@
 ---
 title:  Calor
-subtitle: Gestión del calor en el edificio principal
+subtitle: Gestión del calor en el edificio principal.
 cover-img: /assets/img/proyecto/biochar.jpg
 finished: true
 ---
