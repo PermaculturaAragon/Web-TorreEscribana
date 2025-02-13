@@ -82,6 +82,12 @@ Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><stro
         src="{{ '/assets/img/links/permacultura-aragon-logo.png' | absolute_url  }}" alt="www.permaculturaaragon.org"/> 
     </a>
   </div>
+    <div class="zoom-basico">
+    <a href="http://xutopot.es/" target=_blank>  
+      <img class="img2"
+        src="{{ '/assets/img/links/xutopot.png' | absolute_url  }}" alt="www.xutopot.es"/> 
+    </a>
+  </div>
   <div class="zoom-basico">
     <a href="https://rayen.org/" target=_blank>  
       <img class="img2"
