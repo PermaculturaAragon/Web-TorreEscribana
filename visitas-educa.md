@@ -39,7 +39,7 @@ Una visita a nuestro Centro Demostrativo es una forma maravillosa de complementa
 
 **Reservas:** Para asegurar la mejor experiencia, solicitamos que las visitas se reserven con al menos un mes de antelación. Estamos encantados de colaborar con los educadores para personalizar la visita según los intereses y objetivos del grupo. 
 
-**Precio:** El precio es desde 15€ por educando. Siendo el mínimo un grupo de 12 educandos. Para la reserva de la visita se deberá aportar un 30% del coste total. 
+**Precio:** Para las visitas de 1,5 a 2 horas: 15€ por educando siendo el mínimo un grupo de 15 educandos. Para visitas de más tiempo y grupos a partir de 25 educandos: Consultar Precio. Educadores/as y maestros/as gratuíto. Para la reserva de la visita se deberá aportar un 30% del coste total. 
 
 **Ubicación:** Montañana, ZARAGOZA (se puede acceder con autobús) 
 
