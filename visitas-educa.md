@@ -11,6 +11,9 @@ cover-img: /assets/img/visitas/educativos.jpg
 
 En nuestro Centro Demostrativo de Permacultura, ofrecemos una experiencia educativa única y adaptada para los más pequeños. Aquí, las niñas y niños descubren la magia de la naturaleza, aprenden a cuidar el medio ambiente, desarrollan un amor por la tierra y sus habitantes y a ser parte de un ciclo natural que alimenta y protege a todos. Todo a través de actividades prácticas y divertidas. Está dirigida a **Escuela Infantiles**, 
 **Centros de Educación Primaria**, **Centros de Educación Especial** y **Grupos de familias con niños y niñas** 
+<br>
+<img class=img1 src="../assets/img/visitas/nanyland.png"/>
+
 <hr>
 
 ## ¿Qué es la permacultura?
