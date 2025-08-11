@@ -46,30 +46,33 @@ Para saber más: <a href="{{ '/diseno ' | absolute_url  }}" class="button" type=
 <!-- {% include home_posts.html %} -->
 <br>
 <hr> 
-## Visita Torre escribana
+## Visita Torre Escribana
 
-Es posible visitar <span class="letralogo"> Torre Escribana. </span> de diferentes maneras y estaremos encantadas de abrir nuestras puertas para compartir con vosotras nuestras experiencias, pero es importante saber que es **nuestro hogar, nuestra"cueva"**. Es allí donde vivimos las alegrías y penas familiares y donde hacemos nuestra vida día tras día.
+Nos encanta recibir visitas y compartir lo que vivimos aquí. 
+<span class="letralogo">Torre Escribana</span> es nuestro hogar, nuestro refugio, 
+y abrirlo es invitarte a formar parte de nuestra vida por un momento.
 
-Si quieres visitar el proyecto <a href="{{ '/visitas ' | absolute_url  }}"><strong>AQUÍ</strong>
-</a> te explicamos como puedes hacerlo. Consulta además la <a href="{{ '/agenda ' | absolute_url  }}"><strong>AGENDA</strong>
-</a> de <span class="letralogo"> Torre Escribana. </span> para comprobar si se acerca una jornada colaborativa o día de puertas abiertas.
+<div class="contenedor-un-boton">
+  <a href="{{ '/visitas' | absolute_url }}" class="boton-visita">
+    <img src="{{ '/assets/img/otros/visitatorre.png' | absolute_url }}" alt="Visitar Torre Escribana">
+  </a>
+</div>
 
-
+Consulta la <a href="{{ '/agenda' | absolute_url }}"><strong>AGENDA</strong></a> 
+para saber si se acerca una jornada colaborativa o un día de puertas abiertas.
 
 ![](assets\img\proyecto\nuevas\gallinero1.jpg)
-<hr> 
+<hr>
+<hr>
 
-<a href="{{ '/contacto ' | absolute_url  }}" ><button> <span class="letralogo"> Contáctanos</span></button>   </a>
-
-<div class="centrado">
-
-  <a href="https://www.instagram.com/torrescribana/" target=_blank>  
-    <img 
-      src="{{ '/assets/img/insta.png' | absolute_url  }}" alt="instagram @torrescribana"
-       />  
-           
-   </a>
+<div class="contenedor-un-boton">
+  <a href="{{ '/contacto' | absolute_url }}" class="boton-visita">
+    <img src="{{ '/assets/img/otros/botoncontacta.png' | absolute_url }}" alt="Contáctanos">
+  </a>
 </div>
+
+<hr>
+<hr>
 
 
 

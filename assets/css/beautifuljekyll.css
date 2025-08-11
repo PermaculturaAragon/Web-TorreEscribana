@@ -918,11 +918,15 @@ pre {
 .box-warning,
 .box-error,
 .box-success {
-  padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
-  margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
-  
+  padding: 1rem 1.5rem;
+  margin: 1.5rem auto;
   border-left-width: 0.3125rem;
+  border-left-style: solid;
+  border-left-color: #28a745; /* verde éxito */
   border-radius: 0.3125rem 0.1875rem 0.1875rem 0.3125rem;
+  background-color: #d4edda; /* fondo verde claro */
+  color: #155724; /* texto verde oscuro */
+  font-size: 1rem;
 }
 
 .box-note {
@@ -944,6 +948,42 @@ pre {
   background-color: #70d1167a;
   border-left-color: #22aa22;
   font-size: smaller;
+}
+
+.box-cita {
+  padding: 1rem 1.5rem;
+  margin: 1.5rem auto;
+  
+  background: rgba(140, 207, 145, 0.15); /* verde suave con 15% de opacidad */
+  border-left: 4px solid #8ccf91; /* verde suave para acento */
+  font-style: italic;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #4b604d; /* verde-gris oscuro para el texto */
+  position: relative;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+
+
+/* Comillas decorativas */
+.box-cita::before {
+  content: "“";
+  font-size: 3rem;
+  color: #ccc;
+  position: absolute;
+  top: -10px;
+  left: 10px;
+}
+
+.box-cita::after {
+  content: "”";
+  font-size: 3rem;
+  color: #ccc;
+  position: absolute;
+  bottom: -20px;
+  right: 10px;
 }
 
 /* --- Misc blog post styles --- */
