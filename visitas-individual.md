@@ -7,7 +7,7 @@ cover-img: /assets/img/visitas/aerea.png
 
 
 {: .box-error}
-**ATENCIÓN:** Estamos trabajando para poder ofrecerte este tipo de visitas **a partir de Enero de 2025.**
+**ATENCIÓN:** Estamos trabajando para poder ofrecerte este tipo de visitas **a partir de Noviembre de 2025.**
 
 
 <p>Recientemente hemos tenido la oportunidad de sumarnos a <a href="https://elcaminoess.com//" target="_blank"><strong>El CAMINO ESS</strong></a>. Iniciativa que surge como una propuesta turística alternativa a través de <b>experiencias sostenibles y responsables</b> en Cataluña, Aragón, La Rioja, Castilla y León y Galicia.</p> 

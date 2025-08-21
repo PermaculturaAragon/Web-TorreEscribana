@@ -12,7 +12,7 @@ Cuando los niños aprenden con las manos en la tierra, siembran raíces que crec
 
 ### ¡Un lugar mágico donde las niñas y niños aprenden de la naturaleza!
 
-En nuestro <b>Centro Demostrativo de Permacultura</b>, ofrecemos una experiencia educativa única y adaptada para los más pequeños. Aquí, las niñas y niños descubren la magia de la naturaleza, aprenden a cuidar el medio ambiente, desarrollan un amor por la tierra y sus habitantes y a ser parte de un ciclo natural que alimenta y protege a todos. Todo a través de <b>actividades prácticas y divertidas</b>. 
+En nuestro <b>Centro Demostrativo de Permacultura</b>, ofrecemos una experiencia educativa única y adaptada para los más pequeños. Aquí, las niñas y niños descubren, mediante <b>actividades prácticas y divertidas,</b> la magia de la naturaleza, aprenden a cuidar el medio ambiente, desarrollan un amor por la tierra y sus habitantes y a ser parte de un ciclo natural que alimenta y protege a todos.
 
 
 
@@ -85,14 +85,11 @@ No obstante, estamos encantados de recibir visitas durante todo el año. Sin emb
        </div>      
 </a>
 </div>
-<br>
-
-DESCARGA AQUI LA INFORMACION EN PDF
 
 <a href="../assets/img/proyecto/nuevas/casaarbol2.jpg" target="_blank"><img class=img1 src="../assets/img/proyecto/nuevas/casaarbol2.jpg"/> </a>
 
 
-<a href="../assets/img/proyecto/nuevas/zonajuegos.jpg" target="_blank"><img class=img1 src="../assets/img/proyecto/nuevas/zonajuegos.jpg"/> </a>
+<a href="../assets/img/proyecto/nuevas/zonajuegos.jpg" target="_blank"><img class=img1 src="../assets/img/proyecto/nuevas/erasmusalmuerzo.jpg"/> </a>
 
 <hr>
 
