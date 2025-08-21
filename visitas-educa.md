@@ -6,11 +6,20 @@ cover-img: /assets/img/visitas/educativos.jpg
 ---
 
 
-## Bienvenidos al Centro Demostrativo de Permacultura <span class="letralogo"> Torre Escribana. </span>
+<div class="box-cita">
+Cuando los niños aprenden con las manos en la tierra, siembran raíces que crecerán para toda la vida
+</div>
+
 ### ¡Un lugar mágico donde las niñas y niños aprenden de la naturaleza!
 
-En nuestro Centro Demostrativo de Permacultura, ofrecemos una experiencia educativa única y adaptada para los más pequeños. Aquí, las niñas y niños descubren la magia de la naturaleza, aprenden a cuidar el medio ambiente, desarrollan un amor por la tierra y sus habitantes y a ser parte de un ciclo natural que alimenta y protege a todos. Todo a través de actividades prácticas y divertidas. Está dirigida a **Escuela Infantiles**, 
-**Centros de Educación Primaria**, **Centros de Educación Especial** y **Grupos de familias con niños y niñas** 
+En nuestro <b>Centro Demostrativo de Permacultura</b>, ofrecemos una experiencia educativa única y adaptada para los más pequeños. Aquí, las niñas y niños descubren la magia de la naturaleza, aprenden a cuidar el medio ambiente, desarrollan un amor por la tierra y sus habitantes y a ser parte de un ciclo natural que alimenta y protege a todos. Todo a través de <b>actividades prácticas y divertidas</b>. 
+
+
+
+  <div class="box-success"> Está dirigida a Escuela Infantiles, 
+Centros de Educación Primaria, Centros de Educación Especial y Grupos de familias con niños y niñas
+
+</div>
 <br>
 <img class=img1 src="../assets/img/visitas/nanyland.png"/>
 
@@ -21,38 +30,34 @@ La permacultura es una manera de vivir en armonía con la naturaleza, creando es
 <hr>
 
 ## ¿Qué ofrecemos a las escuelas infantiles?
-**Exploración Guiada:** El duende Escribano nos guiará en un recorrido por nuestro centr  o dejando pistas para que podamos descubrir de una forma lúdica el huerto, los árboles, y pequeños animales que forman parte de nuestro ecosistema.  A través de cuentos y juegos, aprenderán sobre la importancia de cuidar la tierra y cómo cada planta y animal tiene un papel especial en la naturaleza.
+<div class="box-success"><b>Exploración Guiada:</b> Las hadas y duendes de Torre Escribana nos guiarán en un recorrido por nuestro centro dejando pistas para que podamos descubrir de una forma lúdica el huerto, los árboles, y pequeños animales que forman parte de nuestro ecosistema. A través de cuentos y juegos, aprenderán sobre la importancia de cuidar la tierra y cómo cada planta y animal tiene un papel especial en la naturaleza.</div>
 
-**Actividades Prácticas:** Ofrecemos talleres para los más pequeños adaptados a cada época del año. (Sembrar en el huerto, collage de hojas secas, ramos de flores de temporada, texturas y olores...)
-Estas actividades están diseñadas para ser divertidas, educativas, y seguras, permitiendo a las niñas y niños explorar con sus manos y corazones.
+<div class="box-success"><b>Actividades Prácticas:</b> Ofrecemos talleres para los más pequeños adaptados a cada época del año. (Sembrar en el huerto, construcciones con barro, collage de hojas secas, ramos de flores de temporada, texturas y olores...) Estas actividades están diseñadas para ser divertidas, educativas, y seguras, permitiendo a las niñas y niños explorar con sus manos y corazones.</div>
 
-**Encuentro con Animales:** Las niñas y niños tendrán la oportunidad de conocer a nuestros animales, como gallinas, patos, ocas, pavos, cabras... Podrán tocar y dar de comer alguno de ellos.
-Aprenderán cómo estos animales nos ayudan a cuidar y regenerar la tierra y cómo podemos respetarlos y cuidarlos a cambio.
+<div class="box-success"><b>Encuentro con Animales:</b> Las niñas y niños tendrán la oportunidad de conocer a nuestros animales, como gallinas, patos, ocas, pavos, cabras, cerdos... Podrán tocar y dar de comer a alguno de ellos. Aprenderán cómo estos animales nos ayudan a cuidar y regenerar la tierra y cómo podemos respetarlos y cuidarlos a cambio.</div>
 
-**Juegos y Cuentos en la Naturaleza:** Torre Escribana también dispone de espacios al aire libre para pasar tiempos de juego libre o almorzar a la sombra de los árboles. Utilizamos cuentos y dinámicas que enseñan valores como la cooperación, la responsabilidad, y el amor por el medio ambiente.
+<div class="box-success"><b>Juegos y Cuentos en la Naturaleza:</b> Torre Escribana también dispone de espacios al aire libre para pasar tiempos de juego libre o almorzar a la sombra de los árboles. Utilizamos cuentos y dinámicas que enseñan valores como la cooperación, la responsabilidad, y el amor por el medio ambiente.</div>
+
 
 ### Beneficios para las niños y los niños
 Una visita a nuestro Centro Demostrativo es una forma maravillosa de complementar la educación en el aula con experiencias prácticas y sensoriales. Las niñas y niños desarrollarán una conexión más profunda con la naturaleza, aprenderán sobre sostenibilidad de manera sencilla y lúdica, y vivirán una aventura que recordarán siempre.
 <hr>
 
 ### Información para los educadores
-**Horarios de Visita:** A convenir, preferiblemente entre semana de 9:30 a 13:30
+<div class="box-success"><b>Horarios de Visita:</b> A convenir, preferiblemente entre semana de 9:30 a 13:30.</div>
 
-**Duración de la Visita:** Las visitas suelen durar entre 1,5 y 2 horas, adaptadas al ritmo y necesidades de las niñas y niños. 
+<div class="box-success"><b>Duración de la Visita:</b> Las visitas suelen durar entre 1,5 y 3 horas, adaptadas al ritmo y necesidades de las niñas y niños.</div>
 
-**Reservas:** Para asegurar la mejor experiencia, solicitamos que las visitas se reserven con al menos un mes de antelación. Estamos encantados de colaborar con los educadores para personalizar la visita según los intereses y objetivos del grupo. 
+<div class="box-success"><b>Reservas:</b> Para asegurar la mejor experiencia, solicitamos que las visitas se reserven con al menos un mes de antelación. Estamos encantados de colaborar con los educadores para personalizar la visita según los intereses y objetivos del grupo.</div>
 
-**Precio:** Para las visitas de 1,5 a 2 horas: 15€ por educando siendo el mínimo un grupo de 15 educandos. Para visitas de más tiempo y grupos a partir de 25 educandos: Consultar Precio. Educadores/as y maestros/as gratuíto. Para la reserva de la visita se deberá aportar un 30% del coste total. 
+<div class="box-success"><b>Precio:</b> Para las visitas de 1,5 a 2 horas: 15€ por educando siendo el mínimo un grupo de 15 educandos. Para visitas de más tiempo y grupos a partir de 25 educandos: Consultar Precio. Educadores/as y maestros/as gratuito. Para la reserva de la visita se deberá aportar un 30% del coste total.</div>
 
-**Ubicación:** Montañana, ZARAGOZA (se puede acceder con autobús) 
+<div class="box-success"><b>Ubicación:</b> Montañana, ZARAGOZA (se puede acceder con autobús).</div>
 
-**Contacto:**  
-Teléfono: 644 304883  
-Email: torreescribana (arroba) gmail.com  
-<a href="{{ '/contacto' | absolute_url  }}"><strong>CONTACTO</strong>
-</a>
+<div class="box-success"><b>Contacto:</b> Teléfono: 644 304 883 — Email: torreescribana (arroba) gmail.com</div>
 
-**Entidad organizadora**: ASOCIACIÓN CULTURAL Y MEDIOAMBIENTAL PERMACULTURA ARAGÓN. CIF: G-99461980
+<div class="box-success"><b>Entidad organizadora:</b> ASOCIACIÓN CULTURAL Y MEDIOAMBIENTAL PERMACULTURA ARAGÓN. CIF: G-99461980</div>
+
 
 <span class="letralogo"> ¡Únete a nosotros para una aventura educativa en la naturaleza!  </span>
 

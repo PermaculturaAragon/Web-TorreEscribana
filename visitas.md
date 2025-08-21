@@ -14,7 +14,7 @@ cover-img: /assets/img/visitas/bulgaros.jpg
 
 
 
-Explora nuestras opciones de visita a continuación y únete a nosotras en esta emocionante aventura hacia un futuro más verde y consciente. ¡Esperamos conocerte pronto en <span class="letralogo"> Torre Escribana. </span>!
+Explora nuestras opciones de visita a continuación y únete a nosotras en esta emocionante aventura hacia un futuro más verde y consciente. ¡Esperamos conocerte pronto en <span class="letralogo"> Torre Escribana </span>!.
 
 
 

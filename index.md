@@ -63,7 +63,7 @@ para saber si se acerca una jornada colaborativa o un día de puertas abiertas.
 
 ![](assets\img\proyecto\nuevas\gallinero1.jpg)
 <hr>
-<hr>
+
 
 <div class="contenedor-un-boton">
   <a href="{{ '/contacto' | absolute_url }}" class="boton-visita">
@@ -72,7 +72,7 @@ para saber si se acerca una jornada colaborativa o un día de puertas abiertas.
 </div>
 
 <hr>
-<hr>
+
 
 
 
