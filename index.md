@@ -7,11 +7,17 @@ cover-img: /assets/img/index/portada.jpg
 
 <link rel="icon" href="..\assets\img\favicon.png" type="image/x-icon">
 
-<span class="letralogo"> Torre Escribana. </span> pretende ser un **Centro Demostrativo de Permacultura** situado en la fértil zona de huerta cerca de **Zaragoza** y regado por las aguas del río Gállego. Inspirada por la **naturaleza**, la finca busca ser un modelo de **sostenibilidad** y **responsabilidad ambiental y social**, ofreciendo inspiración a aquellos que desean vivir de manera más **consciente y autosuficiente**. A través de la aplicación de **patrones naturales**, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
+<span class="letralogo"> Torre Escribana </span> nace para ser un **Centro Demostrativo de Permacultura** situado en la fértil zona de huerta cerca de **Zaragoza** y regado por las aguas del río Gállego. Inspirada por la **naturaleza**, la finca busca ser un modelo de **sostenibilidad** y **responsabilidad ambiental y social**, ofreciendo inspiración a aquellos que desean vivir de manera más **consciente y autosuficiente**.
+
+  <div class="box-cita">
+     A través de la aplicación de <b>patrones naturales</b>, trabajamos para regenerar y cuidar el trozo de tierra que nos ha sido confiado.
+  </div>
+
 
 ![](assets\img\proyecto\nuevas\patitos.jpg)
 
-Diferentes elementos interconectados y las dinámicas que manejan dichos elementos componen el ecosistema de <span class="letralogo"> Torre Escribana. </span>. Intentamos cerrar todos los ciclos posibles de materia y energía con el objetivo en mente de generar incluso más de la que necesitamos para el funcionamiento. 
+
+<span class="letralogo"> Torre Escribana</span> es un ecosistema de elementos conectados. Cerramos los ciclos de materia y energía para producir más de lo que consumimos.
 
 En <span class="letralogo"> Torre Escribana. </span>, la conexión con la tierra es palpable en cada rincón, y estamos emocionados de abrir y compartir este oasis de vida y sostenibilidad con vosotras.
 
@@ -39,8 +45,8 @@ Para saber más: <a href="{{ '/diseno ' | absolute_url  }}" class="button" type=
 ![](assets\img\proyecto\nuevas\parterre.jpg)
 
 
-<hr> 
-{% include home_events.html %}
+<!--<hr> 
+<!-- {% include home_events.html %} -->
 
 
 <!-- {% include home_posts.html %} -->

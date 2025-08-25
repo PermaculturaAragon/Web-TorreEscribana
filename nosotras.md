@@ -11,7 +11,7 @@ En <span class="letralogo"> Torre Escribana. </span>, somos una comunidad dedica
 <hr>
 ### Quiénes vivimos actualmente
 
-En <span class="letralogo"> Torre Escribana. </span>, somos una comunidad íntima y comprometida, formada por Irene y Ángel, fundadores del proyecto junto a Ester y Pedro. Desde nuestros inicios, hemos sido guiados por el deseo compartido de crear un espacio donde la autosuficiencia y el respeto por la naturaleza sean nuestros pilares fundamentales. Un lugar ideal para ver crecer a nuetros hijos.
+En <span class="letralogo"> Torre Escribana. </span>, somos una comunidad íntima y comprometida, formada por Irene y Ángel, fundadores del proyecto junto a Ester y Pedro. Desde nuestros inicios, hemos sido guiados por el deseo compartido de crear un espacio donde la autosuficiencia y el respeto por la naturaleza sean nuestros pilares fundamentales. Un lugar ideal para ver crecer a nuestros hijos.
 
 Nuestra historia está marcada por el arduo trabajo y la dedicación de todos los que habéis pasado por aquí. Cada persona que se une a nuestros cursos y talleres trae consigo una energía única y contribuye a enriquecer nuestra comunidad.
 

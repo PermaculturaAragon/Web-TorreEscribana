@@ -35,7 +35,7 @@ A través de la creación de sistemas de recolección de recursos durante tiempo
 *“No puedes trabajar con el estómago vacío”*  
 Asegura que estas obteniendo recompensas realmente útiles como parte del trabajo que estás realizando.
 {: .box-success}
-<img class='principle circularimagen' src="../assets/img/principios/es_principle_4.png"/> **4- Auto-regulación y retro-alimentación:**
+<img class='principle circularimagen' src="../assets/img/principios/es_principle_4.png"/> **4- Auto-regulación y retroalimentación:**
 *“Los pecados de los padres se castigan en los hijos hasta la séptima generación”*  
 Necesitamos desalentar las actividades no apropiadas para asegurar que los sistemas continúen funcionando bien.
 {: .box-success}
@@ -102,7 +102,7 @@ Hay un montón de estructuras que nos guían para completar un diseño. Muchas d
 Otros métodos de diseño: Dadi, Dragon Dreaming, Red de Diseño, La Rueda EsEmCueM...
 <hr>
 
-### Herramientas de Obervación.  
+### Herramientas de Observación.  
 Para entrenar y realizar una observación objetiva nos apoyamos en herramientas que nos facilitan la tarea. Mapa mental Mapa base, Mapa de sombras, TOAFE, DAFOR, Topografía, Microclimas, Composición del suelo, Cuestionario para clientes, Lenguaje de patrones, Planificando de verdad...  
 <hr>
 
