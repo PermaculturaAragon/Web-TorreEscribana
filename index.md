@@ -30,7 +30,7 @@ En <span class="letralogo"> Torre Escribana. </span>, la conexión con la tierra
 <a href="{{ '/diseno ' | absolute_url  }}" ><button class="letralogo">Profundiza en su diseño</button>   </a>
 
 
-![](assets\img\proyecto\nuevas\fachada.jpg)
+![](assets\img\proyecto\nuevas\huerto.jpg)
 
 <hr>
 
