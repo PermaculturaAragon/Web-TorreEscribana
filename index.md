@@ -23,12 +23,11 @@ En <span class="letralogo"> Torre Escribana. </span>, la conexión con la tierra
 
 
 
-<a href="{{ '/proyecto ' | absolute_url  }}" ><button class="letralogo">Descubre mucho más</button>   </a>
-
-<a href="{{ '/nosotras ' | absolute_url  }}" ><button class="letralogo">Conoce a sus integrantes</button>   </a>
-
-<a href="{{ '/diseno ' | absolute_url  }}" ><button class="letralogo">Profundiza en su diseño</button>   </a>
-
+<div class="botones-inline">
+  <a href="{{ '/proyecto ' | absolute_url }}"><button class="letralogo btn-te">Descubre mucho más</button></a>
+  <a href="{{ '/nosotras ' | absolute_url }}"><button class="letralogo btn-te">Conoce a sus integrantes</button></a>
+  <a href="{{ '/diseno ' | absolute_url }}"><button class="letralogo btn-te">Profundiza en su diseño</button></a>
+</div>
 
 ![](assets\img\proyecto\nuevas\huerto.jpg)
 
@@ -84,7 +83,7 @@ para saber si se acerca una jornada colaborativa o un día de puertas abiertas.
 
 
 ## Proyectos amigos
-<div class="centrado">
+<div class="logos-amigos">
   <div class="zoom-basico">
     <a href="http://www.permaculturaaragon.org/" target=_blank>  
       <img class="img2"

@@ -1,23 +1,24 @@
-// Dean Attali / Beautiful Jekyll 2023
+// Beautiful Jekyll core behaviour + Torre Escribana custom JS
 
 let BeautifulJekyllJS = {
 
-  bigImgEl : null,
-  numImgs : null,
-
   init : function() {
-    setTimeout(BeautifulJekyllJS.initNavbar, 10);
+    // Navbar
+    BeautifulJekyllJS.initNavbar();
 
-    // Shorten the navbar after scrolling a little bit down
+    // Imagen de cabecera (big image)
+    BeautifulJekyllJS.initHeaderImg();
+
+    // Navbar que se encoge al hacer scroll
     $(window).scroll(function() {
-        if ($(".navbar").offset().top > 50) {
-            $(".navbar").addClass("top-nav-short");
-        } else {
-            $(".navbar").removeClass("top-nav-short");
-        }
+      if ($(".navbar").offset().top > 50) {
+        $(".navbar").addClass("top-nav-short");
+      } else {
+        $(".navbar").removeClass("top-nav-short");
+      }
     });
 
-    // On mobile, hide the avatar when expanding the navbar menu
+    // Estilos al abrir/cerrar menú móvil
     $('#main-navbar').on('show.bs.collapse', function () {
       $(".navbar").addClass("top-nav-expanded");
     });
@@ -25,97 +26,62 @@ let BeautifulJekyllJS = {
       $(".navbar").removeClass("top-nav-expanded");
     });
 
-    // show the big header image
-    BeautifulJekyllJS.initImgs();
-
+    // Buscador en overlay
     BeautifulJekyllJS.initSearch();
   },
 
   initNavbar : function() {
-    // Set the navbar-dark/light class based on its background color
-    const rgb = $('.navbar').css("background-color").replace(/[^\d,]/g,'').split(",");
-    const brightness = Math.round(( // http://www.w3.org/TR/AERT#color-contrast
-      parseInt(rgb[0]) * 299 +
-      parseInt(rgb[1]) * 587 +
-      parseInt(rgb[2]) * 114
-    ) / 1000);
+    // Decide si la navbar debe ser dark o light según su fondo
+    const navbar = $('.navbar');
+    if (!navbar.length) return;
+
+    const rgb = navbar.css("background-color").replace(/[^\d,]/g,'').split(",");
+    if (rgb.length < 3) return;
+
+    const brightness = Math.round(
+      (parseInt(rgb[0]) * 299 +
+       parseInt(rgb[1]) * 587 +
+       parseInt(rgb[2]) * 114) / 1000
+    );
+
     if (brightness <= 125) {
-      $(".navbar").removeClass("navbar-light").addClass("navbar-dark");
+      navbar.removeClass("navbar-light").addClass("navbar-dark");
     } else {
-      $(".navbar").removeClass("navbar-dark").addClass("navbar-light");
+      navbar.removeClass("navbar-dark").addClass("navbar-light");
     }
   },
 
-  initImgs : function() {
-    // If the page was large images to randomly select from, choose an image
-    if ($("#header-big-imgs").length > 0) {
-      BeautifulJekyllJS.bigImgEl = $("#header-big-imgs");
-      BeautifulJekyllJS.numImgs = BeautifulJekyllJS.bigImgEl.attr("data-num-img");
+  // 🔹 NUEVO: inicializar imagen de cabecera SIN aleatorios
+  initHeaderImg : function() {
+    const bigImgEl = $("#header-big-imgs");
+    if (!bigImgEl.length) return;
 
-      // 2fc73a3a967e97599c9763d05e564189
-      // set an initial image
-      const imgInfo = BeautifulJekyllJS.getImgInfo();
-      const src = imgInfo.src;
-      const desc = imgInfo.desc;
-      BeautifulJekyllJS.setImg(src, desc);
+    // Número de imágenes declarado
+    const numImgs = parseInt(bigImgEl.attr("data-num-img")) || 0;
+    if (numImgs === 0) return;
 
-      // For better UX, prefetch the next image so that it will already be loaded when we want to show it
-      const getNextImg = function() {
-        const imgInfo = BeautifulJekyllJS.getImgInfo();
-        const src = imgInfo.src;
-        const desc = imgInfo.desc;
+    // Usamos siempre la primera (data-img-src-1)
+    const src  = bigImgEl.attr("data-img-src-1");
+    const desc = bigImgEl.attr("data-img-desc-1");
 
-        const prefetchImg = new Image();
-        prefetchImg.src = src;
-        // if I want to do something once the image is ready: `prefetchImg.onload = function(){}`
-
-        setTimeout(function(){
-          const img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
-          $(".intro-header.big-img").prepend(img);
-          setTimeout(function(){ img.css("opacity", "1"); }, 50);
-
-          // after the animation of fading in the new image is done, prefetch the next one
-          //img.one("transitioned webkitTransitionEnd oTransitionEnd MSTransitionEnd", function(){
-          setTimeout(function() {
-            BeautifulJekyllJS.setImg(src, desc);
-            img.remove();
-            getNextImg();
-          }, 1000);
-          //});
-        }, 6000);
-      };
-
-      // If there are multiple images, cycle through them
-      if (BeautifulJekyllJS.numImgs > 1) {
-        getNextImg();
-      }
-    }
+    if (!src) return;
+    BeautifulJekyllJS.setImg(src, desc);
   },
 
-  getImgInfo : function() {
-    const randNum = Math.floor((Math.random() * BeautifulJekyllJS.numImgs) + 1);
-    const src = BeautifulJekyllJS.bigImgEl.attr("data-img-src-" + randNum);
-    const desc = BeautifulJekyllJS.bigImgEl.attr("data-img-desc-" + randNum);
-
-    return {
-      src : src,
-      desc : desc
-    }
-  },
-
+  // 🔹 Necesario para aplicar el background a la cabecera
   setImg : function(src, desc) {
     $(".intro-header.big-img").css("background-image", 'url(' + src + ')');
-    if (typeof desc !== typeof undefined && desc !== false) {
-      $(".img-desc").text(desc).show();
+    const $desc = $(".img-desc");
+    if (typeof desc !== "undefined" && desc !== false && desc !== "") {
+      $desc.text(desc).show();
     } else {
-      $(".img-desc").hide();
+      $desc.hide();
     }
   },
 
   initSearch : function() {
-    if (!document.getElementById("beautifuljekyll-search-overlay")) {
-      return;
-    }
+    const overlay = document.getElementById("beautifuljekyll-search-overlay");
+    if (!overlay) return;
 
     $("#nav-search-link").click(function(e) {
       e.preventDefault();
@@ -123,13 +89,15 @@ let BeautifulJekyllJS = {
       $("#nav-search-input").focus().select();
       $("body").addClass("overflow-hidden");
     });
+
     $("#nav-search-exit").click(function(e) {
       e.preventDefault();
       $("#beautifuljekyll-search-overlay").hide();
       $("body").removeClass("overflow-hidden");
     });
+
     $(document).on('keyup', function(e) {
-      if (e.key == "Escape") {
+      if (e.key === "Escape") {
         $("#beautifuljekyll-search-overlay").hide();
         $("body").removeClass("overflow-hidden");
       }
@@ -137,6 +105,21 @@ let BeautifulJekyllJS = {
   }
 };
 
-// 2fc73a3a967e97599c9763d05e564189
+// --- Código personalizado Torre Escribana ---
 
-document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+document.addEventListener('DOMContentLoaded', function () {
+
+  BeautifulJekyllJS.init();
+
+  // Marca eventos pasados según data-end
+  $(".card").each((_, element) => {
+    const el = $(element);
+    const endDate = el.data("end");
+    if (!endDate) return;
+
+    const diff = new Date().getTime() - new Date(endDate).getTime();
+    if (diff > 0) {
+      el.addClass("past-event");
+    }
+  });
+});

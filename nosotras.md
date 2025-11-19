@@ -38,8 +38,15 @@ Durante su tiempo en <span class="letralogo"> Torre Escribana. </span>, Carmen, 
 
 Al despedirnos de quienes han elegido partir, damos la bienvenida a nuevas oportunidades y perspectivas que surgen en el camino. La comunidad de <span class="letralogo"> Torre Escribana. </span> continúa creciendo y cambiando, adaptándose a los desafíos y abrazando nuevas posibilidades mientras avanzamos hacia el futuro.
 
-<a href="{{ '/proyecto ' | absolute_url  }}" ><button class="letralogo">Descubre mucho más</button>   </a>
+<div class="botones-home">
+  <a href="{{ '/proyecto' | absolute_url }}" class="btn-te btn-te--slim">
+    Descubre mucho más
+  </a>
 
-<a href="{{ '/diseno ' | absolute_url  }}" ><button class="letralogo">Profundiza en su diseño</button>   </a>
 
+
+  <a href="{{ '/diseno' | absolute_url }}" class="btn-te btn-te--slim">
+    Profundiza en su diseño
+  </a>
+</div>
 <hr>

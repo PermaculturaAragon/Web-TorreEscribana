@@ -80,9 +80,17 @@ Podemos tener un impacto positivo sobre el cambio inevitable observándolo cuida
 
 
 
-<a href="{{ '/proyecto ' | absolute_url  }}" ><button class="letralogo">Descubre mucho más</button>   </a>
+<div class="botones-home">
+  <a href="{{ '/proyecto' | absolute_url }}" class="btn-te btn-te--slim">
+    Descubre mucho más
+  </a>
 
-<a href="{{ '/nosotras ' | absolute_url  }}" ><button class="letralogo">Conoce a sus integrantes</button>   </a>
+  <a href="{{ '/nosotras' | absolute_url }}" class="btn-te btn-te--slim">
+    Conoce a sus integrantes
+  </a>
+
+
+</div>
 
 
 <img class=img1 src="../assets/img/proyecto/nuevas/aromaticas2.jpg"/>
