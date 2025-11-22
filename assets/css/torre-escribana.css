@@ -29,6 +29,17 @@ body > main {
   flex: 1;
 }
 
+body.home-no-hero > main {
+  margin-top: 0;   /* ya no empujamos el main */
+}
+
+@media (max-width: 767px) {
+  body.home-no-hero > main {
+    margin-top: 4.5rem;
+  }
+}
+
+
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
@@ -1922,3 +1933,570 @@ hr {
 .logos-amigos img:hover {
   transform: scale(1.08);
 }
+
+
+/* === HERO HOME TORRE ESCRIBANA ================== */
+
+.hero-home {
+  position: relative;
+  min-height: 100vh; /* ocupa toda la altura de la ventana */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  /* Fondo: misma imagen que antes */
+  background-image: url("{{ '/assets/img/index/portada.jpg' | absolute_url }}");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* Para que el texto no se meta bajo la navbar fija */
+  padding: 6rem 1.5rem 3rem;
+  margin-bottom: 3rem;
+}
+
+/* Capa oscura suave encima de la foto para que se lea bien el texto */
+.hero-home::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0,0,0,0.45),
+    rgba(0,0,0,0.25)
+  );
+  z-index: 0;
+}
+
+.hero-home__overlay {
+  position: relative;
+  z-index: 1;
+  max-width: 720px;
+  margin: 0 auto;
+  color: #ffffff;
+}
+
+/* Píldora superior */
+.hero-home__pill {
+  display: inline-block;
+  padding: 0.35rem 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  letter-spacing: 0.14em;
+  
+  background-color: rgba(255,255,255,0.1);
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,0.55);
+}
+
+/* Título principal del hero */
+.hero-home__title {
+  font-family: 'Escribana', 'Open Sans', sans-serif;
+  font-size: clamp(2.6rem, 4.2vw, 3.75rem);
+  font-weight: normal;
+  margin: 0.5rem 0 1rem;
+  text-shadow: 0 3px 8px rgba(0,0,0,0.7);
+}
+
+/* Subtítulo y línea de contexto */
+.hero-home__subtitle {
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.6;
+  margin: 0 0 2rem;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+}
+
+/* Botones del hero */
+.hero-home__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+/* Un poco de sombra a los botones para que destaquen sobre la foto */
+.hero-home__buttons .btn-te,
+.hero-home__buttons .btn-te--outline {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.35);
+}
+
+/* Botón outline en hero: borde y texto blancos */
+.hero-home__buttons .btn-te--outline {
+  background-color: transparent;
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.hero-home__buttons .btn-te--outline:hover,
+.hero-home__buttons .btn-te--outline:focus {
+  background-color: rgba(255,255,255,0.15);
+  color: #ffffff;
+}
+
+/* Ajustes responsive */
+@media (max-width: 768px) {
+  .hero-home {
+    padding-top: 5.5rem;
+    padding-bottom: 2.5rem;
+    min-height: 90vh; /* un pelín menos para móviles */
+
+  }
+
+  .hero-home__title {
+    font-size: clamp(2.2rem, 7vw, 2.6rem);
+  }
+
+  .hero-home__subtitle {
+    font-size: 0.95rem;
+  }
+}
+
+/* Ajuste específico SOLO para la home */
+body.home-no-hero header.header-section {
+  display: none !important;
+}
+
+body.home-no-hero main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+
+/* HERO a pantalla completa aunque esté dentro de un .container */
+body.home-no-hero .hero-home {
+  width: 100vw; /* ocupa todo el viewport */
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  border-radius: 0;
+}
+
+/* Por si algún contenedor padre mete padding lateral */
+body.home-no-hero main {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+/* === BLOQUE INSPIRACIÓN – estilo "sección manifiesto" === */
+
+.bloque-inspiracion {
+  text-align: center;
+  margin: 4rem auto 5rem;
+  max-width: 900px;
+  padding: 0 1.5rem;
+}
+
+.titulo-inspiracion {
+  font-size: 3rem;
+  color: #6fa52a;
+  margin-bottom: 2rem;
+  font-weight: 400;
+}
+
+.ilustracion-inspiracion img {
+  width: 60%;
+  max-width: 350px;
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+.cita-inspiracion {
+  font-size: 1.1rem;
+  color: #555;
+  font-style: italic;
+  margin: 1.5rem auto 2rem;
+}
+
+.cita-inspiracion .autor {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.texto-inspiracion {
+  font-size: 1.25rem;
+  line-height: 1.7;
+  color: #3a4a3a;
+}
+
+
+.ilustracion-landing {
+  max-width: 700px !important;
+  width: 90% !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+.blog-post .ilustracion-landing {
+  max-width: 900px !important;
+}
+
+/* === SECCIÓN "QUÉ ENCONTRARÁS" =========================== */
+
+.que-encontraras {
+  margin: 5rem auto 4rem;
+  max-width: 1400px;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.que-title {
+  font-size: 2.8rem;
+  color: #6fa52a;
+  margin-bottom: 2.5rem;
+}
+
+/* Grid de bloques */
+.que-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+}
+
+/* Cada bloque */
+.que-item {
+  position: relative;
+  min-height: 360px;
+  height: 55vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+/* Capa oscura + contenido */
+.que-overlay {
+  position: relative;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+  padding: 2.5rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  text-align: center;
+}
+
+/* Degradado encima de la foto */
+.que-item::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.45),
+    rgba(0, 0, 0, 0.35),
+    rgba(0, 0, 0, 0.55)
+  );
+  z-index: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* Icono circular */
+.que-icon {
+  width: 80px;
+  height: 80px;
+  border-radius: 999px;
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.35);
+}
+
+.que-icon i {
+  font-size: 2rem;
+}
+
+/* Títulos y texto */
+.que-overlay h3 {
+  font-family: "Escribana", "Open Sans", sans-serif;
+  font-size: 1.6rem;
+  margin-bottom: 0.75rem;
+}
+
+.que-overlay p {
+  font-size: 0.98rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Efecto hover */
+.que-item:hover::before {
+  opacity: 0.75;
+}
+
+.que-item:hover {
+  transform: scale(1.01);
+  transition: transform 0.25s ease;
+}
+
+/* Responsivo: 2 columnas en tablet, 1 en móvil */
+@media (max-width: 1024px) {
+  .que-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .que-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .que-item {
+    height: 45vh;
+  }
+}
+
+
+/* Fondos para cada bloque - AJUSTA LAS RUTAS A TUS FOTOS */
+
+.que-huerta-bosque {
+  background-image: url("{{ 'assets\img\index\que-huerta.jpg' | absolute_url }}");
+}
+
+.que-animales {
+  background-image: url("{{ '/assets/img/index/que-animales.jpg' | absolute_url }}");
+}
+
+.que-visitas {
+  background-image: url("{{ '/assets/img/visitas/nanyland.png' | absolute_url }}");
+}
+
+.que-experiencias {
+  background-image: url("{{ 'assets/img/visitas/ayuda1.jpg' | absolute_url }}");
+}
+
+/* Fuerza fullwidth REAL aunque esté dentro de un container del tema */
+.seccion-fullwidth {
+  width: 100vw;
+  max-width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+/* Limpieza de texto en la sección "Qué encontrarás" */
+.que-overlay h3,
+.que-overlay p {
+  text-shadow: none !important;
+}
+
+/* h3 un poco más fino para que no parezca borde grueso */
+.que-overlay h3 {
+  font-weight: 400;
+}
+
+/* Franjas verdes superior e inferior */
+.que-header,
+.que-footer {
+  background-color: #66a747; /* tu verde corporativo */
+  width: 100%;
+  padding: 2.5rem 0;
+}
+
+/* título dentro del bloque verde */
+.que-header h2 {
+  text-align: center;
+  color: white;
+  margin: 0;
+  font-size: 2.4rem;
+  font-weight: 600;
+}
+
+/* para cohesión visual */
+.que-footer {
+  height: 2.5rem;
+}
+
+/* Ajuste con bloques fullwidth */
+.que-header,
+.que-footer {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+}
+
+
+/* === BLOQUE "TORRE ESCRIBANA EN CIFRAS" ==================== */
+
+.stats-te {
+  max-width: 1200px;
+  margin: 4rem auto 5rem;
+  padding: 3rem 2rem;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 18px;
+  box-shadow: 0 18px 40px rgba(0,0,0,0.10);
+  text-align: center;
+}
+
+.stats-title {
+  font-size: 2.4rem;
+  color: #5c9c3e;
+  margin-bottom: 2.5rem;
+}
+
+/* Grid de stats */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem 2rem;
+}
+
+/* Cada item */
+.stat-item {
+  padding: 0 1rem;
+}
+
+/* Icono circular */
+.stat-icon {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 0.9rem;
+  border-radius: 999px;
+  border: 2px solid rgba(92,156,62,0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stat-icon i {
+  font-size: 1.6rem;
+  color: #5c9c3e;
+}
+
+/* Número y texto */
+.stat-number {
+  font-family: "Escribana", "Open Sans", sans-serif;
+  font-size: 1.8rem;
+  color: #2f5b23;
+  margin-bottom: 0.25rem;
+}
+
+.stat-label {
+  font-size: 0.98rem;
+  color: #444;
+  line-height: 1.5;
+}
+
+/* Responsivo */
+@media (max-width: 900px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .stats-te {
+    padding: 2.5rem 1.5rem;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* === QUÉ HACEMOS (versión caja centrada) ================= */
+
+.que-hacemos {
+  max-width: 1200px;
+  margin: 4rem auto 5rem;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+
+.que-hacemos-title {
+  font-size: 2.4rem;
+  color: #5c9c3e;
+  margin-bottom: 2.7rem;
+}
+
+/* Grid de acciones */
+.acciones-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+/* Tarjetas (esto lo puedes tener ya, pero te lo dejo completo) */
+.accion-card {
+  position: relative;
+  height: 260px;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  display: flex;
+  align-items: flex-end;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  box-shadow: rgba(0,0,0,0.12) 0 4px 12px;
+  transition: transform .3s ease, box-shadow .3s ease;
+}
+
+.accion-card:hover {
+  transform: scale(1.03);
+  box-shadow: rgba(0,0,0,0.25) 0 6px 18px;
+}
+
+.accion-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    rgba(0,0,0,0.0),
+    rgba(0,0,0,0.55)
+  );
+  z-index: 0;
+}
+
+.accion-overlay {
+  position: relative;
+  z-index: 2;
+  padding: 1.5rem;
+  color: #fff;
+  text-align: left;
+}
+
+.accion-overlay h3 {
+  font-family: "Escribana", sans-serif;
+  font-size: 1.6rem;
+  margin-bottom: 0.4rem;
+}
+
+.accion-overlay p {
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+
+/* IMÁGENES (pon las rutas reales) */
+.accion-visitas {
+  background-image: url("/assets/img/acciones/visitas.jpg");
+}
+
+.accion-talleres {
+  background-image: url("/assets/img/acciones/talleres.jpg");
+}
+
+.accion-voluntariado {
+  background-image: url("/assets/img/acciones/voluntariado.jpg");
+}
+
+.accion-jornadas {
+  background-image: url("/assets/img/acciones/jornadas.jpg");
+}
+

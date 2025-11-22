@@ -1,5 +1,7 @@
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
+{% if page.hero != false %}
+
 {% if page.cover-img %}
   <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}
     {% for bigimg in page.cover-img %}
@@ -62,5 +64,6 @@
   {% endfor %}
 {% endif %}
 
-
 </header>
+
+{% endif %}
