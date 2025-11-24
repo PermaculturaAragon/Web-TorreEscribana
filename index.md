@@ -141,101 +141,100 @@ body-class: home-no-hero
 
 
 
+<section class="que-hacemos seccion-fullwidth">
 
+  <div class="que-hacemos-inner">
+    <h2 class="que-hacemos-title letralogo">Qué hacemos en Torre Escribana</h2>
 
-<section class="que-hacemos">
-
-  <h2 class="que-hacemos-title letralogo">Qué hacemos en Torre Escribana</h2>
-
-  <div class="acciones-grid">
-
-    <!-- 1. Visitas -->
-    <a href="/visitas" class="accion-card accion-visitas">
-      <div class="accion-overlay">
-        <h3>Visitas escolares y familiares</h3>
-        <p>Aprender en la naturaleza con juegos, talleres y descubrimientos.</p>
+    <!-- 1. VISITAS -->
+    <article class="qh-row">
+      <div class="qh-img">
+        <!-- pon aquí la ilustración VISITAS -->
+        <img src="/assets/img/que-hacemos/visitas.png" alt="Ilustración de visitas en la huerta">
       </div>
-    </a>
-
-    <!-- 2. Talleres y formación -->
-    <a href="/formacion" class="accion-card accion-talleres">
-      <div class="accion-overlay">
-        <h3>Talleres y formación en Permacultura</h3>
-        <p>Aprendizajes prácticos: suelo, agua, biodiversidad, diseño…</p>
+      <div class="qh-content">
+        <h3>Visitas</h3>
+        <p>
+          Visitas escolares y familiares para descubrir la huerta viva, el bosque comestible y
+          los animales integrados en el diseño. Actividades adaptadas a cada grupo para aprender
+          jugando en la naturaleza.
+        </p>
+        <a href="/visitas" class="btn-te qh-btn">+ Info</a>
       </div>
-    </a>
+    </article>
 
-    <!-- 3. Voluntariado y WWOOF -->
-    <a href="/voluntariado" class="accion-card accion-voluntariado">
-      <div class="accion-overlay">
-        <h3>Voluntariado y WWOOF</h3>
-        <p>Vive la experiencia desde dentro, conviviendo y aprendiendo.</p>
+    <!-- 2. FORMACIÓN -->
+    <article class="qh-row">
+      <div class="qh-img">
+        <!-- ilustración FORMACIÓN -->
+        <img src="/assets/img/que-hacemos/formacion.png" alt="Ilustración de talleres y formación">
       </div>
-    </a>
+      <div class="qh-content">
+        <h3>Formación</h3>
+        <p>
+          Talleres y procesos formativos en Permacultura, bioconstrucción, manejo de agua y suelo,
+          diseño de espacios y vida cotidiana regenerativa. De lo práctico a lo sistémico.
+        </p>
+        <a href="/agenda" class="btn-te qh-btn">Ver formación</a>
+      </div>
+    </article>
 
-    <!-- 4. Jornadas -->
-    <a href="/agenda" class="accion-card accion-jornadas">
-      <div class="accion-overlay">
-        <h3>Jornadas colaborativas</h3>
-        <p>Ven a plantar, construir, crear y compartir comunidad.</p>
+    <!-- 3. VOLUNTARIADO -->
+    <article class="qh-row">
+      <div class="qh-img">
+        <!-- ilustración VOLUNTARIADO -->
+        <img src="/assets/img/que-hacemos/voluntariado.png" alt="Ilustración de voluntariado y WWOOF">
       </div>
-    </a>
+      <div class="qh-content">
+        <h3>Voluntariado</h3>
+        <p>
+          Estancias de voluntariado y WWOOF para vivir el día a día de la finca, aprender haciendo,
+          compartir tiempo, trabajo y buena conversación en un proyecto vivo.
+        </p>
+        <a href="/visitas" class="btn-te qh-btn">Quiero venir a ayudar</a>
+      </div>
+    </article>
+
+    <!-- 4. EXCEDENTES -->
+    <article class="qh-row">
+      <div class="qh-img">
+        <!-- ilustración EXCEDENTES -->
+        <img src="/assets/img/que-hacemos/excedentes.png" alt="Ilustración de excedentes y productos">
+      </div>
+      <div class="qh-content">
+        <h3>Excedentes</h3>
+        <p>
+          Verdura de temporada, plantel, semillas y otros excedentes de la huerta y el bosque
+          comestible. Compartimos lo que la finca produce cuando hay abundancia.
+        </p>
+        <a href="/excedentes" class="btn-te qh-btn">Saber más</a>
+      </div>
+    </article>
 
   </div>
 </section>
 
 
-![](assets\img\proyecto\nuevas\patitos.jpg)
+
+<section class="seccion-fullwidth banda-parallax">
+  <div class="banda-parallax-inner">
+    <img
+      src="{{ '/assets/img/proyecto/nuevas/patitos.jpg' | absolute_url }}"
+      alt="Patitos en el agua"
+      class="banda-parallax-img"
+    >
+    <!-- Contenido opcional encima -->
+    <div class="banda-parallax-content">
+      <!-- Si no quieres texto, borra este bloque -->
+      <!--<h2 class="letralogo">Cuidando la Vida</h2>-->
+      <!--<p>Pequeños momentos de calma y alegría en medio del proyecto.</p>-->
+       <a href="/contacto" class="btn-te">Contacta para +info</a>
+    </div>
+  </div>
+</section>
 
 
-
-![](assets\img\proyecto\nuevas\huerto.jpg)
-
-<hr>
-
-
-![](assets\img\proyecto\nuevas\parterre.jpg)
-
-
-<!--<hr> 
-<!-- {% include home_events.html %} -->
-
-
-<!-- {% include home_posts.html %} -->
-
-
-<br>
-<hr> 
-## Visita Torre Escribana
-
-Nos encanta recibir visitas y compartir lo que vivimos aquí. 
-<span class="letralogo">Torre Escribana</span> es nuestro hogar, nuestro refugio, 
-y abrirlo es invitarte a formar parte de nuestra vida por un momento.
-
-<div class="contenedor-un-boton">
-  <a href="{{ '/visitas' | absolute_url }}" class="boton-visita">
-    <img src="{{ '/assets/img/otros/visitatorre.png' | absolute_url }}" alt="Visitar Torre Escribana">
-  </a>
-</div>
-
-Consulta la <a href="{{ '/agenda' | absolute_url }}"><strong>AGENDA</strong></a> 
-para saber si se acerca una jornada colaborativa o un día de puertas abiertas.
-
-![](assets\img\proyecto\nuevas\gallinero1.jpg)
-<hr>
-
-
-<div class="contenedor-un-boton">
-  <a href="{{ '/contacto' | absolute_url }}" class="boton-visita">
-    <img src="{{ '/assets/img/otros/botoncontacta.png' | absolute_url }}" alt="Contáctanos">
-  </a>
-</div>
-
-<hr>
-
-
-
-## Proyectos amigos
+<h2 class="que-hacemos-title letralogo">Proyectos Amigos</h2>
 <div class="logos-amigos">
   <div class="zoom-basico">
     <a href="http://www.permaculturaaragon.org/" target=_blank>  

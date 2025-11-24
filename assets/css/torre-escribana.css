@@ -2287,95 +2287,175 @@ body.home-no-hero main {
   }
 }
 
-/* === QUÉ HACEMOS (versión caja centrada) ================= */
+/* === QUÉ HACEMOS – filas imagen + texto =================== */
 
 .que-hacemos {
-  max-width: 1200px;
+  width: 100vw;                 /* mantiene fullwidth */
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+  background: transparent;
+}
+
+.que-hacemos-inner {
+  max-width: 800px;
   margin: 4rem auto 5rem;
   padding: 0 1.5rem;
-  text-align: center;
 }
 
 .que-hacemos-title {
   font-size: 2.4rem;
   color: #5c9c3e;
-  margin-bottom: 2.7rem;
+  text-align: center;
+  margin-bottom: 3rem;
 }
 
-/* Grid de acciones */
-.acciones-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
-}
-
-/* Tarjetas */
-.accion-card {
-  position: relative;
-  height: 260px;
-  border-radius: 12px;
-  overflow: hidden;
-  text-decoration: none;
+/* Cada fila */
+.qh-row {
   display: flex;
-  align-items: flex-end;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  box-shadow: rgba(0,0,0,0.12) 0 4px 12px;
-  transition: transform .3s ease, box-shadow .3s ease;
+  align-items: center;
+  gap: 2.5rem;
+  margin-bottom: 3.5rem;
+  padding-bottom: 3.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-.accion-card:hover {
-  transform: scale(1.03);
-  box-shadow: rgba(0,0,0,0.25) 0 6px 18px;
+/* Alternamos imagen a izquierda / derecha */
+.qh-row:nth-child(even) {
+  flex-direction: row-reverse;
 }
 
-.accion-card::before {
+/* Columna de imagen */
+.qh-img {
+  flex: 0 0 320px;
+  max-width: 400px;
+}
+
+.qh-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0;              /* sin redondeos */
+}
+
+.que-hacemos-img {
+  box-shadow: none !important;
+  border: none !important;
+}
+
+/* Columna de contenido */
+.qh-content {
+  flex: 1;
+}
+
+/* Títulos estilo Escribana + línea decorativa */
+.qh-content h3 {
+  font-family: "Escribana", "Open Sans", sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  color: #4c8b32;
+  margin: 0 0 0.75rem;
+  position: relative;
+}
+
+.qh-content h3::before {
   content: "";
   position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    rgba(0,0,0,0.0),
-    rgba(0,0,0,0.55)
-  );
-  z-index: 0;
+  left: 0;
+  bottom: -0.5rem;
+  width: 60px;
+  height: 2px;
+  background-color: #4c8b32;
 }
 
-.accion-overlay {
-  position: relative;
-  z-index: 2;
-  padding: 1.5rem;
-  color: #fff;
-  text-align: left;
+/* Texto */
+.qh-content p {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #444;
 }
 
-.accion-overlay h3 {
-  font-family: "Escribana", sans-serif;
-  font-size: 1.6rem;
-  margin-bottom: 0.4rem;
+/* Botón */
+.qh-btn {
+  margin-top: 1.5rem;
+  align-self: flex-start;
 }
 
-.accion-overlay p {
-  font-size: 0.95rem;
-  opacity: 0.9;
+.bloque-hacemos {
+  display: flex;
+  align-items: stretch;          /* Hace que ambos lados tengan la misma altura */
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 3rem 0;
 }
 
-/* IMÁGENES (pon las rutas reales) */
-.accion-visitas {
-  background-image: url("/assets/img/visitas/nanyland.png");
+.bloque-hacemos .texto {
+  flex: 1;
 }
 
-.accion-talleres {
-  background-image: url("/assets/img/acciones/talleres.jpg");
+.bloque-hacemos .ilustracion {
+  flex: 1;
+  display: flex;
+  align-items: center;           /* Centra verticalmente */
+  justify-content: center;       /* Centra horizontalmente */
 }
 
-.accion-voluntariado {
-  background-image: url("/assets/img/acciones/voluntariado.jpg");
+.bloque-hacemos .ilustracion img {
+  width: auto;
+  height: 100%;                  /* 💚 CLAVE: La imagen ocupa TODO el alto del bloque */
+  max-height: 380px;             /* Ajusta según necesites */
+  object-fit: contain;           /* Mantiene proporciones */
 }
 
-.accion-jornadas {
-  background-image: url("/assets/img/acciones/jornadas.jpg");
+
+
+
+
+
+.que-hacemos img,
+.que-hacemos p {
+  box-shadow: none !important;
 }
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  .qh-row {
+    flex-direction: column;
+    text-align: left;
+  }
+
+  .qh-row:nth-child(even) {
+    flex-direction: column;
+  }
+
+  .qh-img {
+    flex: 0 0 auto;
+    max-width: 260px;
+  }
+
+  .qh-content h3::before {
+    left: 0;
+    right: auto;
+  }
+}
+
+@media (max-width: 600px) {
+  .que-hacemos-inner {
+    margin: 3rem auto 4rem;
+  }
+
+  .que-hacemos-title {
+    font-size: 2rem;
+  }
+
+  .qh-content p {
+    font-size: 0.95rem;
+  }
+}
+
+
 
 /* === SECCIÓN "QUÉ ENCONTRARÁS" =================== */
 
@@ -2448,7 +2528,7 @@ body.home-no-hero main {
 
 /* Zoom sin salirse */
 .que-item:hover .que-media img {
-  transform: scale(1.12);
+  transform: scale(1.12) rotate(-5deg);
 }
 
 /* Capa de contenido + degradado */
@@ -2518,3 +2598,83 @@ body.home-no-hero main {
 .que-item:hover .fade-text p {
   opacity: 1;
 }
+
+
+/* === BANDA PARALLAX FULLWIDTH ======================= */
+
+.banda-parallax {
+  position: relative;
+  height: 300px;        /* altura de la franja */
+  overflow: hidden;
+}
+
+.banda-parallax-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* La imagen ocupa un poco más de alto para poder moverla */
+.banda-parallax-img {
+  position: absolute;
+  top: -10%;            /* sale un poco por arriba */
+  left: 0;
+  width: 100%;
+  height: 180%;         /* más alta que la banda */
+  object-fit: cover;
+  transform: translateY(0);
+  will-change: transform;
+}
+
+/* Contenido opcional encima de la imagen */
+.banda-parallax-content {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  background: radial-gradient(
+    circle at center,
+    rgba(0,0,0,0.30),
+    rgba(0,0,0,0.55)
+  );
+  padding: 0 1.5rem;
+}
+
+.banda-parallax-content h2 {
+  font-size: 2.6rem;
+  margin-bottom: 0.4rem;
+  text-shadow: 0 4px 10px rgba(0,0,0,0.6);
+}
+
+.banda-parallax-content p {
+  max-width: 700px;
+  font-size: 1.1rem;
+  text-shadow: 0 3px 8px rgba(0,0,0,0.6);
+  margin: 0;
+}
+
+/* Más compacto en móvil */
+@media (max-width: 768px) {
+  .banda-parallax {
+    height: 260px;
+  }
+
+  .banda-parallax-img {
+    top: -15%;
+    height: 130%;
+  }
+
+  .banda-parallax-content h2 {
+    font-size: 2.0rem;
+  }
+
+  .banda-parallax-content p {
+    font-size: 0.95rem;
+  }
+}
+

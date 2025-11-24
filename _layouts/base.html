@@ -38,5 +38,30 @@ common-js:
 
   {% include footer-scripts.html %}
 
+  
+<script>
+  (function () {
+    function actualizaParallax() {
+      var altoVentana = window.innerHeight || document.documentElement.clientHeight;
+
+      document.querySelectorAll('.banda-parallax-img').forEach(function (img) {
+        var cont = img.parentElement;
+        var rect = cont.getBoundingClientRect();
+
+        // ratio de -1 (arriba) a 1 (abajo aproximado)
+        var ratio = (rect.top + rect.height / 2 - altoVentana / 2) / altoVentana;
+
+        // mueve la imagen un poco (ajusta 40 si quieres más/menos movimiento)
+        var desplazamiento = ratio *60;
+        img.style.transform = 'translateY(' + desplazamiento + 'px)';
+      });
+    }
+
+    window.addEventListener('scroll', actualizaParallax);
+    window.addEventListener('resize', actualizaParallax);
+    document.addEventListener('DOMContentLoaded', actualizaParallax);
+  })();
+</script>
+
 </body>
 </html>
