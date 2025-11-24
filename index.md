@@ -51,110 +51,89 @@ body-class: home-no-hero
   <p class="texto-inspiracion">
     Usando la Permacultura como marco de diseño regeneramos la tierra, aumentamos la biodiversidad y creamos espacios que cuidan
     de las personas y del entorno.
-    <br><br>
-    Somos un pequeño ecosistema vivo donde aprender, inspirarse y reconectar con la naturaleza.
+    
+   
   </p>
 </section>
-
 
 
 <section class="que-encontraras seccion-fullwidth">
 
   <!-- Franja verde superior -->
   <div class="que-header">
-    <h2 class="que-title">Qué encontrarás en <span class="letralogo">Torre Escribana</span></h2>
+    <h2 class="que-title">
+      Qué encontrarás en <span class="letralogo">Torre Escribana</span>
+    </h2>
   </div>
 
-  <!-- Grid de bloques -->
+  <!-- Grid -->
   <div class="que-grid">
 
-    <!-- 1 -->
-    <article class="que-item que-huerta-bosque">
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/index/que-huerta.jpg' | absolute_url }}" alt="">
+      </div>
       <div class="que-overlay">
         <div class="que-icon"><i class="fas fa-seedling"></i></div>
         <h3>Huerta viva y bosque comestible</h3>
-        <p>Un sistema agrícola diverso en evolución, donde la huerta y el bosque comestible crecen juntos, regenerando el suelo y aumentando la biodiversidad.</p>
+        <p>Un sistema agrícola diverso que regenera el suelo y aumenta la biodiversidad.</p>
       </div>
     </article>
 
-    <!-- 2 -->
-    <article class="que-item que-animales">
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/index/que-animales.jpg' | absolute_url }}" alt="">
+      </div>
       <div class="que-overlay">
         <div class="que-icon"><i class="fas fa-paw"></i></div>
         <h3>Animales integrados en el diseño</h3>
-        <p>Gallinas, patos y otros animales forman parte del sistema, ayudando a manejar plagas, fertilizar y cerrar ciclos de materia y energía.</p>
+        <p>Gallinas, patos y más animales que cierran ciclos de materia y energía.</p>
       </div>
     </article>
 
-    <!-- 3 -->
-    <article class="que-item que-visitas">
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/index/ladrillos.jpg' | absolute_url }}" alt="">
+      </div>
       <div class="que-overlay">
-        <div class="que-icon"><i class="fas fa-users"></i></div>
-        <h3>Visitas escolares y familiares</h3>
-        <p>Propuestas de aprendizaje en la naturaleza, con actividades adaptadas a niñas, niños, jóvenes y personas adultas que quieren explorar y preguntar.</p>
+        <div class="que-icon"><i class="fas fa-hammer"></i></div>
+        <h3>Bioconstrucción</h3>
+        <p>Construcción ecológica con materiales naturales.</p>
       </div>
     </article>
 
-    <!-- 4 -->
-    <article class="que-item que-experiencias">
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/visitas/ayuda1.jpg' | absolute_url }}" alt="">
+      </div>
       <div class="que-overlay">
-        <div class="que-icon"><i class="fas fa-hands-helping"></i></div>
-        <h3>Experiencias y comunidad</h3>
-        <p>Talleres, jornadas colaborativas y voluntariado WWOOF para vivir la Permacultura desde dentro, compartiendo tiempo, trabajo y buen humor.</p>
+        <div class="que-icon"><i class="fas fa-drafting-compass"></i></div>
+        <h3>Diseño integral</h3>
+        <p>Planificación de agua, energía, suelo y biodiversidad con principios de Permacultura.</p>
       </div>
     </article>
+
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/visitas/ayuda1.jpg' | absolute_url }}" alt="">
+      </div>
+      <div class="que-overlay">
+        <div class="que-icon"><i class="fas fa-tree"></i></div>
+        <h3>Espacios</h3>
+        <p>Zonas de calma, juego, reunión y restauración.</p>
+      </div>
+    </article>
+
   </div>
 
-  <!-- Franja verde inferior -->
+  <!-- Franja inferior -->
   <div class="que-footer"></div>
 
 </section>
 
 
 
-<section class="stats-te">
-  <h2 class="stats-title letralogo">Torre Escribana en cifras</h2>
 
-  <div class="stats-grid">
-
-    <article class="stat-item">
-      <div class="stat-icon"><i class="fas fa-seedling"></i></div>
-      <div class="stat-number">10.000 m²</div>
-      <div class="stat-label">de huerto, bosque y vida</div>
-    </article>
-
-    <article class="stat-item">
-      <div class="stat-icon"><i class="fas fa-tree"></i></div>
-      <div class="stat-number">+300</div>
-      <div class="stat-label">árboles y arbustos</div>
-    </article>
-
-    <article class="stat-item">
-      <div class="stat-icon"><i class="fas fa-paw"></i></div>
-      <div class="stat-number">+10</div>
-      <div class="stat-label">especies animales</div>
-    </article>
-
-    <article class="stat-item">
-      <div class="stat-icon"><i class="fas fa-graduation-cap"></i></div>
-      <div class="stat-number">10 años</div>
-      <div class="stat-label">aprendiendo y cuidando este lugar</div>
-    </article>
-
-    <article class="stat-item">
-      <div class="stat-icon"><i class="fas fa-ban"></i></div>
-      <div class="stat-number">0</div>
-      <div class="stat-label">químicos en la huerta y el bosque</div>
-    </article>
-
-    <article class="stat-item">
-      <div class="stat-icon"><i class="fas fa-bug"></i></div>
-      <div class="stat-number">+millones</div>
-      <div class="stat-label">de insectos, polinizadores y pequeñas vidas</div>
-    </article>
-
-  </div>
-</section>
 
 <section class="que-hacemos">
 
@@ -202,13 +181,9 @@ body-class: home-no-hero
 
 
 
-
-
-
 ![](assets\img\proyecto\nuevas\huerto.jpg)
 
 <hr>
-
 
 
 ![](assets\img\proyecto\nuevas\parterre.jpg)
@@ -249,8 +224,6 @@ para saber si se acerca una jornada colaborativa o un día de puertas abiertas.
 </div>
 
 <hr>
-
-
 
 
 
@@ -296,7 +269,6 @@ para saber si se acerca una jornada colaborativa o un día de puertas abiertas.
         src="{{ '/assets/img/links/academia.png' | absolute_url  }}"  />      
       </a>
   </div>
-
   
 
 </div>
