@@ -138,7 +138,7 @@ img {
   height: auto;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
     rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
-  border-radius: 0.3125rem;
+  /*border-radius: 0.3125rem;*/
   margin-bottom: 1rem;
 }
 
@@ -2073,49 +2073,52 @@ body.home-no-hero main {
   padding-right: 0;
 }
 
-/* === BLOQUE INSPIRACIÓN – estilo "sección manifiesto" === */
+/* === BLOQUE INSPIRACIÓN – Versión compacta === */
 
 .bloque-inspiracion {
   text-align: center;
-  margin: 4rem auto 5rem;
-  max-width: 900px;
-  padding: 0 1.5rem;
+  margin: 2.5rem auto 3rem; /* antes 4rem y 5rem */
+  max-width: 800px; /* antes 900px */
+  padding: 0 1rem;
 }
 
 .titulo-inspiracion {
-  font-size: 3rem;
-  color: #6fa52a;
-  margin-bottom: 2rem;
+  font-size: 2.3rem; /* antes 3rem */
+  margin-bottom: 1.2rem; /* antes 2rem */
   font-weight: 400;
 }
 
+
+
 .ilustracion-inspiracion img {
-  width: 60%;
-  max-width: 350px;
-  margin: 0 auto 1rem;
-  display: block;
+  width: 75%;       /* antes 90% */
+  max-width: 480px; /* más compacta */
+  margin-top: 2rem;
 }
 
 .cita-inspiracion {
-  font-size: 1.1rem;
+  font-size: 1rem;          /* antes 1.1rem */
   color: #555;
-  font-style: italic;
-  margin: 1.5rem auto 2rem;
+}
+
+.cita-inspiracion {
+  margin-top: -2rem !important;   /* Antes 1.5rem */
 }
 
 .cita-inspiracion .autor {
-  display: block;
-  margin-top: 0.5rem;
-  font-size: 0.9rem;
-  color: #777;
+  margin-top: 0.3rem; /* antes 0.5 */
+  font-size: 0.85rem; /* un pelín más pequeño */
 }
 
 .texto-inspiracion {
-  font-size: 1.25rem;
-  line-height: 1.7;
+  font-size: 1.1rem; /* antes 1.25rem */
+  line-height: 1.55; /* antes 1.7 */
   color: #3a4a3a;
+  max-width: 650px; /* lo hace más compacto */
+  margin: 0 auto;
 }
 
+/* Mantiene compatibilidad con otros usos */
 .ilustracion-landing {
   max-width: 700px !important;
   width: 90% !important;
@@ -2126,6 +2129,84 @@ body.home-no-hero main {
 .blog-post .ilustracion-landing {
   max-width: 900px !important;
 }
+
+/* Contenedor que permite superponer el título */
+.contenedor-ilustracion {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* Título encima de la imagen */
+.titulo-sobre-imagen {
+  position: absolute;
+  top: 0.5rem;         /* ajusta la altura a tu gusto */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 3;
+  color: #6fa52a;
+  text-shadow: 0 4px 10px rgba(0,0,0,0.25); /* mejor legibilidad */
+  font-size: 2.4rem;
+  pointer-events: none; /* evita que interfiera con hover */
+}
+
+/* Ajuste opcional para que la imagen no empuje demasiado contenido */
+.ilustracion-landing {
+  margin-top: 1rem;  /* deja espacio para el título superpuesto */
+}
+
+/* TÍTULO SOBRE LA ILUSTRACIÓN */
+.bloque-inspiracion {
+  position: relative;
+  text-align: center;
+}
+
+/* Contenedor de la ilustración en posición relativa para poder poner el título encima */
+.ilustracion-inspiracion {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* Título colocado encima de la imagen – contraste fuerte */
+.titulo-inspiracion {
+  position: absolute;
+  top: 4%;                  
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+
+  color: #ffffff;
+  font-size: 2.9rem;
+  font-weight: 400;
+
+  /* 🔥 Sombras profesionales para texto sobre fondos complejos */
+  text-shadow:
+    0 0 6px rgba(0,0,0,0.7),
+    0 0 14px rgba(0,0,0,0.55),
+    2px 2px 4px rgba(0,0,0,0.45);
+
+  padding: 0.4rem 1rem;
+}
+
+/* Oscurecer suavemente la parte superior de la ilustración para mejorar el contraste */
+.ilustracion-inspiracion::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 40%;
+  background: linear-gradient(
+    rgba(0,0,0,0.25),
+    rgba(0,0,0,0)
+  );
+  z-index: 1;
+  pointer-events: none;
+}
+
 
 
 /* === BLOQUE "TORRE ESCRIBANA EN CIFRAS" ==================== */
@@ -2319,7 +2400,7 @@ body.home-no-hero main {
 
 .que-title {
   color: white;
-  font-size: 2.4rem;
+  font-size: 2rem;
   margin: 0;
   text-align: center;
 }
@@ -2423,4 +2504,17 @@ body.home-no-hero main {
 .que-encontraras h3,
 .que-hacemos h3 {
   font-weight: 400 !important;
+}
+
+/* --- Texto apagado por defecto --- */
+.fade-text h3,
+.fade-text p {
+  opacity: 0.50;               /* casi transparente */
+  transition: opacity .45s ease;
+}
+
+/* --- Al hacer hover, aparece al 100% junto con el zoom --- */
+.que-item:hover .fade-text h3,
+.que-item:hover .fade-text p {
+  opacity: 1;
 }

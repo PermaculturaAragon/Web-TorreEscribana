@@ -36,11 +36,15 @@ body-class: home-no-hero
 
 
 <section class="bloque-inspiracion">
-  <h2 class="titulo-inspiracion letralogo">Inspirando el Cambio Regenerativo</h2>
 
-  <div class="ilustracion-inspiracion">
-   <img src="/assets/img/manos-planta.png" class="ilustracion-landing" alt="Ilustración regeneración">
+  <div class="contenedor-ilustracion">
+    <h2 class="titulo-inspiracion letralogo titulo-sobre-imagen">
+      Inspirando el Cambio Regenerativo
+    </h2>
 
+    <img src="/assets/img/manos-planta.png"
+         class="ilustracion-landing"
+         alt="Ilustración regeneración">
   </div>
 
   <blockquote class="cita-inspiracion">
@@ -49,11 +53,11 @@ body-class: home-no-hero
   </blockquote>
 
   <p class="texto-inspiracion">
-    Usando la Permacultura como marco de diseño regeneramos la tierra, aumentamos la biodiversidad y creamos espacios que cuidan
+    Usando la Permacultura como marco de diseño regeneramos la tierra,
+    aumentamos la biodiversidad y creamos espacios que cuidan
     de las personas y del entorno.
-    
-   
   </p>
+
 </section>
 
 
@@ -69,44 +73,11 @@ body-class: home-no-hero
   <!-- Grid -->
   <div class="que-grid">
 
-    <article class="que-item">
+      <article class="que-item">
       <div class="que-media">
-        <img src="{{ '/assets/img/index/que-huerta.jpg' | absolute_url }}" alt="">
+        <img src="{{ '/assets/img/index/diseno.png' | absolute_url }}" alt="">
       </div>
-      <div class="que-overlay">
-        <div class="que-icon"><i class="fas fa-seedling"></i></div>
-        <h3>Huerta viva y bosque comestible</h3>
-        <p>Un sistema agrícola diverso que regenera el suelo y aumenta la biodiversidad.</p>
-      </div>
-    </article>
-
-    <article class="que-item">
-      <div class="que-media">
-        <img src="{{ '/assets/img/index/que-animales.jpg' | absolute_url }}" alt="">
-      </div>
-      <div class="que-overlay">
-        <div class="que-icon"><i class="fas fa-paw"></i></div>
-        <h3>Animales integrados en el diseño</h3>
-        <p>Gallinas, patos y más animales que cierran ciclos de materia y energía.</p>
-      </div>
-    </article>
-
-    <article class="que-item">
-      <div class="que-media">
-        <img src="{{ '/assets/img/index/ladrillos.jpg' | absolute_url }}" alt="">
-      </div>
-      <div class="que-overlay">
-        <div class="que-icon"><i class="fas fa-hammer"></i></div>
-        <h3>Bioconstrucción</h3>
-        <p>Construcción ecológica con materiales naturales.</p>
-      </div>
-    </article>
-
-    <article class="que-item">
-      <div class="que-media">
-        <img src="{{ '/assets/img/visitas/ayuda1.jpg' | absolute_url }}" alt="">
-      </div>
-      <div class="que-overlay">
+      <div class="que-overlay fade-text">
         <div class="que-icon"><i class="fas fa-drafting-compass"></i></div>
         <h3>Diseño integral</h3>
         <p>Planificación de agua, energía, suelo y biodiversidad con principios de Permacultura.</p>
@@ -115,9 +86,46 @@ body-class: home-no-hero
 
     <article class="que-item">
       <div class="que-media">
-        <img src="{{ '/assets/img/visitas/ayuda1.jpg' | absolute_url }}" alt="">
+        <img src="{{ '/assets/img/index/que-huerta.jpg' | absolute_url }}" alt="">
       </div>
-      <div class="que-overlay">
+      <div class="que-overlay fade-text">
+        <div class="que-icon"><i class="fas fa-seedling"></i></div>
+        <h3>Huerta viva y bosque comestible</h3>
+        <p>Un sistema agrícola diverso que regenera el suelo y aumenta la biodiversidad.</p>
+      </div>
+    </article>
+
+        <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/index/ladrillos.jpg' | absolute_url }}" alt="">
+      </div>
+      <div class="que-overlay fade-text">
+        <div class="que-icon"><i class="fas fa-hammer"></i></div>
+        <h3>Bioconstrucción</h3>
+        <p>Construcción ecológica con materiales naturales.</p>
+      </div>
+    </article>
+
+
+
+    <article class="que-item ">
+      <div class="que-media">
+        <img src="{{ '/assets/img/proyecto/nuevas/pavo.jpg' | absolute_url }}" alt="">
+      </div>
+      <div class="que-overlay fade-text">
+        <div class="que-icon"><i class="fas fa-paw"></i></div>
+        <h3>Animales integrados en el diseño</h3>
+        <p>Aves, mamíferos y más animales que cierran ciclos de materia y energía.</p>
+      </div>
+    </article>
+
+
+
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img//otros/hotelinsectos.jpg' | absolute_url }}" alt="">
+      </div>
+      <div class="que-overlay fade-text">
         <div class="que-icon"><i class="fas fa-tree"></i></div>
         <h3>Espacios</h3>
         <p>Zonas de calma, juego, reunión y restauración.</p>
