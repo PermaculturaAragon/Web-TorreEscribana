@@ -418,74 +418,6 @@ img {
   }
 }
 
-/* --- Footer --- */
-
-footer {
-  padding: 1.875rem 0;
-  border-top: 1px #eaeaeada solid;
-  margin-top: 3.125rem;
-  font-size: 0.875rem;
-  background-color: {{ site.footer-col | default: "#EAEAEA" }};
-  {% if site.footer-img %}
-    background-image: url({{ site.footer-img | relative_url }});
-    background-attachment: fixed;
-  {% endif %}
-}
-
-footer p.text-muted {
-  color: {{ site.footer-text-col | default: "#777777" }} !important;
-}
-
-footer a {
-  color: {{ site.footer-link-col | default: "#404040" }};
-}
-
-footer a:hover,
-footer a:focus {
-  color: {{ site.footer-hover-col | default: "#84bb2e" }};
-}
-
-footer .list-inline {
-  margin: 0;
-  padding: 0;
-  margin-bottom: 1.875rem;
-}
-
-footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-align: center;
-  margin-bottom: 0;
-  margin-top: 0;
-}
-
-footer .theme-by {
-  text-align: center;
-  margin: 0.625rem 0 0;
-}
-
-footer .footer-custom-content {
-  text-align: center;
-  margin-bottom: 0.9375rem;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-@media (min-width: 768px) {
-  footer {
-    padding: 3.125rem 0;
-  }
-
-  footer .footer-links {
-    font-size: 1.125rem;
-  }
-
-  footer .copyright {
-    font-size: 1rem;
-  }
-
-  footer .footer-custom-content {
-    font-size: 1rem;
-  }
-}
 
 /* --- Post preview (feed) --- */
 
@@ -1894,9 +1826,9 @@ hr {
 }
 
 /* Mantiene los botones homogéneos */
-.btn-te {
+.botones-inline .btn-te {
   flex: 1;
-  min-width: 200px;   /* Evita botones comprimidos */
+  min-width: 200px;
   text-align: center;
 }
 
@@ -2678,3 +2610,123 @@ body.home-no-hero main {
   }
 }
 
+
+
+/* Evitar que el botón dentro del parallax se deforme */
+.parallax-section .btn-te,
+.parallax .btn-te,
+.parallax-container .btn-te {
+  flex: 0 !important;
+  width: auto !important;
+  max-width: fit-content !important;
+  min-width: 0 !important;
+}
+
+
+/* --- Footer --- */
+
+footer {
+  padding: 1.5rem 0 2rem;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+
+  /* mismo fondo que el cuerpo, sin franja gris “bloque” */
+  background-color: transparent;
+  border-top: 1px solid #e0e0e0;
+}
+
+footer .beautiful-jekyll-footer {
+  text-align: center;
+}
+
+/* iconos + texto más suaves */
+footer p.text-muted,
+footer .copyright,
+footer .theme-by {
+  color: #777 !important;
+  margin: 0.3rem 0;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* enlaces del footer en verde pero discretos */
+footer a {
+  color: #6fa52a;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+footer a:hover,
+footer a:focus {
+  color: #6fa52a;
+  text-decoration: underline;
+}
+
+/* lista de iconos sociales */
+footer .list-inline {
+  margin: 0 0 0.75rem;
+  padding: 0;
+}
+
+/* línea “Powered by…” más pequeña y suave */
+footer .theme-by {
+  font-size: 0.8rem;
+  opacity: 0.65;
+}
+
+/* responsive: un pelín más de aire en pantallas grandes */
+@media (min-width: 768px) {
+  footer {
+    padding: 2rem 0 2.5rem;
+  }
+
+  footer .footer-links {
+    font-size: 1rem;
+  }
+}
+
+
+/* Sitemap del footer */
+.footer-sitemap {
+  margin: 1rem 0 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem 1.25rem;
+}
+
+.footer-sitemap a {
+  color: #6fa52a;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer-sitemap a:hover {
+  color: #4a8b1d;
+  text-decoration: underline;
+}
+
+
+/* Animación hover iconos sociales */
+footer .beautiful-jekyll-footer .list-inline-item a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #4a8b1d;;
+  color: white !important;
+  transition: transform 0.25s ease, background-color 0.25s ease;
+}
+
+/* Icono normal */
+footer .beautiful-jekyll-footer .list-inline-item a i {
+  font-size: 22px;
+}
+
+/* Hover como los botones */
+footer .beautiful-jekyll-footer .list-inline-item a:hover {
+  transform: translateY(-4px);
+  background-color: #2f2f2f;
+}
