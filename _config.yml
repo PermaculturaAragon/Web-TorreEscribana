@@ -266,7 +266,7 @@ date_format: "%e %h %G"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "Europa/Madrid"
+
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

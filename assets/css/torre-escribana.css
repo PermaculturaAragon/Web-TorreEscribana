@@ -79,7 +79,7 @@ a {
 a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#84bb2e" }};
-  text-decoration: underline;
+  
 }
 
 blockquote {
@@ -2631,7 +2631,7 @@ body.home-no-hero main {
 footer {
   padding: 1.5rem 0 2rem;
   margin-top: 3rem;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
 
   /* mismo fondo que el cuerpo, sin franja gris “bloque” */
   background-color: transparent;
@@ -2640,6 +2640,7 @@ footer {
 
 footer .beautiful-jekyll-footer {
   text-align: center;
+  
 }
 
 /* iconos + texto más suaves */
@@ -2649,6 +2650,11 @@ footer .theme-by {
   color: #777 !important;
   margin: 0.3rem 0;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  
+}
+
+footer .copyright{
+  font-size: 0.9rem;
 }
 
 /* enlaces del footer en verde pero discretos */
@@ -2661,7 +2667,10 @@ footer a {
 footer a:hover,
 footer a:focus {
   color: #6fa52a;
-  text-decoration: underline;
+  
+  transform: translateY(-1px);
+  transition: transform .2s ease;
+
 }
 
 /* lista de iconos sociales */
@@ -2672,7 +2681,7 @@ footer .list-inline {
 
 /* línea “Powered by…” más pequeña y suave */
 footer .theme-by {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   opacity: 0.65;
 }
 
@@ -2706,7 +2715,6 @@ footer .theme-by {
 
 .footer-sitemap a:hover {
   color: #4a8b1d;
-  text-decoration: underline;
 }
 
 
@@ -2790,3 +2798,5 @@ body {
   }
 
 }
+
+

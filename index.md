@@ -215,7 +215,7 @@ body-class: home-no-hero
 </section>
 
 
-
+<hr class="seccion-fullwidth">
 <section class="seccion-fullwidth banda-parallax">
   <div class="banda-parallax-inner">
     <img
@@ -230,8 +230,9 @@ body-class: home-no-hero
       <!--<p>Pequeños momentos de calma y alegría en medio del proyecto.</p>-->
        <a href="/contacto" class="btn-te">Contacta para +info</a>
     </div>
-  </div>
+  </div> 
 </section>
+<hr class="seccion-fullwidth">
 
 
 <h2 class="que-hacemos-title letralogo">Proyectos Amigos</h2>

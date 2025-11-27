@@ -73,11 +73,6 @@ Podemos tener un impacto positivo sobre el cambio inevitable observándolo cuida
 {: .box-success}
 <hr>
 
-<img class=img1 src="../assets/img/proyecto/nuevas/puertagallinero.jpg"/>
-<br>
-
-<hr>
-
 
 
 <div class="botones-home">
@@ -93,10 +88,7 @@ Podemos tener un impacto positivo sobre el cambio inevitable observándolo cuida
 </div>
 
 
-<img class=img1 src="../assets/img/proyecto/nuevas/aromaticas2.jpg"/>
-<br>
 
-<hr>
 
 
 

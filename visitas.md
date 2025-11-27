@@ -18,6 +18,10 @@ Explora nuestras opciones de visita a continuación y únete a nosotras en esta 
 
 
 
+
+
+
+
 <div class="contenedor-botones">
 
   <a href="{{ '/visitas-individual' | absolute_url }}" class="boton-visita">
@@ -43,15 +47,30 @@ Explora nuestras opciones de visita a continuación y únete a nosotras en esta 
   </div>
 
 
+<hr class="seccion-fullwidth">
+<section class="seccion-fullwidth banda-parallax">
+  <div class="banda-parallax-inner">
+    <img
+      src="{{ '/assets/img/proyecto/nuevas/salvia.jpg' | absolute_url }}"
+      alt="huevos"
+      class="banda-parallax-img"
+    >
+    <!-- Contenido opcional encima -->
+    <div class="banda-parallax-content">
+      <!-- Si no quieres texto, borra este bloque -->
+      <h2 class="letralogo">Escribe también a</h2>
+      <!--<p>Pequeños momentos de calma y alegría en medio del proyecto.</p>-->
+       <a href="mailto:torreescribana@gmail.com" class="btn-te"> torreescribana@gmail.com</a>
+    </div>
+  </div>
+</section>
 
 
 
 
-<a href="../assets/img/proyecto/nuevas/salvia.jpg" target="_blank"><img class=img1 src="../assets/img/proyecto/nuevas/salvia.jpg"/> </a>
 
 
-
-<hr>
+<hr class="seccion-fullwidth">
 
 
 
