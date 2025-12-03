@@ -30,10 +30,25 @@ Precio: El coste por persona es de 15€ para la visita de 70 minutos y 25€ pa
 
 <p>Las reservas de visitas las recogemos en nuestro mail <strong> torreescribana (arroba) gmail.com </strong>, pero te invitamos a visitar nuestra sección en <a href="https://elcaminoess.com/itinerario/permacultureando-a-tu-aire//" target="_blank">El CAMINO ESS</a> donde encontrarás mas info acerca de esta experiecia turística y de otras más de la ECONOMICA SOCIAL Y SOLIDARIA</p> 
 
-<img class=img1 src="../assets/img/proyecto/nuevas/olivo2.jpg"/>
-<br>
 
-<hr>
+<hr class="seccion-fullwidth">
+<section class="seccion-fullwidth banda-parallax">
+  <div class="banda-parallax-inner">
+    <img
+      src="{{ '/assets/img/proyecto/nuevas/olivo2.jpg' | absolute_url }}"
+      alt="Patitos en el agua"
+      class="banda-parallax-img"
+    >
+    <!-- Contenido opcional encima -->
+    <div class="banda-parallax-content">
+      <!-- Si no quieres texto, borra este bloque -->
+      <h2 class="letralogo">Descarga el menú en Pdf</h2>
+      <!--<p>Pequeños momentos de calma y alegría en medio del proyecto.</p>-->
+       <a href="../assets/img/visitas/menu.jpg" download="menu-torre-escribana.jpg" class="btn-te">Descarga </a>
+    </div>
+  </div> 
+</section>
+<hr class="seccion-fullwidth">
 
 
 

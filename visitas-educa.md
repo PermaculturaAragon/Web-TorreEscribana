@@ -20,10 +20,31 @@ En nuestro <b>Centro Demostrativo de Permacultura</b>, ofrecemos una experiencia
 Centros de Educación Primaria, Centros de Educación Especial y Grupos de familias con niños y niñas
 
 </div>
-<br>
-<img class=img1 src="../assets/img/visitas/nanyland.png"/>
 
-<hr>
+<hr class="seccion-fullwidth">
+
+<style>
+  .banda-parallax-img {
+    object-position: center 90%  !important;
+  }
+</style>
+
+<section class="seccion-fullwidth banda-parallax">
+  <div class="banda-parallax-inner">
+    <img
+      src="{{ '/assets/img/visitas/nanyland.png' | absolute_url }}"
+      alt="Patitos en el agua"
+      class="banda-parallax-img"
+    >
+    <div class="banda-parallax-content">
+       <a href="/contacto" class="btn-te">Contacta para +info</a>
+    </div>
+  </div> 
+</section>
+
+<hr class="seccion-fullwidth">
+
+
 
 ## ¿Qué es la permacultura?
 La permacultura es una manera de vivir en armonía con la naturaleza, creando espacios donde todo está conectado y tiene un propósito. Se basa en 3 principios éticos: Cuidado de la Tierra, de las Personas y del Futuro. 
