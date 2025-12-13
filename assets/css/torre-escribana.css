@@ -162,8 +162,11 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
-  border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
+ /* background-color: transparent !important;*/
+  border-bottom: none; /* opcional: evita la línea gris */
+    background-color: rgba(255, 255, 255, 0.8) !important; /* 50% de opacidad */
+
+  /*border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};*/
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});

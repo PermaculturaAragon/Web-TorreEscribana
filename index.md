@@ -255,6 +255,12 @@ body-class: home-no-hero
         src="{{ '/assets/img/links/rayen.png' | absolute_url  }}" alt="rayen.org/"/> 
     </a>
   </div>
+  <div class="zoom-basico">
+    <a href="http://novendemosgalletas.com/" target=_blank>  
+      <img class="img2"
+        src="{{ '/assets/img/links/santa.png' | absolute_url  }}" alt="santaisabel/"/> 
+    </a>
+  </div>
 
 
   <div class="zoom-basico">
