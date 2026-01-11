@@ -283,6 +283,13 @@ body-class: home-no-hero
         src="{{ '/assets/img/links/academia.png' | absolute_url  }}"  />      
       </a>
   </div>
+
+  <div class="zoom-basico">
+    <a href="https://proyectopermambroz.es//" target=_blank>  
+      <img class="img2"
+        src="{{ '/assets/img/links/paz.png' | absolute_url  }}"  />      
+      </a>
+  </div>
   
 
 </div>
