@@ -2803,3 +2803,12 @@ body {
 }
 
 
+
+
+/* FIX: en páginas tipo .blog-post no capar imágenes dentro de cards */
+.blog-post .card-design .media img,
+.blog-post .card-agenda .media img,
+.blog-post .media--16-9 > img,
+.blog-post .media--4-3 > img {
+  max-width: 100% !important;
+}
