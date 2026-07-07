@@ -1,116 +1,192 @@
 ---
 layout: page
 title: Visitas de Centros Educativos
-subtitle: Una experiencia diferente
-cover-img: /assets/img/visitas/educativos.jpg
+subtitle: Aprender la naturaleza viviéndola
+cover-img: /assets/img/visitas/educa/portada-manos.jpg
 ---
 
-
 <div class="box-cita">
-Cuando los niños aprenden con las manos en la tierra, siembran raíces que crecerán para toda la vida
+Cuando las niñas y los niños aprenden con las manos en la tierra, siembran raíces que crecerán para toda la vida.
 </div>
 
-### ¡Un lugar mágico donde las niñas y niños aprenden de la naturaleza!
+## Una mañana para salir del aula y entrar en la naturaleza
 
-En nuestro <b>Centro Demostrativo de Permacultura</b>, ofrecemos una experiencia educativa única y adaptada para los más pequeños. Aquí, las niñas y niños descubren, mediante <b>actividades prácticas y divertidas,</b> la magia de la naturaleza, aprenden a cuidar el medio ambiente, desarrollan un amor por la tierra y sus habitantes y a ser parte de un ciclo natural que alimenta y protege a todos.
+En Torre Escribana proponemos visitas educativas en las que el grupo aprende haciendo: descubre el huerto, conoce a los animales, experimenta con materiales naturales y entiende que el agua, el suelo, las plantas, los animales y las personas forman parte de un mismo ciclo.
 
+No se trata de venir solo a mirar. Se trata de tocar, preguntar, jugar, observar y participar en una finca viva.
 
-
-  <div class="box-success"> Está dirigida a Escuela Infantiles, 
-Centros de Educación Primaria, Centros de Educación Especial y Grupos de familias con niños y niñas
-
+<div class="box-success">
+  <b>¿Para quién?</b> Escuelas infantiles, centros de educación primaria, centros de educación especial y grupos de familias con niñas y niños.
 </div>
 
 <hr class="seccion-fullwidth">
-
-<style>
-  .banda-parallax-img {
-    object-position: center 90%  !important;
-  }
-</style>
 
 <section class="seccion-fullwidth banda-parallax">
   <div class="banda-parallax-inner">
     <img
-      src="{{ '/assets/img/visitas/nanyland.png' | absolute_url }}"
-      alt="Patitos en el agua"
+      src="{{ '/assets/img/visitas/educa/huevos.jpg' | absolute_url }}"
+      alt="Niñas y niños descubriendo plantas del huerto"
       class="banda-parallax-img"
     >
     <div class="banda-parallax-content">
-       <a href="/contacto" class="btn-te">Contacta para +info</a>
+      <a href="/contacto" class="btn-te">Consulta tu visita</a>
     </div>
-  </div> 
+  </div>
 </section>
 
 <hr class="seccion-fullwidth">
 
+## ¿Qué se vive durante la visita?
 
+Cada grupo es diferente y cada estación también. Por eso adaptamos el recorrido y las actividades a la edad, el número de participantes, el tiempo disponible y los intereses del centro.
 
-## ¿Qué es la permacultura?
-La permacultura es una manera de vivir en armonía con la naturaleza, creando espacios donde todo está conectado y tiene un propósito. Se basa en 3 principios éticos: Cuidado de la Tierra, de las Personas y del Futuro. 
-<hr>
+<section class="que-encontraras seccion-fullwidth">
+  <div class="que-header">
+    <h2 class="que-title">Aprender haciendo</h2>
+  </div>
 
-## ¿Qué ofrecemos a las escuelas infantiles?
-<div class="box-success"><b>Exploración Guiada:</b> Las hadas y duendes de Torre Escribana nos guiarán en un recorrido por nuestro centro dejando pistas para que podamos descubrir de una forma lúdica el huerto, los árboles, y pequeños animales que forman parte de nuestro ecosistema. A través de cuentos y juegos, aprenderán sobre la importancia de cuidar la tierra y cómo cada planta y animal tiene un papel especial en la naturaleza.</div>
+  <div class="que-grid">
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/visitas/educa/huerto-brotes.jpg' | absolute_url }}" alt="Manos de niñas y niños recogiendo plantas del huerto">
+      </div>
+      <div class="que-overlay fade-text">
+        <div class="que-icon"><i class="fas fa-seedling"></i></div>
+        <h3>Huerto y alimentos</h3>
+        <p>Sembrar, cosechar, reconocer plantas y descubrir de dónde vienen los alimentos.</p>
+      </div>
+    </article>
 
-<div class="box-success"><b>Actividades Prácticas:</b> Ofrecemos talleres para los más pequeños adaptados a cada época del año. (Sembrar en el huerto, construcciones con barro, collage de hojas secas, ramos de flores de temporada, texturas y olores...) Estas actividades están diseñadas para ser divertidas, educativas, y seguras, permitiendo a las niñas y niños explorar con sus manos y corazones.</div>
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/visitas/educa/animales-grupo.jpg' | absolute_url }}" alt="Grupo de niñas y niños con animales de la finca">
+      </div>
+      <div class="que-overlay fade-text">
+        <div class="que-icon"><i class="fas fa-paw"></i></div>
+        <h3>Animales y cuidados</h3>
+        <p>Conocer a los animales de la finca y entender qué necesitan para vivir bien.</p>
+      </div>
+    </article>
 
-<div class="box-success"><b>Encuentro con Animales:</b> Las niñas y niños tendrán la oportunidad de conocer a nuestros animales, como gallinas, patos, ocas, pavos, cabras, cerdos... Podrán tocar y dar de comer a alguno de ellos. Aprenderán cómo estos animales nos ayudan a cuidar y regenerar la tierra y cómo podemos respetarlos y cuidarlos a cambio.</div>
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/visitas/educa/barro-naturaleza.jpg' | absolute_url }}" alt="Actividad con barro y elementos naturales">
+      </div>
+      <div class="que-overlay fade-text">
+        <div class="que-icon"><i class="fas fa-hands"></i></div>
+        <h3>Barro y materiales naturales</h3>
+        <p>Crear, construir y experimentar con barro, semillas, hojas, flores y otros materiales cercanos.</p>
+      </div>
+    </article>
 
-<div class="box-success"><b>Juegos y Cuentos en la Naturaleza:</b> Torre Escribana también dispone de espacios al aire libre para pasar tiempos de juego libre o almorzar a la sombra de los árboles. Utilizamos cuentos y dinámicas que enseñan valores como la cooperación, la responsabilidad, y el amor por el medio ambiente.</div>
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/visitas/educa/juego-exterior.jpg' | absolute_url }}" alt="Grupo de niñas y niños jugando al aire libre">
+      </div>
+      <div class="que-overlay fade-text">
+        <div class="que-icon"><i class="fas fa-tree"></i></div>
+        <h3>Juego y exploración</h3>
+        <p>Espacios para moverse, almorzar a la sombra, jugar y relacionarse con calma en el exterior.</p>
+      </div>
+    </article>
 
+    <article class="que-item">
+      <div class="que-media">
+        <img src="{{ '/assets/img/visitas/educa/pizarra-naturaleza.jpg' | absolute_url }}" alt="Actividad de observación y dibujo en el exterior">
+      </div>
+      <div class="que-overlay fade-text">
+        <div class="que-icon"><i class="fas fa-search"></i></div>
+        <h3>Cuentos y descubrimientos</h3>
+        <p>Pistas, historias y pequeñas preguntas para mirar la naturaleza con curiosidad.</p>
+      </div>
+    </article>
+  </div>
+</section>
 
-### Beneficios para las niños y los niños
-Una visita a nuestro Centro Demostrativo es una forma maravillosa de complementar la educación en el aula con experiencias prácticas y sensoriales. Las niñas y niños desarrollarán una conexión más profunda con la naturaleza, aprenderán sobre sostenibilidad de manera sencilla y lúdica, y vivirán una aventura que recordarán siempre.
-<hr>
+<hr class="seccion-fullwidth">
 
-### Información para los educadores
-<div class="box-success"><b>Horarios de Visita:</b> A convenir, preferiblemente entre semana de 9:30 a 13:30.</div>
+## Una visita adaptada a cada grupo
 
-<div class="box-success"><b>Duración de la Visita:</b> Las visitas suelen durar entre 1,5 y 3 horas, adaptadas al ritmo y necesidades de las niñas y niños.</div>
+La misma finca ofrece muchas posibilidades. Con los grupos más pequeños priorizamos el juego sensorial, los animales, los cuentos y el descubrimiento. Con primaria podemos profundizar más en el huerto, el suelo, los ciclos naturales y el cuidado del entorno.
 
-<div class="box-success"><b>Reservas:</b> Para asegurar la mejor experiencia, solicitamos que las visitas se reserven con al menos un mes de antelación. Estamos encantados de colaborar con los educadores para personalizar la visita según los intereses y objetivos del grupo.</div>
+También adaptamos los ritmos, los recorridos y las propuestas a las necesidades del grupo. Buscamos que cada persona pueda participar, disfrutar y llevarse una experiencia significativa.
 
-<div class="box-success"><b>Precio:</b> Para las visitas de 1,5 a 2 horas: 15€ por educando siendo el mínimo un grupo de 15 educandos. Para visitas de más tiempo y grupos a partir de 25 educandos: Consultar Precio. Educadores/as y maestros/as gratuito. Para la reserva de la visita se deberá aportar un 30% del coste total.</div>
-
-<div class="box-success"><b>Ubicación:</b> Montañana, ZARAGOZA (se puede acceder con autobús).</div>
-
-<div class="box-success"><b>Contacto:</b> Teléfono: 644 304 883 — Email: torreescribana (arroba) gmail.com</div>
-
-<div class="box-success"><b>Entidad organizadora:</b> ASOCIACIÓN CULTURAL Y MEDIOAMBIENTAL PERMACULTURA ARAGÓN. CIF: G-99461980</div>
-
-
-<span class="letralogo"> ¡Únete a nosotros para una aventura educativa en la naturaleza!  </span>
-
-<hr>
-
-### Mas Información de interés:  
-Las épocas ideales para visitar nuestro centro son otoño y primavera, cuando la naturaleza está en pleno esplendor y el clima es más favorable para actividades al aire libre. Durante estas estaciones, las niñas y niños podrán disfrutar de colores vibrantes, olores frescos y una gran diversidad de plantas y animales.
-
-No obstante, estamos encantados de recibir visitas durante todo el año. Sin embargo, es importante tener en cuenta el clima del día de la visita. Recomendamos a los educadores y padres que preparen a las niñas y niños con:
-
-**Ropa adecuada:** Trae ropa de abrigo en invierno, y ropa ligera y fresca en primavera y verano.  
-**Protección solar:** No olvides aplicar crema de sol y traer gorras para protegerse del sol durante los días soleados.  
-**Calzado cómodo:** Las niñas y niños estarán explorando el terreno, así que es importante llevar calzado adecuado para caminar y mancharse.  
-
-**Política de Cancelación:** Las visitas canceladas por la entidad visitante con al menos 5 días de antelación se deberán reagendar a lo largo del curso siempre que haya huecos disponibles. La reserva de la visita no se podrá devolver en caso de cancelación total o con menos de 5 días. La visita se puede realizar con un poco de lluvia y ropa adecuada. La entidad organizadora se reserva el derecho de cancelar la visita por tiempo adverso haciendo lo posible para reagendarla a lo largo del curso. 
-
-
-<div class="centrado">
-
-  <a href="https://torre-escribana.com/assets/docs/folleto_escuelas_torre_escribana.pdf" target=_blank>  
-  <div class="zoom-basico">
-    <img class="img2"
-      src="{{ '/assets/img/links/pdf_download.jpg' | absolute_url  }}" alt="descarga doc"
-       />  
-       </div>      
+<a href="{{ '/assets/img/visitas/nanyland.jpg' | absolute_url }}" target="_blank">
+  <img class="img1" src="{{ '/assets/img/visitas/nanyland.png' | absolute_url }}" alt="Grupo participando en una actividad al aire libre con apoyos de accesibilidad">
 </a>
+
+<div class="box-success">
+  <b>Educación especial e inclusión:</b> antes de la visita hablamos con el centro para conocer las necesidades del grupo y ajustar la propuesta, los tiempos y los apoyos necesarios.
 </div>
 
-<a href="../assets/img/proyecto/nuevas/casaarbol2.jpg" target="_blank"><img class=img1 src="../assets/img/proyecto/nuevas/casaarbol2.jpg"/> </a>
+## Información práctica
 
+<div class="box-success">
+  <b>Ubicación:</b> Montañana, Zaragoza. Se puede acceder con autobús.
+</div>
 
-<a href="../assets/img/proyecto/nuevas/zonajuegos.jpg" target="_blank"><img class=img1 src="../assets/img/proyecto/nuevas/erasmusalmuerzo.jpg"/> </a>
+<div class="box-success">
+  <b>Horario recomendado:</b> de lunes a viernes, preferiblemente entre las 9:30 y las 13:30.
+</div>
+
+<div class="box-success">
+  <b>Duración:</b> entre 1,5 y 3 horas, según la edad, el grupo y la propuesta elegida.
+</div>
+
+<div class="box-success">
+  <b>Precio orientativo:</b> las visitas de 1,5 a 2 horas tienen un precio de 15 € por participante, con un mínimo de 15 participantes. Para grupos de 25 personas o más, o visitas de mayor duración, consultadnos una propuesta adaptada. El profesorado y las personas acompañantes educativas no abonan entrada.
+</div>
+
+<div class="box-success">
+  <b>Reserva:</b> recomendamos contactar con al menos un mes de antelación. Para confirmar la fecha se solicita un anticipo del 30 % del importe total.
+</div>
+
+## Antes de venir
+
+Venid con ropa cómoda, calzado adecuado para caminar por terreno natural y ganas de mancharos un poco. En invierno recomendamos ropa de abrigo; en primavera y verano, gorra, agua y protección solar.
+
+Las visitas se pueden realizar con lluvia suave si el grupo viene preparado. En caso de meteorología adversa, buscaremos una nueva fecha siempre que haya disponibilidad. Si el centro necesita cancelar, agradecemos que nos avise con al menos cinco días de antelación para poder reagendar la visita durante el curso.
+
+## Un vistazo a la experiencia
+
+<div class="principal">
+  <div class="zoom-basico">
+    <a href="{{ '/assets/img/visitas/educa/conejo.jpg' | absolute_url }}" target="_blank">
+      <img src="{{ '/assets/img/visitas/educa/conejo.jpg' | absolute_url }}" alt="Niñas y niños con un conejo">
+    </a>
+  </div>
+
+  <div class="zoom-basico">
+    <a href="{{ '/assets/img/visitas/educa/gallinas.jpg' | absolute_url }}" target="_blank">
+      <img src="{{ '/assets/img/visitas/educa/gallinas.jpg' | absolute_url }}" alt="Gallinas de Torre Escribana">
+    </a>
+  </div>
+
+  <div class="zoom-basico">
+    <a href="{{ '/assets/img/visitas/educa/taller.jpg' | absolute_url }}" target="_blank">
+      <img src="{{ '/assets/img/visitas/educa/taller.jpg' | absolute_url }}" alt="Taller práctico al aire libre">
+    </a>
+  </div>
+
+  <div class="zoom-basico">
+    <a href="{{ '/assets/img/visitas/educa/risa.jpg' | absolute_url }}" target="_blank">
+      <img src="{{ '/assets/img/visitas/educa/risa.jpg' | absolute_url }}" alt="Niña sonriente durante una visita">
+    </a>
+  </div>
+</div>
 
 <hr>
 
+<div class="centrado">
+  <p class="letralogo">¿Organizamos una visita para vuestro grupo?</p>
+  <p>Contadnos la edad del alumnado, el número aproximado de participantes, las fechas posibles y qué os gustaría trabajar. Prepararemos una propuesta adaptada.</p>
+  <a href="/contacto" class="btn-te">Contactar para organizar la visita</a>
+</div>
+
+<div class="centrado">
+  <a href="https://torre-escribana.com/assets/docs/folleto_escuelas_torre_escribana.pdf" target="_blank">
+    <div class="zoom-basico">
+      <img class="img2" src="{{ '/assets/img/links/pdf_download.jpg' | absolute_url }}" alt="Descargar información para centros educativos">
+    </div>
+  </a>
+</div>
