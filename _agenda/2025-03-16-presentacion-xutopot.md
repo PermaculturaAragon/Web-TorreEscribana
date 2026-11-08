@@ -8,9 +8,11 @@ cover-img: /assets/img/agenda/xutopresentacion.png
 in-home: true
 inscription: true
 taller: true
+description: Archivo de Presentación Xutopot, actividad de Torre Escribana realizada
+  en 9 y 15 de marzo de 2025. Consulta los detalles y las próximas propuestas.
 ---
 
-### El wc seco 100% ecológico para campamentos y eventos al aire libre
+## El WC seco 100% ecológico para campamentos y eventos al aire libre
 
 Una experiencia exclusiva para grupos scouts y clubes de tiempo libre
 
@@ -22,18 +24,17 @@ Presentación del producto.
 Visita corta a las instalaciones.
 Resolución de dudas y consejos para tus campamentos.
 
-🚀 ¡No te quedes fuera!
-Plazas limitadas, accede al formulario para elegir tu fecha y asegurar tu invitación:
+Esta presentación forma parte del archivo de actividades realizadas.
 
-<img class=img1 src="/assets/img/agenda/xutopresentacion.png"/> 
+<img class=img1 src="/assets/img/agenda/xutopresentacion.png" alt="Cartel de la presentación de Xutopot en marzo de 2025"> 
 
 **Xutopot** es un baño seco portátil y ecológico diseñado para actividades al aire libre como campamentos, festivales y eventos. Este innovador sistema no utiliza químicos, es fácil de montar y transportar, y contribuye a la **sostenibilidad y el cuidado del medioambiente.**
 
 Xutopot separa automáticamente los sólidos de los líquidos mediante un separador. A los sólidos se le añade un secante para evitar olores y los líquidos se almacenan en un recipiente. Los dos productos por separado pueden utilizarse como fertilizante con un tratamiento adecuado.
 
 **Lugar:** Torre Escribana - Montañana - Zaragoza (te mandaremos ubicación exacta)  
-**Hora Comienzo:** 10am  
-**Hora Final:** 12am 
+**Hora Comienzo:** 10:00  
+**Hora Final:** 12:00 
 
 
 {: .box-success}

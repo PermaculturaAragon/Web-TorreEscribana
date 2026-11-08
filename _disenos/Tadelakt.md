@@ -1,10 +1,9 @@
 ---
-title:  Tadelakt
+title: Tadelakt
 subtitle: Revestimiento de cal tradicional.
 cover-img: /assets/img/proyecto/nuevas/tadelakt.jpg
 finished: true
-
-
+description: Tadelakt. Revestimiento de cal tradicional.
 ---
 
 El Tadelakt es una técnica ancestral de revestimiento con cal, originaria de Marruecos, que ofrece una combinación única de belleza y funcionalidad. Este método utiliza cal hidráulica natural, que se mezcla con pigmentos para crear acabados suaves y brillantes, impermeables y transpirables. El proceso incluye el alisado con piedras y el sellado con jabón negro, lo que otorga una gran durabilidad y resistencia a la humedad.

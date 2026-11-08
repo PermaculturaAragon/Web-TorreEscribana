@@ -1,0 +1,32 @@
+{% assign today = site.time | date: "%Y%m%d" | plus: 0 %}
+{% assign eventos = site.agenda | sort: "start-date" %}
+{% assign upcoming_count = 0 %}
+{% for evento in eventos %}
+  {% assign end_day = evento.end-date | default: evento.start-date | date: "%Y%m%d" | plus: 0 %}
+  {% if end_day >= today %}{% assign upcoming_count = upcoming_count | plus: 1 %}{% endif %}
+{% endfor %}
+<div class="agenda-board" data-agenda-board>
+  <section aria-labelledby="proximas">
+    <h2 id="proximas">Próximas actividades</h2>
+    <div class="box-note" data-agenda-empty{% if upcoming_count > 0 %} hidden{% endif %}>
+      <p>Ahora mismo no tenemos actividades programadas. Puedes explorar <a href="#realizadas">las que ya hemos realizado</a>.</p>
+      <p>También puedes seguir <a href="https://t.me/torreescribana/">nuestro canal de Telegram</a> para enterarte de las próximas fechas.</p>
+    </div>
+    <div class="agenda-grid" data-upcoming>
+      {% for evento in eventos %}
+        {% assign end_day = evento.end-date | default: evento.start-date | date: "%Y%m%d" | plus: 0 %}
+        {% if end_day >= today %}{% include card_event.html %}{% endif %}
+      {% endfor %}
+    </div>
+  </section>
+  <section class="agenda-archivo" aria-labelledby="realizadas">
+    <h2 id="realizadas">Actividades realizadas</h2>
+    <p>Un recorrido por algunos de los encuentros y talleres que hemos compartido.</p>
+    <div class="agenda-grid agenda-grid--archivo" data-past>
+      {% for evento in eventos reversed %}
+        {% assign end_day = evento.end-date | default: evento.start-date | date: "%Y%m%d" | plus: 0 %}
+        {% if end_day < today %}{% include card_event.html %}{% endif %}
+      {% endfor %}
+    </div>
+  </section>
+</div>

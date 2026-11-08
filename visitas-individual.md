@@ -1,54 +1,34 @@
 ---
 layout: page
-title: Visitas Personalizadas
-subtitle: Conoce Torre Escribana
+title: Visitas personalizadas
+subtitle: Elige qué quieres descubrir de Torre Escribana
 cover-img: /assets/img/visitas/aerea.png
+description: Diseña tu visita a Torre Escribana eligiendo los temas del recorrido.
+  Consulta el menú y reserva tu experiencia en la tienda de Permacultura Aragón.
 ---
 
+Descubrir todos los elementos de Torre Escribana es imposible en una sola visita. Por eso te proponemos elegir los temas que más te interesen de nuestro menú y crear tu propio recorrido: agua, suelo, animales, bioconstrucción y otras formas de aplicar la permacultura.
 
-{: .box-error}
-**ATENCIÓN:** Estamos trabajando para poder ofrecerte este tipo de visitas **a partir de Noviembre de 2025.**
+<div class="box-success">
+  <p><strong>70 minutos:</strong> 15 € por persona, con un mínimo de 3 personas.</p>
+  <p><strong>120 minutos:</strong> 25 € por persona, con un mínimo de 2 personas.</p>
+  <p>Cuenta con algo de margen: seguro que pillamos capazo y la experiencia se alarga un poco.</p>
+</div>
 
+Las visitas ya están disponibles. Puedes consultar las opciones y realizar la reserva en la tienda de Permacultura Aragón.
 
-<p>Recientemente hemos tenido la oportunidad de sumarnos a <a href="https://elcaminoess.com//" target="_blank"><strong>El CAMINO ESS</strong></a>. Iniciativa que surge como una propuesta turística alternativa a través de <b>experiencias sostenibles y responsables</b> en Cataluña, Aragón, La Rioja, Castilla y León y Galicia.</p> 
+<div class="botones-home">
+  <a href="https://permaculturaaragon.org/producto/visita-a-torre-escribana/" class="btn-te">Reservar visita</a>
+</div>
 
+## Prepara tu recorrido
 
-Descubrir todos los elementos que hay en <span class="letralogo"> Torre Escribana</span> es imposible en una sola visita, esta experiencia te permite elegir entre un montón de temas de un menú en función de lo que más te interese o te llame la atención. **¡Crea tu propia visita!**
+<img class="img1" src="/assets/img/visitas/menu.jpg" alt="Menú de temas para preparar una visita personalizada a Torre Escribana">
 
-<img class=img1 src="../assets/img/visitas/menu.jpg"/>
-<br>
+<div class="botones-home">
+  <a href="{{ '/assets/img/visitas/menu.jpg' | relative_url }}" download="menu-torre-escribana.jpg" class="btn-te btn-te--outline">Descargar menú de la visita</a>
+</div>
 
-{: .box-success}
-Os ofrecemos la elección entre la experiencia de **70'** (mínimo 3 personas) y la de **120'** (mínimo 2 personas). Aunque teneís que contar que seguro pillamos capazo y la experiencia tomará al menos media hora más.
+Formamos parte de [El Camino ESS](https://elcaminoess.com/), una propuesta de experiencias vinculadas a la economía social y solidaria. Puedes conocer también [nuestra experiencia en su web](https://elcaminoess.com/itinerario/permacultureando-a-tu-aire/).
 
-{: .box-success}
-Precio: El coste por persona es de 15€ para la visita de 70 minutos y 25€ para la visita de 120 minutos.
-
-<a href="../assets/img/visitas/menu.jpg" download="menu-torre-escribana.jpg"><button class="letralogo btn-te">Descargar Menú</button></a>
-
-
-
-<p>Las reservas de visitas las recogemos en nuestro mail <strong> torreescribana (arroba) gmail.com </strong>, pero te invitamos a visitar nuestra sección en <a href="https://elcaminoess.com/itinerario/permacultureando-a-tu-aire//" target="_blank">El CAMINO ESS</a> donde encontrarás mas info acerca de esta experiecia turística y de otras más de la ECONOMICA SOCIAL Y SOLIDARIA</p> 
-
-
-<hr class="seccion-fullwidth">
-<section class="seccion-fullwidth banda-parallax">
-  <div class="banda-parallax-inner">
-    <img
-      src="{{ '/assets/img/proyecto/nuevas/olivo2.jpg' | absolute_url }}"
-      alt="Patitos en el agua"
-      class="banda-parallax-img"
-    >
-    <!-- Contenido opcional encima -->
-    <div class="banda-parallax-content">
-      <!-- Si no quieres texto, borra este bloque -->
-      <h2 class="letralogo">Descarga el menú en Pdf</h2>
-      <!--<p>Pequeños momentos de calma y alegría en medio del proyecto.</p>-->
-       <a href="../assets/img/visitas/menu.jpg" download="menu-torre-escribana.jpg" class="btn-te">Descarga </a>
-    </div>
-  </div> 
-</section>
-<hr class="seccion-fullwidth">
-
-
-
+<div class="box-note">Torre Escribana es también nuestro hogar. Las visitas se realizan siempre con reserva previa.</div>

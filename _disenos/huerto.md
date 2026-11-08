@@ -1,28 +1,17 @@
 ---
-title:  Huerto
-subtitle: Somos lo que comemos.
-cover-img: /assets/img/proyecto/huerto.jpg
-finished: false
-
+title: Huerto
+subtitle: Alimentos, suelo y aprendizaje cotidiano
+cover-img: /assets/img/proyecto/nuevas/huerto.jpg
+finished: true
+description: Huerto. Alimentos, suelo y aprendizaje cotidiano
 ---
 
-### 1. Observación
-- **Cultivo Tradicional:** Los abuelos riegan a manta, lo que causa un desperdicio significativo de agua. Hay acequias antiguas y se cultivan principalmente cultivos de temporada.
-- **Suelo y Vegetación:** El suelo es arcilloso y en el terreno proliferan muchas plantas.
+El huerto es un lugar para producir alimentos y aprender de las estaciones. Sembrar, observar el crecimiento y cosechar nos acerca al tiempo y los cuidados que hay detrás de lo que comemos.
 
-### 2. Análisis
-- **Clima:** El clima es más errático que antes.
-- **Suelo:** El suelo se ha degradado debido a cultivos extensivos previos.
+En permacultura se presta atención al suelo, a la diversidad de cultivos y a la relación con el agua y los seres vivos. El compost, los acolchados o las asociaciones de plantas son recursos que se valoran según las necesidades de cada huerto.
 
-### 3. Soluciones de Diseño
-- **Parterres Permanentes:** Creación de parterres que no se pisan, preservando la estructura del suelo.
-- **Riego por Goteo:** Instalación de un sistema de riego por goteo para optimizar el uso del agua.
-- **Asociación de Cultivos:** Implementación de asociaciones beneficiosas para mejorar la salud de las plantas.
-- **Aporte de Materia Orgánica:** Incorporación de compost y otros materiales orgánicos para enriquecer el suelo.
-- **Acolchado:** Uso de acolchado para retener la humedad y evitar el crecimiento de plantas adventicias.
+La visita permite conocer qué está creciendo en ese momento y compartir preguntas sobre cultivo y cuidado del suelo. Cada estación ofrece un recorrido diferente.
 
+<figure class="ficha-foto"><img src="/assets/img/proyecto/nuevas/huerto.jpg" alt="Bancal del huerto con cultivos y vegetación alrededor"></figure>
 
-
-
-
-
+<div class="visita-cta"><a href="{{ '/visitas/' | relative_url }}" class="btn-te">Descúbrelo en una visita</a></div>

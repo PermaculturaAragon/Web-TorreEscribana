@@ -7,3 +7,5 @@ gemspec
 gem 'rake'
 gem 'tzinfo-data'
 gem 'tzinfo'
+
+gem 'nokogiri', '~> 1.18.0'

@@ -1,13 +1,14 @@
 ---
 layout: home
 title: Torre Escribana
-subtitle: Un proyecto viviencial basado en la Permacultura
-cover-img: /assets/img/index/portada.jpg 
+subtitle: Un proyecto vivencial basado en la permacultura
+cover-img: /assets/img/index/portada.jpg
 hero: false
 body-class: home-no-hero
+description: Visita Torre Escribana, centro demostrativo de permacultura en Montañana,
+  Zaragoza. Descubre la finca, nuestros talleres y las opciones de voluntariado.
+seo-title: Torre Escribana · Permacultura en Zaragoza
 ---
-
-<link rel="icon" href="..\assets\img\favicon.png" type="image/x-icon">
 
 <div class="hero-home">
   <div class="hero-home__overlay">
@@ -34,6 +35,63 @@ body-class: home-no-hero
   </div>
 </div>
 
+
+<section class="que-hacemos seccion-fullwidth">
+
+  <div class="que-hacemos-inner">
+    <h2 class="que-hacemos-title letralogo">Qué hacemos en Torre Escribana</h2>
+
+    <!-- 1. VISITAS -->
+    <article class="qh-row">
+      <div class="qh-img">
+        <!-- pon aquí la ilustración VISITAS -->
+        <img src="/assets/img/que-hacemos/visitas.png" alt="Ilustración de visitas en la huerta">
+      </div>
+      <div class="qh-content">
+        <h3>Visitas</h3>
+        <p>
+          Visitas escolares y familiares para descubrir la huerta viva, el bosque comestible y
+          los animales integrados en el diseño. Actividades adaptadas a cada grupo para aprender
+          jugando en la naturaleza.
+        </p>
+        <a href="/visitas" class="btn-te qh-btn">Ver opciones de visita</a>
+      </div>
+    </article>
+
+    <!-- 2. FORMACIÓN -->
+    <article class="qh-row">
+      <div class="qh-img">
+        <!-- ilustración FORMACIÓN -->
+        <img src="/assets/img/que-hacemos/formacion.png" alt="Ilustración de talleres y formación">
+      </div>
+      <div class="qh-content">
+        <h3>Formación</h3>
+        <p>
+          Talleres y procesos formativos en Permacultura, bioconstrucción, manejo de agua y suelo,
+          diseño de espacios y vida cotidiana regenerativa. De lo práctico a lo sistémico.
+        </p>
+        <a href="/agenda" class="btn-te qh-btn">Ver próximas actividades</a>
+      </div>
+    </article>
+
+    <!-- 3. VOLUNTARIADO -->
+    <article class="qh-row">
+      <div class="qh-img">
+        <!-- ilustración VOLUNTARIADO -->
+        <img src="/assets/img/que-hacemos/voluntariado.png" alt="Ilustración de voluntariado y WWOOF">
+      </div>
+      <div class="qh-content">
+        <h3>Voluntariado</h3>
+        <p>
+          Estancias de voluntariado a través de WWOOF, Worldpackers y el CES para vivir el día a día de la finca, aprender haciendo,
+          compartir tiempo, trabajo y buena conversación en un proyecto vivo.
+        </p>
+        <a href="/voluntariado/" class="btn-te qh-btn">Conocer el voluntariado</a>
+      </div>
+    </article>
+
+  </div>
+</section>
 
 <section class="bloque-inspiracion">
 
@@ -123,7 +181,7 @@ body-class: home-no-hero
 
     <article class="que-item">
       <div class="que-media">
-        <img src="{{ '/assets/img//otros/hotelinsectos.jpg' | absolute_url }}" alt="">
+        <img src="{{ '/assets/img/otros/hotelinsectos.jpg' | absolute_url }}" alt="">
       </div>
       <div class="que-overlay fade-text">
         <div class="que-icon"><i class="fas fa-tree"></i></div>
@@ -141,78 +199,7 @@ body-class: home-no-hero
 
 
 
-<section class="que-hacemos seccion-fullwidth">
 
-  <div class="que-hacemos-inner">
-    <h2 class="que-hacemos-title letralogo">Qué hacemos en Torre Escribana</h2>
-
-    <!-- 1. VISITAS -->
-    <article class="qh-row">
-      <div class="qh-img">
-        <!-- pon aquí la ilustración VISITAS -->
-        <img src="/assets/img/que-hacemos/visitas.png" alt="Ilustración de visitas en la huerta">
-      </div>
-      <div class="qh-content">
-        <h3>Visitas</h3>
-        <p>
-          Visitas escolares y familiares para descubrir la huerta viva, el bosque comestible y
-          los animales integrados en el diseño. Actividades adaptadas a cada grupo para aprender
-          jugando en la naturaleza.
-        </p>
-        <a href="/visitas" class="btn-te qh-btn">+ Info</a>
-      </div>
-    </article>
-
-    <!-- 2. FORMACIÓN -->
-    <article class="qh-row">
-      <div class="qh-img">
-        <!-- ilustración FORMACIÓN -->
-        <img src="/assets/img/que-hacemos/formacion.png" alt="Ilustración de talleres y formación">
-      </div>
-      <div class="qh-content">
-        <h3>Formación</h3>
-        <p>
-          Talleres y procesos formativos en Permacultura, bioconstrucción, manejo de agua y suelo,
-          diseño de espacios y vida cotidiana regenerativa. De lo práctico a lo sistémico.
-        </p>
-        <a href="/agenda" class="btn-te qh-btn">Ver formación</a>
-      </div>
-    </article>
-
-    <!-- 3. VOLUNTARIADO -->
-    <article class="qh-row">
-      <div class="qh-img">
-        <!-- ilustración VOLUNTARIADO -->
-        <img src="/assets/img/que-hacemos/voluntariado.png" alt="Ilustración de voluntariado y WWOOF">
-      </div>
-      <div class="qh-content">
-        <h3>Voluntariado</h3>
-        <p>
-          Estancias de voluntariado y WWOOF para vivir el día a día de la finca, aprender haciendo,
-          compartir tiempo, trabajo y buena conversación en un proyecto vivo.
-        </p>
-        <a href="/visitas" class="btn-te qh-btn">Quiero venir a ayudar</a>
-      </div>
-    </article>
-
-    <!-- 4. EXCEDENTES -->
-    <article class="qh-row">
-      <div class="qh-img">
-        <!-- ilustración EXCEDENTES -->
-        <img src="/assets/img/que-hacemos/excedentes.png" alt="Ilustración de excedentes y productos">
-      </div>
-      <div class="qh-content">
-        <h3>Excedentes</h3>
-        <p>
-          Verdura de temporada, plantel, semillas y otros excedentes de la huerta y el bosque
-          comestible. Compartimos lo que la finca produce cuando hay abundancia.
-        </p>
-        <a href="/excedentes" class="btn-te qh-btn">Saber más</a>
-      </div>
-    </article>
-
-  </div>
-</section>
 
 
 <hr class="seccion-fullwidth">
@@ -228,7 +215,7 @@ body-class: home-no-hero
       <!-- Si no quieres texto, borra este bloque -->
       <!--<h2 class="letralogo">Cuidando la Vida</h2>-->
       <!--<p>Pequeños momentos de calma y alegría en medio del proyecto.</p>-->
-       <a href="/contacto" class="btn-te">Contacta para +info</a>
+       <a href="/contacto" class="btn-te">Contactar</a>
     </div>
   </div> 
 </section>
@@ -266,28 +253,28 @@ body-class: home-no-hero
   <div class="zoom-basico">
     <a href="https://www.coopernat.com/" target=_blank>  
       <img class="img2"
-        src="{{ '/assets/img/links/coopernat.png' | absolute_url  }}"  />      
+        src="{{ '/assets/img/links/coopernat.png' | absolute_url  }}" alt="Coopernat">      
       </a>
   </div>
 
    <div class="zoom-basico">
     <a href="https://www.instagram.com/pernatura/?hl=es" target=_blank>  
       <img class="img2"
-        src="{{ '/assets/img/links/pernatura.png' | absolute_url  }}"  />      
+        src="{{ '/assets/img/links/pernatura.png' | absolute_url  }}" alt="Pernatura">      
       </a>
   </div>
 
    <div class="zoom-basico">
     <a href="https://academiapermaculturaibera.org/" target=_blank>  
       <img class="img2"
-        src="{{ '/assets/img/links/academia.png' | absolute_url  }}"  />      
+        src="{{ '/assets/img/links/academia.png' | absolute_url  }}" alt="Academia de Permacultura Íbera">      
       </a>
   </div>
 
   <div class="zoom-basico">
     <a href="https://proyectopermambroz.es//" target=_blank>  
       <img class="img2"
-        src="{{ '/assets/img/links/paz.png' | absolute_url  }}"  />      
+        src="{{ '/assets/img/links/paz.png' | absolute_url  }}" alt="Proyecto Permambroz">      
       </a>
   </div>
   

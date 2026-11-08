@@ -3,6 +3,8 @@ layout: page
 title: Actividades para Scouts, Guías y Tiempo Libre
 subtitle: Educando diferente en la naturaleza
 cover-img: /assets/img/visitas/scout1.png
+description: Excursiones, acampadas, estancias y talleres para scouts, guías y tiempo
+  libre en Torre Escribana. Consulta una propuesta adaptada a tu grupo.
 ---
 
 <section class="page-section page-scouts">
@@ -46,7 +48,7 @@ cover-img: /assets/img/visitas/scout1.png
           </p>
           <ul>
             <li>Recorrido interpretativo: huerto, bosque, agua, fauna</li>
-            <li>Juego cooperativos / rastreo / orientación</li>
+            <li>Juegos cooperativos / rastreo / orientación</li>
            
           </ul>
         </div>
@@ -74,7 +76,7 @@ cover-img: /assets/img/visitas/scout1.png
       <!-- Alquiler casa -->
       <article class="card-design">
         <div class="media media--16-9">
-          <img src="/assets/img/visitas/galeria-scouts-11.jpg" alt="Reunión de Kraal y estancia en casa en Torre Escribana">
+          <img src="/assets/img/visitas/galeria-scouts-11.jpg" alt="Vivienda y patio de Torre Escribana">
         </div>
         <div class="card-body">
           <h3>Alquiler de casa</h3>
@@ -127,37 +129,7 @@ cover-img: /assets/img/visitas/scout1.png
 </section>
 
 <!-- Estilos locales SOLO para esta página -->
-<style>
-  /* Evita que la regla global .blog-post img {max-width:50%} rompa estas cards */
-  .blog-post .page-scouts .card-design .media img { max-width: 100% !important; }
 
-  /* Cover real dentro del marco (sin huecos blancos) */
-  .page-scouts .card-design .media{
-    position: relative;
-    overflow: hidden;
-    background: #f2f4f1;
-  }
-  .page-scouts .card-design .media > img{
-    position: absolute !important;
-    inset: 0 !important;
-    width: 100% !important;
-    height: 100% !important;
-    object-fit: cover !important;
-    transform: none !important;
-  }
-
-  /* Espaciado dentro de cards */
-  .page-scouts .card-design .card-body{ padding: 18px 22px 20px; }
-  .page-scouts .card-design .card-body h3{ margin: 0 0 10px; }
-  .page-scouts .card-design .card-body p{ margin: 0 0 10px; }
-  .page-scouts .card-design .card-body ul{ margin: 10px 0 0 18px; }
-
-  /* Botones centrados */
-  .page-scouts .botones-inline{
-    display:flex; flex-wrap:wrap; gap:12px;
-    align-items:center; justify-content:center;
-  }
-</style>
 
 <hr>
 <br>
@@ -172,40 +144,40 @@ cover-img: /assets/img/visitas/scout1.png
 
     <div class="photo-grid">
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-01.jpg" alt="Galería scouts 1">
+        <img src="/assets/img/visitas/galeria-scouts-01.jpg" alt="Patio y porche junto a la vivienda">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-02.jpg" alt="Galería scouts 2">
+        <img src="/assets/img/visitas/galeria-scouts-02.jpg" alt="Zona de arbolado de la finca">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-03.jpg" alt="Galería scouts 3">
+        <img src="/assets/img/visitas/galeria-scouts-03.jpg" alt="Construcción auxiliar junto al huerto">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-04.jpg" alt="Galería scouts 4">
+        <img src="/assets/img/visitas/galeria-scouts-04.jpg" alt="Domos decorados con mosaicos">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-05.jpg" alt="Galería scouts 5">
+        <img src="/assets/img/visitas/galeria-scouts-05.jpg" alt="Bancales de cultivo del huerto">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-06.jpg" alt="Galería scouts 6">
+        <img src="/assets/img/visitas/galeria-scouts-06.jpg" alt="Ocas en el exterior de la finca">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-07.jpg" alt="Galería scouts 7">
+        <img src="/assets/img/visitas/galeria-scouts-07.jpg" alt="Sala comunitaria con mesas">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-08.jpg" alt="Galería scouts 8">
+        <img src="/assets/img/visitas/galeria-scouts-08.jpg" alt="Porche con bancos junto a la vivienda">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-09.jpg" alt="Galería scouts 9">
+        <img src="/assets/img/visitas/galeria-scouts-09.jpg" alt="Comedor de la casa">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-10.jpg" alt="Galería scouts 10">
+        <img src="/assets/img/visitas/galeria-scouts-10.jpg" alt="Cocina de la casa">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-11.jpg" alt="Galería scouts 11">
+        <img src="/assets/img/visitas/galeria-scouts-11.jpg" alt="Vista de la vivienda y su patio">
       </figure>
       <figure class="photo-item">
-        <img src="/assets/img/visitas/galeria-scouts-12.jpg" alt="Galería scouts 12">
+        <img src="/assets/img/visitas/galeria-scouts-12.jpg" alt="Estructura curva de bioconstrucción en la finca">
       </figure>
 
 
@@ -213,42 +185,7 @@ cover-img: /assets/img/visitas/scout1.png
   </div>
 </section>
 
-<style>
-  /* Grid simple y bonito, coherente con tu estilo */
-  .page-scouts-gallery .photo-grid{
-    display:grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 16px;
-    margin-top: 10px;
-  }
 
-.page-scouts-gallery .photo-item{
-  display:block;
-  line-height:0;          /* mata el gap de baseline */
-  overflow:hidden;
-  border-radius:18px;
-  background:#fff;
-}
-
-.page-scouts-gallery .photo-item img{
-  display:block !important; /* por si el tema lo cambia */
-  width:100%;
-  height:220px;
-  object-fit:cover;
-  vertical-align:middle;    /* extra seguridad */
-}
-
-
-  @media (max-width: 992px){
-    .page-scouts-gallery .photo-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
-    .page-scouts-gallery .photo-item img{ height:210px; }
-  }
-
-  @media (max-width: 576px){
-    .page-scouts-gallery .photo-grid{ grid-template-columns: 1fr; }
-    .page-scouts-gallery .photo-item img{ height:220px; }
-  }
-</style>
 
 
 

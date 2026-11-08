@@ -1,19 +1,17 @@
 ---
-title:  Vivienda
-subtitle: Construida en 1955 con adobes y rehabilitada en 2020 con cal y mucho amor
-cover-img: /assets/img/proyecto/vivienda.jpg
-finished: false
-
+title: Vivienda
+subtitle: Habitar cuidando los materiales y el entorno
+cover-img: /assets/img/proyecto/nuevas/fachada.jpg
+finished: true
+description: Vivienda. Habitar cuidando los materiales y el entorno
 ---
 
-La construcción principal de la vivienda está construida con adobas de barro de 20 cm de ancho x 40 cm de largo x 10 cm de alto y dispuestas a tizón, lo que crean un muro de 40cm de ancho de barro con unas propiedades espectaculares de masa térmica.
+La vivienda es una parte central del diseño: un lugar para descansar, convivir y cubrir necesidades cotidianas. Su orientación, sus materiales y su relación con los espacios exteriores influyen en cómo se habita.
 
-<img class=img1 src="/assets/img//proyecto/tizon.jpg"/>
+La construcción con tierra y los revestimientos naturales permiten trabajar con materiales cercanos y técnicas que requieren conocer su comportamiento. El confort depende del conjunto: protección frente al agua, aislamiento, ventilación, sombra y mantenimiento.
 
-Los muros de dicha pared están revocados por fuera con mortero de cal y arena y por dentro tienen varias capas de arcilla, paja y arena con una acabado final de arcilla de Ecoclay.
+La casa de adobe de Torre Escribana forma parte de ese aprendizaje. En las visitas compartimos su historia y algunas decisiones de rehabilitación, respetando siempre los espacios de vida familiar.
 
+<figure class="ficha-foto"><img src="/assets/img/proyecto/nuevas/fachada.jpg" alt="Fachada de la vivienda de adobe de Torre Escribana"></figure>
 
-
-
-
-
+<div class="visita-cta"><a href="{{ '/visitas/' | relative_url }}" class="btn-te">Descúbrelo en una visita</a></div>

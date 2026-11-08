@@ -1,9 +1,9 @@
 ---
-title:  Compost y Biochar
+title: Compost y Biochar
 subtitle: Almacenando energía.
 cover-img: /assets/img/proyecto/lombrices.jpg
 finished: true
-
+description: Compost y Biochar. Almacenando energía.
 ---
 
 En Torre Escribana, fabricamos nuestro propio compost y biochar para mejorar la salud del suelo y optimizar nuestros cultivos. El compostaje convierte los residuos orgánicos en un abono rico en nutrientes, enriqueciendo la tierra y promoviendo un crecimiento saludable de las plantas. Por otro lado, el biochar, producido a través de la pirólisis de biomasa, se integra en el suelo para aumentar su capacidad de retención de agua y nutrientes, mejorando la estructura del suelo y su fertilidad a largo plazo.

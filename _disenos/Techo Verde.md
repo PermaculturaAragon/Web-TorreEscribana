@@ -1,9 +1,10 @@
 ---
-title:  Techo Verde
-subtitle: 
+title: Techo Verde
+subtitle: null
 cover-img: /assets/img/otros/tejas.jpg
 finished: true
-
+description: Techo Verde. Conoce esta parte del proyecto y sus relaciones con la permacultura
+  en Torre Escribana.
 ---
 
 En Torre Escribana hemos instalado un techo verde en nuestro gallinero, aprovechando esta técnica sostenible para múltiples beneficios. Un techo verde consiste en una capa de vegetación cultivada sobre una estructura impermeabilizada, que en nuestro caso ayuda a mantener el gallinero fresco durante el verano y cálido en invierno, mejorando así el bienestar de las gallinas.

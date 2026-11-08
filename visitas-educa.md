@@ -3,6 +3,8 @@ layout: page
 title: Visitas de Centros Educativos
 subtitle: Aprender la naturaleza viviéndola
 cover-img: /assets/img/visitas/educa/portada-manos.jpg
+description: 'Visitas para centros educativos en Montañana, Zaragoza: huerto, animales,
+  barro y naturaleza. Información sobre duración, precios y reserva de grupos.'
 ---
 
 <div class="box-cita">
@@ -111,7 +113,7 @@ La misma finca ofrece muchas posibilidades. Con los grupos más pequeños priori
 
 También adaptamos los ritmos, los recorridos y las propuestas a las necesidades del grupo. Buscamos que cada persona pueda participar, disfrutar y llevarse una experiencia significativa.
 
-<a href="{{ '/assets/img/visitas/nanyland.jpg' | absolute_url }}" target="_blank">
+<a href="{{ '/assets/img/visitas/nanyland.png' | absolute_url }}" target="_blank">
   <img class="img1" src="{{ '/assets/img/visitas/nanyland.png' | absolute_url }}" alt="Grupo participando en una actividad al aire libre con apoyos de accesibilidad">
 </a>
 

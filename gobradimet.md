@@ -3,17 +3,17 @@ layout: page
 title: Sistema Gobradimet
 subtitle: Pasos hacia la Sostenibilidad, Explora Nuestro Diseño.
 cover-img: /assets/img/proyecto/realtime2.png
+description: Un recorrido por el proceso de diseño GOBRADIME y sus fases de observación,
+  análisis, diseño, implementación y evaluación.
 ---
 
 
 {: .box-success}
-En esta página puedes ver un **pequeño resumen** del diseño de <span class="letralogo"> Torre Escribana. </span>. Está basado en el **SISTEMA GOBRADIMET** y en encuentra en constante **REDISEÑO.**
+En esta página puedes ver un **pequeño resumen** del diseño de <span class="letralogo">Torre Escribana</span>. Está basado en el **SISTEMA GOBRADIMET** y se encuentra en constante **REDISEÑO.**
 
 
 
-GOALS
-
-###### - Misión, Visión y Objetivos
+## Misión, visión y objetivos
 
 {: .box-success}
 __Misión:__  
@@ -44,7 +44,7 @@ La finca es prácticamente llana. Dispone de varias construcciones: Una vivienda
 Colinda con un ramal de la acequia Camarera que viene desde Ontinar de Sanz y por donde transcurre agua prácticamente todas las semanas excepto el mes de limpieza en febrero. Dispone de conexión a la red eléctrica y de telecomunicaciones pero no dispone de red de agua potable ni saneamiento. 
 
 Al observar los sectores, ganamos una comprensión más profunda de la interacción entre nuestro sitio y su entorno circundante. Reconocemos las oportunidades que nos ofrecen los sectores favorables, como la captura de energía solar y la protección contra vientos fuertes. Del mismo modo, identificamos los desafíos que plantean los sectores desfavorables, como la exposición excesiva al sol o la posible exposición a herbicidas de vecinos.
-![Sectores](..\assets\img\proyecto\sectores.jpg)
+![Sectores](/assets/img/proyecto/sectores.jpg)
 
 
 
@@ -104,7 +104,7 @@ Durante esta etapa, profundizamos en la comprensión de los datos recopilados du
 ## DISEÑO
 
 En esta etapa, tomamos los conocimientos obtenidos durante la observación y el análisis para crear un diseño regenerativo para Torre Escribana. Utilizamos principios de permacultura y técnicas de diseño sostenible para planificar el uso del espacio, la ubicación de las estructuras, la gestión del agua, la plantación de cultivos y la integración de sistemas naturales.
-![diseño realtime](..\assets\img\proyecto\realtime.png)
+![diseño realtime](/assets/img/proyecto/realtime.png)
 
 ## IMPLEMENTACIÓN
 Con el diseño en mano, pasamos a la fase de implementación donde ponemos en práctica las ideas y planes desarrollados. Esto puede incluir la construcción de estructuras, la siembra de plantas, la instalación de sistemas de captación de agua, la creación de senderos, entre otras acciones. Es importante llevar a cabo la implementación de manera cuidadosa y considerada para asegurar que el diseño se lleve a cabo de manera efectiva.
@@ -116,15 +116,15 @@ Una vez que el diseño ha sido implementado, es crucial mantener y cuidar el sit
 Regularmente evaluamos el éxito y la efectividad del diseño permacultural en Torre Escribana. Observamos cómo están creciendo las plantas, cómo funcionan los sistemas de agua, cómo se comportan las estructuras en diferentes condiciones climáticas, y cómo responde la comunidad a las iniciativas implementadas. Utilizamos esta retroalimentación para ajustar y mejorar el diseño según sea necesario.
 
 ## TUNEO  
-###### - Rediseño.
+### Rediseño
 Basándonos en los resultados de la evaluación, realizamos ajustes y modificaciones al diseño para optimizar su funcionamiento y adaptarlo a las cambiantes condiciones del entorno. Esto puede implicar cambios en la disposición de las plantas, la incorporación de nuevas tecnologías, la revisión de sistemas de gestión, o la expansión de áreas específicas. El tuneo continuo es parte integral del proceso de diseño permacultural, permitiendo una mejora constante.
 
 
 
 
-<a href="{{ '/proyecto ' | absolute_url  }}" ><button class="letralogo">Descubre mucho más</button>   </a>
+<a href="{{ '/proyecto/' | absolute_url  }}" ><button class="letralogo">Descubre mucho más</button>   </a>
 
-<a href="{{ '/nosotras ' | absolute_url  }}" ><button>Conoce a sus integrantes</button>   </a>
+<a href="{{ '/nosotras/' | absolute_url  }}" ><button>Conoce a sus integrantes</button>   </a>
 
 
 

@@ -1,4 +1,4 @@
-{% assign eventos = site.posts | where_exp:"item","item.portada== true" || sort: "start-date" | reverse%}
+{% assign eventos = site.posts | where_exp:"item","item.portada== true" | sort: "start-date" | reverse%}
 
 <h2 class="section-heading">Artículos Recientes</h2>
 <div class="container-fluid">

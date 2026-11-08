@@ -3,6 +3,8 @@ layout: page
 title: Visitas
 subtitle: Conoce Torre Escribana
 cover-img: /assets/img/visitas/bulgaros.jpg
+description: 'Elige tu visita a Torre Escribana, en Montañana, Zaragoza: experiencias
+  personalizadas, centros educativos, scouts, jornadas y talleres con cita previa.'
 ---
 
 
@@ -14,7 +16,7 @@ cover-img: /assets/img/visitas/bulgaros.jpg
 
 
 
-Explora nuestras opciones de visita a continuación y únete a nosotras en esta emocionante aventura hacia un futuro más verde y consciente. ¡Esperamos conocerte pronto en <span class="letralogo"> Torre Escribana </span>!.
+Elige la visita que encaje con tu grupo: una experiencia personalizada, una salida educativa, una actividad scout o una jornada para aprender haciendo.
 
 
 
