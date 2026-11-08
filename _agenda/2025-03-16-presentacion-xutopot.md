@@ -1,6 +1,6 @@
 ---
-title: Presentación Xutopot
-subtitle: Ven a conocer este nuevo Wc Seco
+title: Taller Cultivo de setas en exterior
+subtitle: 
 start-date: 2025-03-09
 end-date: 2025-03-15
 formatted-date: 9 y 15 de marzo de 2025
