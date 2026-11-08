@@ -4,18 +4,20 @@ title: ¿Qué hay en Torre Escribana?
 subtitle: Explora la esencia y los rincones de Torre Escribana
 permalink: /proyecto/
 cover-img: /assets/img/index/almendro.jpg
+description: 'Explora los espacios de Torre Escribana: huerto, bosque comestible,
+  animales, agua, energía y bioconstrucción. Descúbrelos en una visita a la finca.'
 ---
 
-Aquí puedes descubrir un poquito más de muchos de los elementos que conforman  <span class="letralogo"> Torre Escribana. </span>
+Aquí puedes descubrir un poquito más de muchos de los elementos que conforman  <span class="letralogo">Torre Escribana</span>
 
-{: .box-warning}
-Iremos añadiendo contenido y soluciones de diseño en cada apartado a lo largo de todo este año.
 
 {% include home_design.html %}
 
 
 
-<a href="../assets/img/otros/mapa.jpg" ><img src="../assets/img/otros/mapa.jpg"> </a>
+<h2>La finca de un vistazo</h2>
+<p>Amplía el mapa para situar los espacios y sus relaciones.</p>
+<a href="../assets/img/otros/mapa.jpg" ><img src="../assets/img/otros/mapa.jpg" alt="Mapa ilustrado de los espacios de Torre Escribana"> </a>
 
 <div class="botones-home">
 
@@ -25,7 +27,7 @@ Iremos añadiendo contenido y soluciones de diseño en cada apartado a lo largo 
   </a>
 
   <a href="{{ '/diseno' | absolute_url }}" class="btn-te btn-te--slim">
-    Profundiza en su diseño
+    Conocer la permacultura
   </a>
 </div>
 

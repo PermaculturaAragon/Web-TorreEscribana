@@ -2,6 +2,8 @@
 layout: page
 title: Blog
 subtitle: prueba de subtitulo
+description: Artículos y experiencias sobre permacultura y vida en la finca de Torre
+  Escribana, en Montañana, Zaragoza.
 ---
 {% assign posts = paginator.posts | default: site.posts %}
 
@@ -39,12 +41,12 @@ subtitle: prueba de subtitulo
       {% endif %}
 
       <a href="{{ post.url | absolute_url }}">
-        <h3 class="post-title">{{ post.title | strip_html }}</h3>
+        <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
         {% if post.subtitle %}
-        <h5 class="post-subtitle">
+        <p class="post-subtitle">
           {{ post.subtitle | strip_html }}
-        </h5>
+        </p>
         {% endif %}
       </a>
 

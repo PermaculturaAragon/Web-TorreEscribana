@@ -1,13 +1,14 @@
 ---
 layout: post
-title: ¿Que es un bosque comestible?
+title: ¿Qué es un bosque comestible?
 subtitle: El edén en tu jardín
-tags: 
+tags: null
 portada: true
 comments: true
-cover-img: /assets/img//posts/bosque1.jpg
-thumbnail-img: /assets/img//posts/bosque1.jpg
+cover-img: /assets/img/posts/bosque1.jpg
+thumbnail-img: /assets/img/posts/bosque1.jpg
 author: Escuín
+description: ¿Qué es un bosque comestible?. El edén en tu jardín
 ---
 El bosque comestible es una aplicación práctica de la permacultura, un jardín forestal formado por árboles y plantas comestibles. Es un espacio bello que cumple funciones ecológicas como favorecer las especies melíferas que producen néctar y atraen a las abejas. Es un paraíso o vergel.
 
@@ -27,7 +28,7 @@ Aunque este tema parezca algo novedoso proveniente del siglo pasado, tribus ind�
 
 El bosque es una de las manifestaciones más  espectaculares de la naturaleza y nosotros tenemos la capacidad de replicar aquello trayendo de vuelta un paraíso en la tierra.  La única diferencia entre un bosque nativo y un bosque comestible radica en que al crearlo podemos obtener nuestros alimentos de una forma sinérgica.
 
-#### Beneficios del bosque comestible:
+## Beneficios del bosque comestible:
 
 - **Pulmón verde en el sector:** Regenera el aire y contribuye a la disminución del efecto invernadero capturando CO2.
 

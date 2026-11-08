@@ -9,14 +9,14 @@
     <div class="zoom-basico">
 
       <div class="primary-title">
-        <div class="primary-text">{{ design.title }}</div>
+        <h2 class="primary-text">{{ design.title }}</h2>
       </div>
 
       {% if design.cover-img %}
         {% if design.finished %}
-          <img src="{{ design.cover-img | absolute_url }}" alt="" width="960" height="640">
+          <img src="{{ design.cover-img | absolute_url }}" alt="" width="960" height="640" loading="lazy" decoding="async">
         {% else %}
-          <img src="{{ design.cover-img | absolute_url }}" alt="" width="960" height="640" class="gray">
+          <img src="{{ design.cover-img | absolute_url }}" alt="" width="960" height="640" loading="lazy" decoding="async" class="gray">
         {% endif %}
       {% endif %}
 

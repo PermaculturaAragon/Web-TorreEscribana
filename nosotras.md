@@ -1,52 +1,26 @@
 ---
 layout: page
-title: ¿Quienes somos?
-subtitle: Conoce al equipo detrás de Torre Escribana nuestra pasión, nuestro compromiso y nuestra visión.
+title: ¿Quiénes somos?
+subtitle: La familia y las personas que dan vida al proyecto
 permalink: /nosotras/
 cover-img: /assets/img/index/quienes.jpg
-
+description: 'Conoce a Irene y Ángel y la historia de Torre Escribana: vida familiar,
+  aprendizaje y permacultura en la huerta de Montañana, Zaragoza.'
 ---
 
-En <span class="letralogo"> Torre Escribana. </span>, somos una comunidad dedicada a la permacultura cuya experiencia queremos compartir. Comenzada en 2015 nuestro proyecto ha evolucionado gracias a la dedicación y el compromiso de muchas personas que habéis pasado por aquí, contribuyendo con vuestra energía y conocimientos.
-<hr>
-### Quiénes vivimos actualmente
+Somos Irene y Ángel, y vivimos con nuestra familia en Torre Escribana, en la huerta de Montañana, Zaragoza. Aquí compartimos el día a día con las personas que vienen a aprender, colaborar o conocer el proyecto.
 
-En <span class="letralogo"> Torre Escribana. </span>, somos una comunidad íntima y comprometida, formada por Irene y Ángel, fundadores del proyecto junto a Ester y Pedro. Desde nuestros inicios, hemos sido guiados por el deseo compartido de crear un espacio donde la autosuficiencia y el respeto por la naturaleza sean nuestros pilares fundamentales. Un lugar ideal para ver crecer a nuestros hijos.
+Torre Escribana es nuestro hogar y el lugar donde ponemos en práctica la permacultura. Cuidamos el huerto y los animales, mejoramos los espacios y buscamos maneras de cubrir nuestras necesidades aprovechando los recursos que tenemos cerca. Vamos probando, observando y ajustando: algunas cosas funcionan a la primera y otras nos toca repensarlas.
 
-Nuestra historia está marcada por el arduo trabajo y la dedicación de todos los que habéis pasado por aquí. Cada persona que se une a nuestros cursos y talleres trae consigo una energía única y contribuye a enriquecer nuestra comunidad.
+Nos mueve el deseo de vivir cuidando la tierra y a las personas, y de que nuestros hijos crezcan en contacto con la naturaleza. También nos gusta compartir lo que vamos aprendiendo, escuchar otras experiencias y sentarnos a conversar. Si vienes, seguramente acabemos pillando capazo.
 
- Irene, con su atención a los pequeños detalles y su determinación ante el trabajo, ha sido fundamental en la creación de un entorno acogedor para todas nosotras. Mientras tanto, Ángel, con su pasión contagiosa y su dedicación inquebrantable a la permacultura, nos ha inspirado a todos a soñar en grande y a trabajar duro por nuestros ideales.
+El proyecto comenzó en 2015. Lo pusimos en marcha junto a Ester y Pedro y, desde entonces, muchas personas han contribuido a darle forma. Algunas han vivido aquí; otras han participado en voluntariados, jornadas, cursos o trabajos compartidos. Sus ideas, su tiempo y sus manos forman parte de lo que hoy es Torre Escribana.
 
-Juntos, formamos un equipo comprometido con la regeneración y el cambio positivo en el mundo. Seguimos avanzando con optimismo y determinación, sabiendo que cada paso que damos nos acerca un poco más a nuestra visión compartida de un futuro más sostenible y consciente.
+Con los años han cambiado las personas, los espacios y algunas de nuestras ideas. Seguimos aprendiendo a encontrar el equilibrio entre la vida familiar, el cuidado de la finca y las ganas de abrirla a los demás.
 
-<img class=img1 src="../assets/img/proyecto//nuevas/leo.jpg"/>
-<br>
-<hr>
-
-### <span class="letralogo"> Torre Escribana. </span> también sois vosotras
-
-Queremos expresar nuestro profundo agradecimiento a todas las personas que habéis sido parte de <span class="letralogo"> Torre Escribana. </span> a lo largo de los años. Desde aquellos que habéis contribuido con vuestro trabajo en las jornadas colaborativas hasta aquellos que habéis compartido vuestros conocimientos en nuestros talleres y eventos, cada una de vosotras ha dejado una huella imborrable en nuestra historia.
-
-Gracias por vuestra dedicación, vuestro apoyo y vuestro compromiso con la visión de <span class="letralogo"> Torre Escribana. </span> Vuestra generosidad ha sido fundamental para el crecimiento y la evolución de nuestro proyecto y esperamos seguir compartiendo este viaje juntas en el futuro.
-<hr>
-
-### A los que parten o partirán
-
-A lo largo de los años, <span class="letralogo"> Torre Escribana. </span> ha experimentado cambios significativos, reflejando la naturaleza dinámica y en constante evolución del proyecto. Entre estos cambios se encuentran las salidas de algunas personas que, por diversas razones, han decidido seguir diferentes caminos.
-
-Durante su tiempo en <span class="letralogo"> Torre Escribana. </span>, Carmen, Ester y Pedro han contribuido al proyecto con su energía, dejando una marca única en nuestra historia. Si bien apreciamos sus contribuciones, reconocemos que los proyectos y las circunstancias personales evolucionan con el tiempo, y que las decisiones individuales forman parte de ese proceso.
-
-Al despedirnos de quienes han elegido partir, damos la bienvenida a nuevas oportunidades y perspectivas que surgen en el camino. La comunidad de <span class="letralogo"> Torre Escribana. </span> continúa creciendo y cambiando, adaptándose a los desafíos y abrazando nuevas posibilidades mientras avanzamos hacia el futuro.
+Gracias a quienes habéis formado parte de este camino y a quienes os acercáis con curiosidad y ganas de compartir. En las visitas, los talleres y el voluntariado seguimos encontrándonos y aprendiendo juntas.
 
 <div class="botones-home">
-  <a href="{{ '/proyecto' | absolute_url }}" class="btn-te btn-te--slim">
-    Descubre mucho más
-  </a>
-
-
-
-  <a href="{{ '/diseno' | absolute_url }}" class="btn-te btn-te--slim">
-    Profundiza en su diseño
-  </a>
+  <a href="{{ '/proyecto/' | relative_url }}" class="btn-te">Conocer la finca</a>
+  <a href="{{ '/visitas/' | relative_url }}" class="btn-te btn-te--outline">Ver opciones de visita</a>
 </div>
-<hr>

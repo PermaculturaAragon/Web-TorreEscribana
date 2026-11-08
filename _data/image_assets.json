@@ -1,0 +1,1760 @@
+{
+  "/assets/img/agenda/biochar_taller.png": {
+    "width": 1080,
+    "height": 1080,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/71fb7752256ae94a-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/71fb7752256ae94a-960.webp"
+      },
+      {
+        "width": 1080,
+        "url": "/assets/img/optimized/71fb7752256ae94a-1080.webp"
+      }
+    ]
+  },
+  "/assets/img/agenda/lanafest2023.jpg": {
+    "width": 1090,
+    "height": 1093,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/1c8b4533a6421095-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/1c8b4533a6421095-960.webp"
+      },
+      {
+        "width": 1090,
+        "url": "/assets/img/optimized/1c8b4533a6421095-1090.webp"
+      }
+    ]
+  },
+  "/assets/img/agenda/microbiologia.jpg": {
+    "width": 821,
+    "height": 820,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/f8795ca44f025880-480.webp"
+      },
+      {
+        "width": 821,
+        "url": "/assets/img/optimized/f8795ca44f025880-821.webp"
+      }
+    ]
+  },
+  "/assets/img/agenda/poda.png": {
+    "width": 1366,
+    "height": 1366,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/e153b05d360c6f12-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/e153b05d360c6f12-960.webp"
+      },
+      {
+        "width": 1366,
+        "url": "/assets/img/optimized/e153b05d360c6f12-1366.webp"
+      }
+    ]
+  },
+  "/assets/img/agenda/xutopresentacion.png": {
+    "width": 371,
+    "height": 559,
+    "variants": [
+      {
+        "width": 371,
+        "url": "/assets/img/optimized/5d65d4069dbafa24-371.webp"
+      }
+    ]
+  },
+  "/assets/img/fondo.jpg": {
+    "width": 1200,
+    "height": 1200,
+    "variants": [
+      {
+        "width": 1200,
+        "url": "/assets/img/optimized/3e9373555ab1eff2-1200.webp"
+      }
+    ]
+  },
+  "/assets/img/index/almendro.jpg": {
+    "width": 1500,
+    "height": 1125,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/67b60f5432d6815e-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/67b60f5432d6815e-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/67b60f5432d6815e-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/index/contacto.jpg": {
+    "width": 1916,
+    "height": 907,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/ed3a9411ac225240-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/ed3a9411ac225240-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/ed3a9411ac225240-1600.webp"
+      },
+      {
+        "width": 1916,
+        "url": "/assets/img/optimized/ed3a9411ac225240-1916.webp"
+      }
+    ]
+  },
+  "/assets/img/index/diseno.png": {
+    "width": 727,
+    "height": 727,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/8d949efed55179bb-480.webp"
+      },
+      {
+        "width": 727,
+        "url": "/assets/img/optimized/8d949efed55179bb-727.webp"
+      }
+    ]
+  },
+  "/assets/img/index/ladrillos.jpg": {
+    "width": 1393,
+    "height": 1858,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/ae2df1f8a0851a58-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/ae2df1f8a0851a58-960.webp"
+      },
+      {
+        "width": 1393,
+        "url": "/assets/img/optimized/ae2df1f8a0851a58-1393.webp"
+      }
+    ]
+  },
+  "/assets/img/index/portada.jpg": {
+    "width": 1703,
+    "height": 1137,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/372069e38bca22df-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/372069e38bca22df-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/372069e38bca22df-1600.webp"
+      },
+      {
+        "width": 1703,
+        "url": "/assets/img/optimized/372069e38bca22df-1703.webp"
+      }
+    ]
+  },
+  "/assets/img/index/que-huerta.jpg": {
+    "width": 870,
+    "height": 682,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/cb767de54d3ea0f4-480.webp"
+      },
+      {
+        "width": 870,
+        "url": "/assets/img/optimized/cb767de54d3ea0f4-870.webp"
+      }
+    ]
+  },
+  "/assets/img/index/quienes.jpg": {
+    "width": 1703,
+    "height": 925,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/0b577428ff235db2-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/0b577428ff235db2-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/0b577428ff235db2-1600.webp"
+      },
+      {
+        "width": 1703,
+        "url": "/assets/img/optimized/0b577428ff235db2-1703.webp"
+      }
+    ]
+  },
+  "/assets/img/insta.png": {
+    "width": 283,
+    "height": 283,
+    "variants": [
+      {
+        "width": 283,
+        "url": "/assets/img/optimized/1244d34007381dd7-283.webp"
+      }
+    ]
+  },
+  "/assets/img/links/academia.png": {
+    "width": 300,
+    "height": 300,
+    "variants": [
+      {
+        "width": 300,
+        "url": "/assets/img/optimized/5dea834690a27302-300.webp"
+      }
+    ]
+  },
+  "/assets/img/links/coopernat.png": {
+    "width": 300,
+    "height": 300,
+    "variants": [
+      {
+        "width": 300,
+        "url": "/assets/img/optimized/265cfbfeddff74cf-300.webp"
+      }
+    ]
+  },
+  "/assets/img/links/paz.png": {
+    "width": 300,
+    "height": 300,
+    "variants": [
+      {
+        "width": 300,
+        "url": "/assets/img/optimized/0c3b27f372f72b24-300.webp"
+      }
+    ]
+  },
+  "/assets/img/links/pdf_download.jpg": {
+    "width": 612,
+    "height": 612,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/aea8899c8d7fef45-480.webp"
+      },
+      {
+        "width": 612,
+        "url": "/assets/img/optimized/aea8899c8d7fef45-612.webp"
+      }
+    ]
+  },
+  "/assets/img/links/permacultura-aragon-logo.png": {
+    "width": 300,
+    "height": 300,
+    "variants": [
+      {
+        "width": 300,
+        "url": "/assets/img/optimized/7115c2d8baa4b68d-300.webp"
+      }
+    ]
+  },
+  "/assets/img/links/pernatura.png": {
+    "width": 300,
+    "height": 300,
+    "variants": [
+      {
+        "width": 300,
+        "url": "/assets/img/optimized/0a60067f666bda80-300.webp"
+      }
+    ]
+  },
+  "/assets/img/links/rayen.png": {
+    "width": 300,
+    "height": 300,
+    "variants": [
+      {
+        "width": 300,
+        "url": "/assets/img/optimized/e54ec6068f2dfbbf-300.webp"
+      }
+    ]
+  },
+  "/assets/img/links/santa.png": {
+    "width": 300,
+    "height": 300,
+    "variants": [
+      {
+        "width": 300,
+        "url": "/assets/img/optimized/95c5169e995a0e38-300.webp"
+      }
+    ]
+  },
+  "/assets/img/links/xutopot.png": {
+    "width": 300,
+    "height": 300,
+    "variants": [
+      {
+        "width": 300,
+        "url": "/assets/img/optimized/a01ff04e99d013b8-300.webp"
+      }
+    ]
+  },
+  "/assets/img/logonuevo2.png": {
+    "width": 1500,
+    "height": 250,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/84ee3ff8b53a762f-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/84ee3ff8b53a762f-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/84ee3ff8b53a762f-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/manos-planta.png": {
+    "width": 1536,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/32772705a37b9147-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/32772705a37b9147-960.webp"
+      },
+      {
+        "width": 1536,
+        "url": "/assets/img/optimized/32772705a37b9147-1536.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/barro2.jpg": {
+    "width": 1500,
+    "height": 693,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/c3c96dd6beccf76c-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/c3c96dd6beccf76c-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/c3c96dd6beccf76c-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/botoncentros.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/3bde8c7672d28f71-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/3bde8c7672d28f71-960.webp"
+      },
+      {
+        "width": 1024,
+        "url": "/assets/img/optimized/3bde8c7672d28f71-1024.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/botonindividual.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/bd8fa6face750109-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/bd8fa6face750109-960.webp"
+      },
+      {
+        "width": 1024,
+        "url": "/assets/img/optimized/bd8fa6face750109-1024.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/botonjornadas.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/e97afed3923ec964-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/e97afed3923ec964-960.webp"
+      },
+      {
+        "width": 1024,
+        "url": "/assets/img/optimized/e97afed3923ec964-1024.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/botonscouts.png": {
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/f8a339952ce9a6c0-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/f8a339952ce9a6c0-960.webp"
+      },
+      {
+        "width": 1024,
+        "url": "/assets/img/optimized/f8a339952ce9a6c0-1024.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/cabra.jpg": {
+    "width": 1500,
+    "height": 937,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/66cf3d0f050f72a8-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/66cf3d0f050f72a8-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/66cf3d0f050f72a8-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/hotelinsectos.jpg": {
+    "width": 1500,
+    "height": 1291,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/ab616933e19d0e26-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/ab616933e19d0e26-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/ab616933e19d0e26-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/logo-telegram.png": {
+    "width": 283,
+    "height": 283,
+    "variants": [
+      {
+        "width": 283,
+        "url": "/assets/img/optimized/cc99d5d00265c382-283.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/mapa.jpg": {
+    "width": 1674,
+    "height": 545,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/89fe1d9afeea45b5-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/89fe1d9afeea45b5-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/89fe1d9afeea45b5-1600.webp"
+      },
+      {
+        "width": 1674,
+        "url": "/assets/img/optimized/89fe1d9afeea45b5-1674.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/patitos.jpg": {
+    "width": 1500,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/5ea0c5984f22c8e0-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/5ea0c5984f22c8e0-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/5ea0c5984f22c8e0-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/otros/tejas.jpg": {
+    "width": 1500,
+    "height": 1125,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/de3bcd404a975b25-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/de3bcd404a975b25-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/de3bcd404a975b25-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/posts/biochar1.jpg": {
+    "width": 700,
+    "height": 700,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/9616e397523ac4d6-480.webp"
+      },
+      {
+        "width": 700,
+        "url": "/assets/img/optimized/9616e397523ac4d6-700.webp"
+      }
+    ]
+  },
+  "/assets/img/posts/bosque1.jpg": {
+    "width": 1500,
+    "height": 844,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/ae0cdd2a57c59251-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/ae0cdd2a57c59251-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/ae0cdd2a57c59251-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/posts/raksha.jpg": {
+    "width": 740,
+    "height": 555,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/a630d09d022bdc4d-480.webp"
+      },
+      {
+        "width": 740,
+        "url": "/assets/img/optimized/a630d09d022bdc4d-740.webp"
+      }
+    ]
+  },
+  "/assets/img/posts/raksha2.jpg": {
+    "width": 1280,
+    "height": 591,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/6369beb5fcd89406-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/6369beb5fcd89406-960.webp"
+      },
+      {
+        "width": 1280,
+        "url": "/assets/img/optimized/6369beb5fcd89406-1280.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_1.png": {
+    "width": 152,
+    "height": 152,
+    "variants": [
+      {
+        "width": 152,
+        "url": "/assets/img/optimized/4b15f78b3890ccd6-152.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_10.png": {
+    "width": 155,
+    "height": 154,
+    "variants": [
+      {
+        "width": 155,
+        "url": "/assets/img/optimized/f11a510f07a26018-155.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_11.png": {
+    "width": 154,
+    "height": 154,
+    "variants": [
+      {
+        "width": 154,
+        "url": "/assets/img/optimized/832918e4355061b0-154.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_12.png": {
+    "width": 154,
+    "height": 154,
+    "variants": [
+      {
+        "width": 154,
+        "url": "/assets/img/optimized/a83605855584db47-154.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_2.png": {
+    "width": 153,
+    "height": 151,
+    "variants": [
+      {
+        "width": 153,
+        "url": "/assets/img/optimized/fa4b49a1e09902e4-153.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_3.png": {
+    "width": 151,
+    "height": 152,
+    "variants": [
+      {
+        "width": 151,
+        "url": "/assets/img/optimized/d0d8c152f1d252f9-151.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_4.png": {
+    "width": 152,
+    "height": 152,
+    "variants": [
+      {
+        "width": 152,
+        "url": "/assets/img/optimized/2132218816c6f549-152.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_5.png": {
+    "width": 154,
+    "height": 153,
+    "variants": [
+      {
+        "width": 154,
+        "url": "/assets/img/optimized/afdddbe432de1aa8-154.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_6.png": {
+    "width": 154,
+    "height": 153,
+    "variants": [
+      {
+        "width": 154,
+        "url": "/assets/img/optimized/af8eec2bd3c95b19-154.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_7.png": {
+    "width": 155,
+    "height": 153,
+    "variants": [
+      {
+        "width": 155,
+        "url": "/assets/img/optimized/ef2ff7476db79d07-155.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_8.png": {
+    "width": 153,
+    "height": 152,
+    "variants": [
+      {
+        "width": 153,
+        "url": "/assets/img/optimized/10abe70df5c161ae-153.webp"
+      }
+    ]
+  },
+  "/assets/img/principios/es_principle_9.png": {
+    "width": 153,
+    "height": 152,
+    "variants": [
+      {
+        "width": 153,
+        "url": "/assets/img/optimized/1db75bccc9198173-153.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/biochar.jpg": {
+    "width": 1920,
+    "height": 887,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/a1b335ed0ca363f8-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/a1b335ed0ca363f8-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/a1b335ed0ca363f8-1600.webp"
+      },
+      {
+        "width": 1920,
+        "url": "/assets/img/optimized/a1b335ed0ca363f8-1920.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/bosque1.jpg": {
+    "width": 1271,
+    "height": 953,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/05d23337885fdf47-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/05d23337885fdf47-960.webp"
+      },
+      {
+        "width": 1271,
+        "url": "/assets/img/optimized/05d23337885fdf47-1271.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/canalon.jpg": {
+    "width": 848,
+    "height": 620,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/c95336d3b55f1f70-480.webp"
+      },
+      {
+        "width": 848,
+        "url": "/assets/img/optimized/c95336d3b55f1f70-848.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/electricidad.jpg": {
+    "width": 1571,
+    "height": 632,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/407ffc343ff1cb22-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/407ffc343ff1cb22-960.webp"
+      },
+      {
+        "width": 1571,
+        "url": "/assets/img/optimized/407ffc343ff1cb22-1571.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/herramientas.jpg": {
+    "width": 1500,
+    "height": 1125,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/c7a617dbd4840f58-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/c7a617dbd4840f58-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/c7a617dbd4840f58-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/inventos.jpg": {
+    "width": 1600,
+    "height": 900,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/203dc8e7231fdd7a-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/203dc8e7231fdd7a-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/203dc8e7231fdd7a-1600.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/lombrices.jpg": {
+    "width": 1500,
+    "height": 1122,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/e5131e5840b6e866-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/e5131e5840b6e866-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/e5131e5840b6e866-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/erasmusalmuerzo.jpg": {
+    "width": 1920,
+    "height": 887,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/eb528c1bdbe2a15c-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/eb528c1bdbe2a15c-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/eb528c1bdbe2a15c-1600.webp"
+      },
+      {
+        "width": 1920,
+        "url": "/assets/img/optimized/eb528c1bdbe2a15c-1920.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/fachada.jpg": {
+    "width": 959,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/c152f575ab279cf7-480.webp"
+      },
+      {
+        "width": 959,
+        "url": "/assets/img/optimized/c152f575ab279cf7-959.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/gallinero1.jpg": {
+    "width": 959,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/1883113f3ab1bdb1-480.webp"
+      },
+      {
+        "width": 959,
+        "url": "/assets/img/optimized/1883113f3ab1bdb1-959.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/huerto.jpg": {
+    "width": 1184,
+    "height": 802,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/b13784d04712d007-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/b13784d04712d007-960.webp"
+      },
+      {
+        "width": 1184,
+        "url": "/assets/img/optimized/b13784d04712d007-1184.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/maqueta.jpg": {
+    "width": 959,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/bdf417f9582e12a5-480.webp"
+      },
+      {
+        "width": 959,
+        "url": "/assets/img/optimized/bdf417f9582e12a5-959.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/patitos.jpg": {
+    "width": 959,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/2203fbebd58a5d34-480.webp"
+      },
+      {
+        "width": 959,
+        "url": "/assets/img/optimized/2203fbebd58a5d34-959.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/patos1.jpg": {
+    "width": 959,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/593590c6228de2fb-480.webp"
+      },
+      {
+        "width": 959,
+        "url": "/assets/img/optimized/593590c6228de2fb-959.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/pavo.jpg": {
+    "width": 447,
+    "height": 385,
+    "variants": [
+      {
+        "width": 447,
+        "url": "/assets/img/optimized/6ee4350963e241b9-447.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/salvia.jpg": {
+    "width": 959,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/3ae73d2bb3cc5544-480.webp"
+      },
+      {
+        "width": 959,
+        "url": "/assets/img/optimized/3ae73d2bb3cc5544-959.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/nuevas/tadelakt.jpg": {
+    "width": 959,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/7bbf2d6b67e11604-480.webp"
+      },
+      {
+        "width": 959,
+        "url": "/assets/img/optimized/7bbf2d6b67e11604-959.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/principios.jpg": {
+    "width": 768,
+    "height": 766,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/e3bc1431a640e8db-480.webp"
+      },
+      {
+        "width": 768,
+        "url": "/assets/img/optimized/e3bc1431a640e8db-768.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/realtime.png": {
+    "width": 1069,
+    "height": 796,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/ea1d17d41203c816-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/ea1d17d41203c816-960.webp"
+      },
+      {
+        "width": 1069,
+        "url": "/assets/img/optimized/ea1d17d41203c816-1069.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/realtime2.png": {
+    "width": 1516,
+    "height": 590,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/94fa74fc5e650445-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/94fa74fc5e650445-960.webp"
+      },
+      {
+        "width": 1516,
+        "url": "/assets/img/optimized/94fa74fc5e650445-1516.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/sectores.jpg": {
+    "width": 2967,
+    "height": 2021,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/c9994f6c36cacf59-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/c9994f6c36cacf59-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/c9994f6c36cacf59-1600.webp"
+      },
+      {
+        "width": 1920,
+        "url": "/assets/img/optimized/c9994f6c36cacf59-1920.webp"
+      }
+    ]
+  },
+  "/assets/img/proyecto/wc-seco.jpg": {
+    "width": 1694,
+    "height": 953,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/82a09275cab3e9b0-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/82a09275cab3e9b0-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/82a09275cab3e9b0-1600.webp"
+      },
+      {
+        "width": 1694,
+        "url": "/assets/img/optimized/82a09275cab3e9b0-1694.webp"
+      }
+    ]
+  },
+  "/assets/img/que-hacemos/formacion.png": {
+    "width": 621,
+    "height": 362,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/08d1146016e6a393-480.webp"
+      },
+      {
+        "width": 621,
+        "url": "/assets/img/optimized/08d1146016e6a393-621.webp"
+      }
+    ]
+  },
+  "/assets/img/que-hacemos/visitas.png": {
+    "width": 581,
+    "height": 403,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/d080950fe03d5c52-480.webp"
+      },
+      {
+        "width": 581,
+        "url": "/assets/img/optimized/d080950fe03d5c52-581.webp"
+      }
+    ]
+  },
+  "/assets/img/que-hacemos/voluntariado.png": {
+    "width": 636,
+    "height": 339,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/9044c54dabd52ef8-480.webp"
+      },
+      {
+        "width": 636,
+        "url": "/assets/img/optimized/9044c54dabd52ef8-636.webp"
+      }
+    ]
+  },
+  "/assets/img/thumb.png": {
+    "width": 424,
+    "height": 423,
+    "variants": [
+      {
+        "width": 424,
+        "url": "/assets/img/optimized/1741ef662920ea44-424.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/aerea.png": {
+    "width": 1575,
+    "height": 1008,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/78137c8d94456c31-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/78137c8d94456c31-960.webp"
+      },
+      {
+        "width": 1575,
+        "url": "/assets/img/optimized/78137c8d94456c31-1575.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/bulgaros.jpg": {
+    "width": 1525,
+    "height": 812,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/aae3febc75d60a3d-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/aae3febc75d60a3d-960.webp"
+      },
+      {
+        "width": 1525,
+        "url": "/assets/img/optimized/aae3febc75d60a3d-1525.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/animales-grupo.jpg": {
+    "width": 1182,
+    "height": 1576,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/6ba687a55cfd83dd-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/6ba687a55cfd83dd-960.webp"
+      },
+      {
+        "width": 1182,
+        "url": "/assets/img/optimized/6ba687a55cfd83dd-1182.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/barro-naturaleza.jpg": {
+    "width": 1201,
+    "height": 1602,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/ef9ed24910160d76-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/ef9ed24910160d76-960.webp"
+      },
+      {
+        "width": 1201,
+        "url": "/assets/img/optimized/ef9ed24910160d76-1201.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/conejo.jpg": {
+    "width": 1200,
+    "height": 1600,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/34694b7bfb904275-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/34694b7bfb904275-960.webp"
+      },
+      {
+        "width": 1200,
+        "url": "/assets/img/optimized/34694b7bfb904275-1200.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/gallinas.jpg": {
+    "width": 911,
+    "height": 891,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/b326c8a75020469a-480.webp"
+      },
+      {
+        "width": 911,
+        "url": "/assets/img/optimized/b326c8a75020469a-911.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/huerto-brotes.jpg": {
+    "width": 1378,
+    "height": 1837,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/9f3b321f57bd0914-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/9f3b321f57bd0914-960.webp"
+      },
+      {
+        "width": 1378,
+        "url": "/assets/img/optimized/9f3b321f57bd0914-1378.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/huevos.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/c7cc5443177fb4f7-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/c7cc5443177fb4f7-960.webp"
+      },
+      {
+        "width": 1200,
+        "url": "/assets/img/optimized/c7cc5443177fb4f7-1200.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/juego-exterior.jpg": {
+    "width": 1086,
+    "height": 1448,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/4227c91f9a47590b-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/4227c91f9a47590b-960.webp"
+      },
+      {
+        "width": 1086,
+        "url": "/assets/img/optimized/4227c91f9a47590b-1086.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/pizarra-naturaleza.jpg": {
+    "width": 1200,
+    "height": 1600,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/190966ec9a73cca0-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/190966ec9a73cca0-960.webp"
+      },
+      {
+        "width": 1200,
+        "url": "/assets/img/optimized/190966ec9a73cca0-1200.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/portada-manos.jpg": {
+    "width": 965,
+    "height": 1286,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/4eb3dad1b1942573-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/4eb3dad1b1942573-960.webp"
+      },
+      {
+        "width": 965,
+        "url": "/assets/img/optimized/4eb3dad1b1942573-965.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/risa.jpg": {
+    "width": 1200,
+    "height": 1600,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/b0c4aefb34b3cfe7-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/b0c4aefb34b3cfe7-960.webp"
+      },
+      {
+        "width": 1200,
+        "url": "/assets/img/optimized/b0c4aefb34b3cfe7-1200.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/educa/taller.jpg": {
+    "width": 1200,
+    "height": 1600,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/cb5d2ffc4933bd0b-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/cb5d2ffc4933bd0b-960.webp"
+      },
+      {
+        "width": 1200,
+        "url": "/assets/img/optimized/cb5d2ffc4933bd0b-1200.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-01.jpg": {
+    "width": 1700,
+    "height": 1275,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/3dbdb3b46d74c1bb-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/3dbdb3b46d74c1bb-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/3dbdb3b46d74c1bb-1600.webp"
+      },
+      {
+        "width": 1700,
+        "url": "/assets/img/optimized/3dbdb3b46d74c1bb-1700.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-02.jpg": {
+    "width": 1353,
+    "height": 1015,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/29ebaab0a71e14a9-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/29ebaab0a71e14a9-960.webp"
+      },
+      {
+        "width": 1353,
+        "url": "/assets/img/optimized/29ebaab0a71e14a9-1353.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-03.jpg": {
+    "width": 1452,
+    "height": 1089,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/2c38caacf4cad643-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/2c38caacf4cad643-960.webp"
+      },
+      {
+        "width": 1452,
+        "url": "/assets/img/optimized/2c38caacf4cad643-1452.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-04.jpg": {
+    "width": 1432,
+    "height": 1074,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/bf847cf5a44eb6e4-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/bf847cf5a44eb6e4-960.webp"
+      },
+      {
+        "width": 1432,
+        "url": "/assets/img/optimized/bf847cf5a44eb6e4-1432.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-05.jpg": {
+    "width": 1510,
+    "height": 1133,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/086aa095aaca8ea2-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/086aa095aaca8ea2-960.webp"
+      },
+      {
+        "width": 1510,
+        "url": "/assets/img/optimized/086aa095aaca8ea2-1510.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-06.jpg": {
+    "width": 1570,
+    "height": 1178,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/5d824a58dc90ad80-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/5d824a58dc90ad80-960.webp"
+      },
+      {
+        "width": 1570,
+        "url": "/assets/img/optimized/5d824a58dc90ad80-1570.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-07.jpg": {
+    "width": 1688,
+    "height": 1266,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/7d741bbeab13909f-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/7d741bbeab13909f-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/7d741bbeab13909f-1600.webp"
+      },
+      {
+        "width": 1688,
+        "url": "/assets/img/optimized/7d741bbeab13909f-1688.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-08.jpg": {
+    "width": 1710,
+    "height": 1282,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/5ed46f3b0d2aac2e-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/5ed46f3b0d2aac2e-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/5ed46f3b0d2aac2e-1600.webp"
+      },
+      {
+        "width": 1710,
+        "url": "/assets/img/optimized/5ed46f3b0d2aac2e-1710.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-09.jpg": {
+    "width": 1790,
+    "height": 1343,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/70058c887f5e4960-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/70058c887f5e4960-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/70058c887f5e4960-1600.webp"
+      },
+      {
+        "width": 1790,
+        "url": "/assets/img/optimized/70058c887f5e4960-1790.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-10.jpg": {
+    "width": 1765,
+    "height": 1324,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/55c521047bb04d5b-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/55c521047bb04d5b-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/55c521047bb04d5b-1600.webp"
+      },
+      {
+        "width": 1765,
+        "url": "/assets/img/optimized/55c521047bb04d5b-1765.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-11.jpg": {
+    "width": 2138,
+    "height": 1604,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/62bd261a7f81e91f-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/62bd261a7f81e91f-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/62bd261a7f81e91f-1600.webp"
+      },
+      {
+        "width": 1920,
+        "url": "/assets/img/optimized/62bd261a7f81e91f-1920.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/galeria-scouts-12.jpg": {
+    "width": 1185,
+    "height": 1580,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/bcc0b4207bf4fa6b-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/bcc0b4207bf4fa6b-960.webp"
+      },
+      {
+        "width": 1185,
+        "url": "/assets/img/optimized/bcc0b4207bf4fa6b-1185.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/menu.jpg": {
+    "width": 1500,
+    "height": 2121,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/7c730f1def8cbfe2-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/7c730f1def8cbfe2-960.webp"
+      },
+      {
+        "width": 1500,
+        "url": "/assets/img/optimized/7c730f1def8cbfe2-1500.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/nanyland.png": {
+    "width": 850,
+    "height": 478,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/d59c924f61ac29e6-480.webp"
+      },
+      {
+        "width": 850,
+        "url": "/assets/img/optimized/d59c924f61ac29e6-850.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/scout1.png": {
+    "width": 800,
+    "height": 769,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/2d8272d59ac8acc7-480.webp"
+      },
+      {
+        "width": 800,
+        "url": "/assets/img/optimized/2d8272d59ac8acc7-800.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/scouts1.jpg": {
+    "width": 4000,
+    "height": 2250,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/eb12dfb8552448da-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/eb12dfb8552448da-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/eb12dfb8552448da-1600.webp"
+      },
+      {
+        "width": 1920,
+        "url": "/assets/img/optimized/eb12dfb8552448da-1920.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/scouts2.jpg": {
+    "width": 4000,
+    "height": 2250,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/8f31c1083cee46b4-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/8f31c1083cee46b4-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/8f31c1083cee46b4-1600.webp"
+      },
+      {
+        "width": 1920,
+        "url": "/assets/img/optimized/8f31c1083cee46b4-1920.webp"
+      }
+    ]
+  },
+  "/assets/img/visitas/scouts4.jpg": {
+    "width": 3984,
+    "height": 1840,
+    "variants": [
+      {
+        "width": 480,
+        "url": "/assets/img/optimized/90dac434edb06bda-480.webp"
+      },
+      {
+        "width": 960,
+        "url": "/assets/img/optimized/90dac434edb06bda-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/img/optimized/90dac434edb06bda-1600.webp"
+      },
+      {
+        "width": 1920,
+        "url": "/assets/img/optimized/90dac434edb06bda-1920.webp"
+      }
+    ]
+  },
+  "/assets/img/voluntariado/ces.png": {
+    "width": 250,
+    "height": 120,
+    "variants": [
+      {
+        "width": 250,
+        "url": "/assets/img/optimized/f37ae1e23759441a-250.webp"
+      }
+    ]
+  },
+  "/assets/img/voluntariado/worldpackers.png": {
+    "width": 400,
+    "height": 100,
+    "variants": [
+      {
+        "width": 400,
+        "url": "/assets/img/optimized/fab351fadf8f4ece-400.webp"
+      }
+    ]
+  }
+}

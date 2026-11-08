@@ -2,8 +2,6 @@
 layout: null
 ---
 
-/* --- General --- */
-
 html {
   font-size: 100%;
   background-color: #eeeeee;
@@ -15,7 +13,7 @@ body {
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
-  /* Fondo propio Torre Escribana (sobrescribe page-img clásico) */
+
   background-image: url("../img/fondo.jpg");
   background-repeat: repeat;
   background-position: right;
@@ -30,7 +28,7 @@ body > main {
 }
 
 body.home-no-hero > main {
-  margin-top: 0;   /* ya no empujamos el main */
+  margin-top: 0;
 }
 
 @media (max-width: 767px) {
@@ -79,7 +77,7 @@ a {
 a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#84bb2e" }};
-  
+
 }
 
 blockquote {
@@ -99,19 +97,16 @@ hr.small {
   border-radius: 0.1875rem;
 }
 
-/* Fijar ancla interna para que no quede detrás de la navbar fija */
 :target:before {
   content: "";
   display: block;
-  height: 3.125rem; /* navbar height */
+  height: 3.125rem;
   margin: -3.125rem 0 0;
 }
 
 .hideme {
   display: none;
 }
-
-/* Selección de texto */
 
 ::-moz-selection {
   color: #fff;
@@ -131,14 +126,12 @@ img::-moz-selection {
   background: transparent;
 }
 
-/* Imágenes base */
-
 img {
   max-width: 100%;
   height: auto;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
     rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
-  /*border-radius: 0.3125rem;*/
+
   margin-bottom: 1rem;
 }
 
@@ -147,26 +140,11 @@ img {
   margin-top: -1.5625rem;
 }
 
-/* Comments */
-
-.disqus-comments {
-  margin-top: 1.875rem;
-}
-
-@media (min-width: 768px) {
-  .disqus-comments {
-    margin-top: 2.5rem;
-  }
-}
-
-/* --- Navbar --- */
-
 .navbar-custom {
- /* background-color: transparent !important;*/
-  border-bottom: none; /* opcional: evita la línea gris */
-    background-color: rgba(255, 255, 255, 0.8) !important; /* 50% de opacidad */
 
-  /*border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};*/
+  border-bottom: none;
+    background-color: rgba(255, 255, 255, 0.8) !important;
+
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
@@ -421,9 +399,6 @@ img {
   }
 }
 
-
-/* --- Post preview (feed) --- */
-
 .posts-list {
   margin: 0;
 }
@@ -559,8 +534,6 @@ img {
   }
 }
 
-/* --- Tags --- */
-
 .blog-tags {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 0.9375rem;
@@ -602,8 +575,6 @@ img {
   }
 }
 
-/* Tags page */
-
 .tag-btn {
   margin: 0.3125rem;
 }
@@ -626,8 +597,6 @@ img {
   font-size: 1rem;
 }
 
-/* --- Post and page headers --- */
-
 .intro-header {
   margin: 5rem 0 1.25rem;
   position: relative;
@@ -639,7 +608,7 @@ img {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
+  margin-top: 3.1875rem;
   margin-bottom: 2.1875rem;
 }
 
@@ -766,8 +735,6 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
 }
 
-/* --- Pagination --- */
-
 .pagination {
   margin: 0.625rem 0 0;
   justify-content: space-between;
@@ -812,8 +779,6 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   background-color: {{ site.hover-col | default: "#84bb2e" }};
 }
 
-/* --- Tables --- */
-
 table {
   padding: 0;
 }
@@ -853,8 +818,6 @@ table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
 }
-
-/* --- Code blocks --- */
 
 code {
   padding: 0.125rem 0.25rem;
@@ -912,7 +875,6 @@ pre {
   border-right: 2px solid #444;
 }
 
-/* Make line numbers unselectable */
 .lineno {
   -webkit-user-select: none;
      -moz-user-select: none;
@@ -925,8 +887,6 @@ pre {
   background: none;
 }
 
-/* Fix table border github gist snippets */
-
 .gist, .gist-file table tr {
   border: unset;
 }
@@ -935,14 +895,10 @@ pre {
   border: unset;
 }
 
-/* --- Social media sharing section --- */
-
 #social-share-section {
   margin-bottom: 1.875rem;
   margin-top: 1.875rem;
 }
-
-/* --- Notification boxes --- */
 
 .box-note,
 .box-warning,
@@ -993,7 +949,6 @@ pre {
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
-/* Comillas decorativas */
 .box-cita::before {
   content: "“";
   font-size: 3rem;
@@ -1011,8 +966,6 @@ pre {
   bottom: -20px;
   right: 10px;
 }
-
-/* --- Misc blog post styles --- */
 
 .blog-post :first-child {
   margin-top: 0;
@@ -1057,123 +1010,6 @@ pre {
   margin: 0 auto;
 }
 
-/* --- Search bar --- */
-
-#beautifuljekyll-search-overlay {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  display: none;
-  z-index: 999999;
-  position: fixed;
-  background: rgba(0,0,0,0.9);
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  text-align: center;
-  padding: 1rem;
-}
-
-#nav-search-exit {
-  position: absolute;
-  top: 1.5rem;
-  cursor: pointer;
-  right: 25%;
-  margin-right: 2rem;
-  color: #555;
-  font-size: 2rem;
-  line-height: 2rem;
-  font-weight: bold;
-}
-
-#nav-search-exit:hover {
-  color: #000;
-}
-
-#nav-search-input {
-  text-align: center;
-  background: #e7edee;
-  margin: auto;
-  display: block;
-  font-size: 2rem;
-  width: 50%;
-  transition: width 300ms ease;
-  color: #222;
-  border-radius: 5rem;
-  outline: none;
-  border: none;
-  padding: 0 3rem;
-}
-
-@media (max-width: 1199px) {
-  #nav-search-input {
-    width: 75%;
-  }
-
-  #nav-search-exit {
-    right: 12.5%;
-  }
-}
-
-@media (max-width: 767px) {
-  #nav-search-input {
-    width: 100%;
-  }
-
-  #nav-search-exit {
-    right: 0;
-  }
-}
-
-#nav-search-input:focus {
-  background: #f3f8fe;
-  box-shadow: 0px 0.15rem 1rem #e7f4ff;
-  outline: none;
-}
-
-#nav-search-input::placeholder {
-  color: #777;
-}
-
-#search-results-container {
-  list-style: none;
-  padding-left: unset;
-  margin-top: 1.5rem;
-  color: #fff;
-  font-size: 1.5rem;
-  max-height: calc(100vh - 6.5rem);
-  overflow-y: auto;
-}
-
-#search-results-container a {
-  color: #fff;
-  text-decoration: none;
-}
-
-#search-results-container a:hover {
-  color: #fff;
-  text-decoration: underline;
-}
-
-#nav-search-icon {
-  display: inline-block;
-}
-
-#nav-search-text {
-  display: none;
-}
-
-@media (max-width: 1199px) {
-  #nav-search-icon {
-    display: none;
-  }
-
-  #nav-search-text {
-    display: inline-block;
-  }
-}
-
-/* --- Beautiful Jekyll minimal layout tweaks --- */
-
 .main-content {
   padding-bottom: 3.125rem;
 }
@@ -1188,11 +1024,7 @@ footer.footer-min {
   text-align: center;
 }
 
-/* --- Torre Escribana custom styles --- */
-
-/* Logo navbar */
-
-.navbar-custom .navbar-brand {  
+.navbar-custom .navbar-brand {
   font-weight: 500;
 }
 
@@ -1213,8 +1045,6 @@ footer.footer-min {
 .top-nav-short .navbar-brand img {
   height: 50px;
 }
-
-/* Tipografías especiales */
 
 h1 {
   font-family: "Escribana", Roboto, sans-serif;
@@ -1267,14 +1097,12 @@ h1 {
 
 @font-face {
   font-family: 'Escribana';
-  src: url('../fonts/EscribanaFont.otf') format('truetype');
+  font-display: swap;
+  src: url('../fonts/escribana.woff2') format('woff2');
   font-style: normal;
   font-weight: normal;
 }
 
-/* === TARJETAS / CARDS ============================ */
-
-/* Card base genérica */
 .card {
   background-color: #ffffffd7;
   border-radius: 4px;
@@ -1289,7 +1117,6 @@ h1 {
   position: relative;
 }
 
-/* Helpers de ratio para imágenes en tarjetas */
 .media {
   position: relative;
 }
@@ -1299,7 +1126,6 @@ h1 {
   overflow: hidden;
 }
 
-/* 16:9 (agenda) */
 .media--16-9 {
   padding-bottom: 56.25%;
 }
@@ -1313,7 +1139,6 @@ h1 {
   height: auto;
 }
 
-/* 4:3 (tarjetas de diseño) */
 .media--4-3 {
   padding-bottom: 75%;
 }
@@ -1327,7 +1152,6 @@ h1 {
   height: auto;
 }
 
-/* 1:1 (si lo usas en algún sitio) */
 .media--1-1 {
   padding-bottom: 100%;
 }
@@ -1341,9 +1165,6 @@ h1 {
   width: auto;
 }
 
-
-/* === TARJETAS DE DISEÑO (home_design.html) ====== */
-
 .card-design {
   border-radius: 10px;
   overflow: hidden;
@@ -1352,7 +1173,6 @@ h1 {
   box-shadow: rgba(0,0,0,.12) 0 4px 12px;
 }
 
-/* Imagen dentro de la tarjeta de diseño */
 .card-design .media img {
   position: absolute;
   top: 0;
@@ -1364,12 +1184,10 @@ h1 {
   z-index: 1;
 }
 
-/* Zoom molón */
 .card-design .media:hover img {
   transform: scale(1.15) rotate(2deg);
 }
 
-/* Capa del título sobre la imagen */
 .card-design .primary-title {
   position: absolute;
   bottom: 0;
@@ -1385,7 +1203,6 @@ h1 {
   );
 }
 
-/* Texto del título de diseño */
 .card-design .primary-text {
   font-family: "Escribana";
   font-size: 2rem;
@@ -1393,9 +1210,6 @@ h1 {
   color: #ffffff;
   text-shadow: 0 2px 6px rgba(0,0,0,0.8);
 }
-
-
-/* === TARJETAS DE AGENDA ========================= */
 
 .card-agenda {
   border-radius: 10px;
@@ -1406,7 +1220,6 @@ h1 {
   flex-direction: column;
 }
 
-/* Caja de imagen con proporción 16:9 */
 .card-agenda .media.media--16-9 {
   position: relative;
   width: 100%;
@@ -1414,7 +1227,6 @@ h1 {
   overflow: hidden;
 }
 
-/* Imagen rellena toda la tarjeta */
 .card-agenda .media img {
   position: absolute;
   top: 0;
@@ -1426,12 +1238,10 @@ h1 {
   z-index: 1;
 }
 
-/* Zoom suave en hover */
 .card-agenda .media:hover img {
   transform: scale(1.12) rotate(1deg);
 }
 
-/* Capa con título + fecha */
 .card-agenda .primary-title {
   position: absolute;
   left: 0;
@@ -1447,7 +1257,6 @@ h1 {
   );
 }
 
-/* Título del evento (más fino) */
 .card-agenda .primary-text {
   font-family: "Escribana";
   font-size: 1.6rem;
@@ -1456,7 +1265,6 @@ h1 {
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
 }
 
-/* Fecha debajo del título */
 .card-agenda .secondary-text {
   margin-top: 0.2rem;
   font-size: 0.95rem;
@@ -1464,13 +1272,11 @@ h1 {
   color: #e9f2e9;
 }
 
-/* Pie de la tarjeta pegado abajo */
 .card-agenda__footer {
   margin-top: auto;
   padding: 0;
 }
 
-/* Toda la franja inferior es botón */
 .card-agenda .agenda-cta {
   display: block;
   width: 100%;
@@ -1489,21 +1295,15 @@ h1 {
   transition: background-color 0.2s ease, transform 0.12s ease;
 }
 
-/* Hover del botón agenda */
 .card-agenda .agenda-cta:hover,
 .card-agenda .agenda-cta:focus {
   background-color: #6ea323;
 }
 
-
-/* --- Layout simple de contenido --- */
-
 .content {
   margin: 0 auto;
   max-width: 1440px;
 }
-
-/* Animaciones imágenes scroll */
 
 @keyframes show {
   from {
@@ -1517,7 +1317,6 @@ h1 {
   }
 }
 
-/* Para que las imágenes aparezcan con scroll */
 .img1 {
   view-timeline-name: --image;
   view-timeline-axis: block;
@@ -1527,20 +1326,15 @@ h1 {
   animation-fill-mode: both;
 }
 
-/* Imagen del logo de telegram */
 .img2 {
   width: 300px;
   aspect-ratio: auto;
 }
 
-/* SECCIÓN PRINCIPAL PARA ORGANIZAR LAS IMÁGENES */
-
 .principal {
   display: flex;
   flex-wrap: wrap;
 }
-
-/* CONTENEDOR DE IMAGEN EN LA CUADRÍCULA */
 
 .principal div {
   margin: 1rem;
@@ -1551,15 +1345,11 @@ h1 {
   overflow: hidden;
 }
 
-/* Imágenes solo dentro de .principal con object-fit */
-
 .principal div img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-
-/* EFECTOS ZOOM */
 
 .zoom-basico img,
 .zoom-rotacion img,
@@ -1594,13 +1384,9 @@ h1 {
   transform: scale(1.5);
 }
 
-/* BOTONES TORRE ESCRIBANA */
-
 button {
   font-family: inherit;
 }
-
-/* Botón principal */
 
 .btn-te,
 button.btn-te,
@@ -1642,8 +1428,6 @@ a.btn-te {
   box-shadow: 0 3px 8px rgba(0,0,0,0.15);
 }
 
-/* Variante contorno */
-
 .btn-te--outline,
 button.btn-te--outline,
 a.btn-te--outline {
@@ -1658,13 +1442,9 @@ a.btn-te--outline {
   color: {{ site.hover-col | default: "#84bb2e" }};
 }
 
-/* Botón de ancho completo */
-
 .btn-te--full {
   width: 100%;
 }
-
-/* Past events */
 
 .past-event {
   transition: transform 1s ease-in-out, filter 0.4s ease, opacity 0.4s ease;
@@ -1677,8 +1457,6 @@ a.btn-te--outline {
   opacity: 1;
 }
 
-/* Utils */
-
 .gray {
   filter: grayscale(100%);
   opacity: 0.6;
@@ -1690,20 +1468,14 @@ a.btn-te--outline {
   justify-content: center;
 }
 
-/* IMÁGENES DE PRINCIPIOS */
-
 .principle {
   width: 10%;
 }
-
-/* IMÁGENES CIRCULARES DISEÑO */
 
 .circularimagen {
   border-radius: 50%;
   box-shadow: unset;
 }
-
-/* NAV dropdown hover ajustes */
 
 .navbar-custom .nav-item.dropdown.show {
   background-color: #ffffff;
@@ -1717,8 +1489,6 @@ button:focus {
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover {
   font-weight: bold;
 }
-
-/* BOTONES VISITAS (imagenes-click) */
 
 .contenedor-botones {
   display: flex;
@@ -1765,8 +1535,6 @@ button:focus {
   margin-top: 20px;
 }
 
-/* HR global coherente con paleta */
-
 hr {
   height: 5px;
   background-color:#b6ce16;
@@ -1774,37 +1542,32 @@ hr {
   margin: 0;
 }
 
-/* Ajustes dropdown toggle */
-
 .dropdown-toggle {
   white-space: nowrap;
 }
 
-/* Botón un pelín más fino para portada */
 .btn-te--slim {
-  padding: 0.45rem 1.4rem;   /* más bajito */
+  padding: 0.45rem 1.4rem;
   font-size: 0.85rem;
   letter-spacing: 0.06em;
 }
 
-/* Botones de la portada en una sola línea en escritorio */
 .botones-home {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1rem;          /* espacio entre botones */
-  flex-wrap: nowrap;  /* ⛔ NO romper línea en escritorio */
+  gap: 1rem;
+  flex-wrap: nowrap;
   margin: 2rem 0;
 }
 
 .botones-home .btn-te {
-  flex: 0 1 auto;      /* ancho según contenido */
-  max-width: none;     /* sin límite artificial */
+  flex: 0 1 auto;
+  max-width: none;
   text-align: center;
-  white-space: normal; /* permite partir en 2 líneas si hace falta */
+  white-space: normal;
 }
 
-/* En pantallas pequeñas, que sí se apilen */
 @media (max-width: 768px) {
   .botones-home {
     flex-direction: column;
@@ -1818,9 +1581,8 @@ hr {
   }
 }
 
-/* Contenedor alineado al ancho del texto */
 .botones-inline {
-  max-width: 750px;     /* Coincide con el ancho real del contenido */
+  max-width: 750px;
   margin: 2rem auto;
   display: flex;
   justify-content: center;
@@ -1828,14 +1590,11 @@ hr {
   flex-wrap: wrap;
 }
 
-/* Mantiene los botones homogéneos */
 .botones-inline .btn-te {
   flex: 1;
   min-width: 200px;
   text-align: center;
 }
-
-/* --- Logos de Proyectos Amigos --- */
 
 .logos-amigos {
   display: grid;
@@ -1845,14 +1604,13 @@ hr {
   align-items: center;
   margin: 2rem auto;
   width: 90%;
-  max-width: 1200px; /* centrado y controlado */
+  max-width: 1200px;
 }
 
-/* Caja de cada logo */
 .logos-amigos img {
   width: 100%;
   max-width: 150px;
-  aspect-ratio: 1/1; /* cuadrado estable */
+  aspect-ratio: 1/1;
   object-fit: contain;
   background: #fff;
   padding: 1.2rem;
@@ -1861,33 +1619,27 @@ hr {
   transition: transform .3s ease;
 }
 
-/* Efecto hover */
 .logos-amigos img:hover {
   transform: scale(1.08);
 }
 
-/* === HERO HOME TORRE ESCRIBANA ================== */
-
 .hero-home {
   position: relative;
-  min-height: 100vh; /* ocupa toda la altura de la ventana */
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
 
-  /* Fondo: misma imagen que antes */
   background-image: url("{{ '/assets/img/index/portada.jpg' | absolute_url }}");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 
-  /* Para que el texto no se meta bajo la navbar fija */
   padding: 6rem 1.5rem 3rem;
   margin-bottom: 3rem;
 }
 
-/* Capa oscura suave encima de la foto para que se lea bien el texto */
 .hero-home::before {
   content: "";
   position: absolute;
@@ -1908,20 +1660,18 @@ hr {
   color: #ffffff;
 }
 
-/* Píldora superior */
 .hero-home__pill {
   display: inline-block;
   padding: 0.35rem 1rem;
   margin-bottom: 1rem;
   font-size: 0.9rem;
   letter-spacing: 0.14em;
-  
+
   background-color: rgba(255,255,255,0.1);
   border-radius: 999px;
   border: 1px solid rgba(255,255,255,0.55);
 }
 
-/* Título principal del hero */
 .hero-home__title {
   font-family: 'Escribana', 'Open Sans', sans-serif;
   font-size: clamp(2.6rem, 4.2vw, 3.75rem);
@@ -1930,7 +1680,6 @@ hr {
   text-shadow: 0 3px 8px rgba(0,0,0,0.7);
 }
 
-/* Subtítulo y línea de contexto */
 .hero-home__subtitle {
   font-size: 1.05rem;
   font-weight: 400;
@@ -1939,7 +1688,6 @@ hr {
   text-shadow: 0 2px 6px rgba(0,0,0,0.6);
 }
 
-/* Botones del hero */
 .hero-home__buttons {
   display: flex;
   flex-wrap: wrap;
@@ -1947,13 +1695,11 @@ hr {
   gap: 0.75rem;
 }
 
-/* Un poco de sombra a los botones para que destaquen sobre la foto */
 .hero-home__buttons .btn-te,
 .hero-home__buttons .btn-te--outline {
   box-shadow: 0 6px 18px rgba(0,0,0,0.35);
 }
 
-/* Botón outline en hero: borde y texto blancos */
 .hero-home__buttons .btn-te--outline {
   background-color: transparent;
   border-color: #ffffff;
@@ -1966,12 +1712,11 @@ hr {
   color: #ffffff;
 }
 
-/* Ajustes responsive */
 @media (max-width: 768px) {
   .hero-home {
     padding-top: 5.5rem;
     padding-bottom: 2.5rem;
-    min-height: 90vh; /* un pelín menos para móviles */
+    min-height: 90vh;
 
   }
 
@@ -1984,7 +1729,6 @@ hr {
   }
 }
 
-/* Ajuste específico SOLO para la home */
 body.home-no-hero header.header-section {
   display: none !important;
 }
@@ -1994,66 +1738,59 @@ body.home-no-hero main {
   padding-top: 0 !important;
 }
 
-/* HERO a pantalla completa aunque esté dentro de un .container */
 body.home-no-hero .hero-home {
-  width: 100vw; /* ocupa todo el viewport */
+  width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   border-radius: 0;
 }
 
-/* Por si algún contenedor padre mete padding lateral */
 body.home-no-hero main {
   padding-left: 0;
   padding-right: 0;
 }
 
-/* === BLOQUE INSPIRACIÓN – Versión compacta === */
-
 .bloque-inspiracion {
   text-align: center;
-  margin: 2.5rem auto 3rem; /* antes 4rem y 5rem */
-  max-width: 800px; /* antes 900px */
+  margin: 2.5rem auto 3rem;
+  max-width: 800px;
   padding: 0 1rem;
 }
 
 .titulo-inspiracion {
-  font-size: 2.3rem; /* antes 3rem */
-  margin-bottom: 1.2rem; /* antes 2rem */
+  font-size: 2.3rem;
+  margin-bottom: 1.2rem;
   font-weight: 400;
 }
 
-
-
 .ilustracion-inspiracion img {
-  width: 75%;       /* antes 90% */
-  max-width: 480px; /* más compacta */
+  width: 75%;
+  max-width: 480px;
   margin-top: 2rem;
 }
 
 .cita-inspiracion {
-  font-size: 1rem;          /* antes 1.1rem */
+  font-size: 1rem;
   color: #555;
 }
 
 .cita-inspiracion {
-  margin-top: -2rem !important;   /* Antes 1.5rem */
+  margin-top: -2rem !important;
 }
 
 .cita-inspiracion .autor {
-  margin-top: 0.3rem; /* antes 0.5 */
-  font-size: 0.85rem; /* un pelín más pequeño */
+  margin-top: 0.3rem;
+  font-size: 0.85rem;
 }
 
 .texto-inspiracion {
-  font-size: 1.1rem; /* antes 1.25rem */
-  line-height: 1.55; /* antes 1.7 */
+  font-size: 1.1rem;
+  line-height: 1.55;
   color: #3a4a3a;
-  max-width: 650px; /* lo hace más compacto */
+  max-width: 650px;
   margin: 0 auto;
 }
 
-/* Mantiene compatibilidad con otros usos */
 .ilustracion-landing {
   max-width: 700px !important;
   width: 90% !important;
@@ -2065,7 +1802,6 @@ body.home-no-hero main {
   max-width: 900px !important;
 }
 
-/* Contenedor que permite superponer el título */
 .contenedor-ilustracion {
   position: relative;
   width: 100%;
@@ -2073,31 +1809,27 @@ body.home-no-hero main {
   margin: 0 auto;
 }
 
-/* Título encima de la imagen */
 .titulo-sobre-imagen {
   position: absolute;
-  top: 0.5rem;         /* ajusta la altura a tu gusto */
+  top: 0.5rem;
   left: 50%;
   transform: translateX(-50%);
   z-index: 3;
   color: #6fa52a;
-  text-shadow: 0 4px 10px rgba(0,0,0,0.25); /* mejor legibilidad */
+  text-shadow: 0 4px 10px rgba(0,0,0,0.25);
   font-size: 2.4rem;
-  pointer-events: none; /* evita que interfiera con hover */
+  pointer-events: none;
 }
 
-/* Ajuste opcional para que la imagen no empuje demasiado contenido */
 .ilustracion-landing {
-  margin-top: 1rem;  /* deja espacio para el título superpuesto */
+  margin-top: 1rem;
 }
 
-/* TÍTULO SOBRE LA ILUSTRACIÓN */
 .bloque-inspiracion {
   position: relative;
   text-align: center;
 }
 
-/* Contenedor de la ilustración en posición relativa para poder poner el título encima */
 .ilustracion-inspiracion {
   position: relative;
   width: 100%;
@@ -2105,10 +1837,9 @@ body.home-no-hero main {
   margin: 0 auto;
 }
 
-/* Título colocado encima de la imagen – contraste fuerte */
 .titulo-inspiracion {
   position: absolute;
-  top: 4%;                  
+  top: 4%;
   left: 50%;
   transform: translateX(-50%);
   z-index: 2;
@@ -2117,7 +1848,6 @@ body.home-no-hero main {
   font-size: 2.9rem;
   font-weight: 400;
 
-  /* 🔥 Sombras profesionales para texto sobre fondos complejos */
   text-shadow:
     0 0 6px rgba(0,0,0,0.7),
     0 0 14px rgba(0,0,0,0.55),
@@ -2126,7 +1856,6 @@ body.home-no-hero main {
   padding: 0.4rem 1rem;
 }
 
-/* Oscurecer suavemente la parte superior de la ilustración para mejorar el contraste */
 .ilustracion-inspiracion::before {
   content: "";
   position: absolute;
@@ -2142,90 +1871,8 @@ body.home-no-hero main {
   pointer-events: none;
 }
 
-
-
-/* === BLOQUE "TORRE ESCRIBANA EN CIFRAS" ==================== */
-
-.stats-te {
-  max-width: 1200px;
-  margin: 4rem auto 5rem;
-  padding: 3rem 2rem;
-  background-color: rgba(255, 255, 255, 0.9);
-  border-radius: 18px;
-  box-shadow: 0 18px 40px rgba(0,0,0,0.10);
-  text-align: center;
-}
-
-.stats-title {
-  font-size: 2.4rem;
-  color: #5c9c3e;
-  margin-bottom: 2.5rem;
-}
-
-/* Grid de stats */
-.stats-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2.5rem 2rem;
-}
-
-/* Cada item */
-.stat-item {
-  padding: 0 1rem;
-}
-
-/* Icono circular */
-.stat-icon {
-  width: 60px;
-  height: 60px;
-  margin: 0 auto 0.9rem;
-  border-radius: 999px;
-  border: 2px solid rgba(92,156,62,0.9);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.stat-icon i {
-  font-size: 1.6rem;
-  color: #5c9c3e;
-}
-
-/* Número y texto */
-.stat-number {
-  font-family: "Escribana", "Open Sans", sans-serif;
-  font-size: 1.8rem;
-  color: #2f5b23;
-  margin-bottom: 0.25rem;
-}
-
-.stat-label {
-  font-size: 0.98rem;
-  color: #444;
-  line-height: 1.5;
-}
-
-/* Responsivo */
-@media (max-width: 900px) {
-  .stats-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 600px) {
-  .stats-te {
-    padding: 2.5rem 1.5rem;
-  }
-
-  .stats-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* === QUÉ HACEMOS – filas imagen + texto =================== */
-
 .que-hacemos {
-  width: 100vw;                 /* mantiene fullwidth */
+  width: 100vw;
   position: relative;
   left: 50%;
   margin-left: -50vw;
@@ -2245,7 +1892,6 @@ body.home-no-hero main {
   margin-bottom: 3rem;
 }
 
-/* Cada fila */
 .qh-row {
   display: flex;
   align-items: center;
@@ -2255,23 +1901,19 @@ body.home-no-hero main {
   border-bottom: 8px solid rgba(0, 0, 0, 0.05);
 }
 
-/* Separación extra en móvil debajo del botón */
 @media (max-width: 768px) {
   .qh-row {
-    padding-bottom: 1rem !important;  /* más espacio */
+    padding-bottom: 1rem !important;
   }
   .qh-btn {
-    margin-bottom: 1rem;  /* despega el botón de la línea */
+    margin-bottom: 1rem;
   }
 }
 
-
-/* Alternamos imagen a izquierda / derecha */
 .qh-row:nth-child(even) {
   flex-direction: row-reverse;
 }
 
-/* Columna de imagen */
 .qh-img {
   flex: 0 0 320px;
   max-width: 400px;
@@ -2281,7 +1923,7 @@ body.home-no-hero main {
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 0;              /* sin redondeos */
+  border-radius: 0;
 }
 
 .que-hacemos-img {
@@ -2289,12 +1931,10 @@ body.home-no-hero main {
   border: none !important;
 }
 
-/* Columna de contenido */
 .qh-content {
   flex: 1;
 }
 
-/* Títulos estilo Escribana + línea decorativa */
 .qh-content h3 {
   font-family: "Escribana", "Open Sans", sans-serif;
   font-size: 2rem;
@@ -2304,9 +1944,6 @@ body.home-no-hero main {
   position: relative;
 }
 
-
-
-/* Texto */
 .qh-content p {
   margin-top: 1.5rem;
   margin-bottom: 0;
@@ -2315,7 +1952,6 @@ body.home-no-hero main {
   color: #444;
 }
 
-/* Botón */
 .qh-btn {
   margin-top: 1.5rem;
   align-self: flex-start;
@@ -2323,7 +1959,7 @@ body.home-no-hero main {
 
 .bloque-hacemos {
   display: flex;
-  align-items: stretch;          /* Hace que ambos lados tengan la misma altura */
+  align-items: stretch;
   justify-content: space-between;
   gap: 2rem;
   margin: 3rem 0;
@@ -2336,28 +1972,22 @@ body.home-no-hero main {
 .bloque-hacemos .ilustracion {
   flex: 1;
   display: flex;
-  align-items: center;           /* Centra verticalmente */
-  justify-content: center;       /* Centra horizontalmente */
+  align-items: center;
+  justify-content: center;
 }
 
 .bloque-hacemos .ilustracion img {
   width: auto;
-  height: 100%;                  /* 💚 CLAVE: La imagen ocupa TODO el alto del bloque */
-  max-height: 380px;             /* Ajusta según necesites */
-  object-fit: contain;           /* Mantiene proporciones */
+  height: 100%;
+  max-height: 380px;
+  object-fit: contain;
 }
-
-
-
-
-
 
 .que-hacemos img,
 .que-hacemos p {
   box-shadow: none !important;
 }
 
-/* RESPONSIVE */
 @media (max-width: 900px) {
   .qh-row {
     flex-direction: column;
@@ -2393,11 +2023,6 @@ body.home-no-hero main {
   }
 }
 
-
-
-/* === SECCIÓN "QUÉ ENCONTRARÁS" =================== */
-
-/* Fullwidth real */
 .seccion-fullwidth {
   width: 100vw;
   max-width: 100vw;
@@ -2408,7 +2033,6 @@ body.home-no-hero main {
   margin-right: -50vw;
 }
 
-/* Franjas verdes */
 .que-header,
 .que-footer {
   background: rgba(120, 180, 60, 0.85);
@@ -2423,14 +2047,12 @@ body.home-no-hero main {
   text-align: center;
 }
 
-/* GRID principal: 5 bloques en escritorio */
 .que-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   width: 100%;
 }
 
-/* Responsive */
 @media (max-width: 1024px) {
   .que-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -2443,20 +2065,17 @@ body.home-no-hero main {
   }
 }
 
-/* Cada bloque */
 .que-item {
   position: relative;
   overflow: hidden;
-  height: 420px; /* ajusta si quieres más/menos alto */
+  height: 420px;
 }
 
-/* Contenedor de imagen */
 .que-media {
   position: absolute;
   inset: 0;
 }
 
-/* La imagen rellena SIEMPRE todo el marco */
 .que-media img {
   width: 100%;
   height: 100%;
@@ -2464,12 +2083,10 @@ body.home-no-hero main {
   transition: transform .6s ease;
 }
 
-/* Zoom sin salirse */
 .que-item:hover .que-media img {
   transform: scale(1.12) rotate(-5deg);
 }
 
-/* Capa de contenido + degradado */
 .que-overlay {
   position: relative;
   z-index: 2;
@@ -2486,7 +2103,6 @@ body.home-no-hero main {
   );
 }
 
-/* Icono redondo */
 .que-icon {
   width: 80px;
   height: 80px;
@@ -2499,7 +2115,6 @@ body.home-no-hero main {
   font-size: 32px;
 }
 
-/* Títulos sin halo raro */
 .que-overlay h3,
 .que-overlay p {
   text-shadow: none !important;
@@ -2517,32 +2132,25 @@ body.home-no-hero main {
   line-height: 1.5;
 }
 
-
-/* Fina el trazo del título Escribana en esas secciones */
 .que-encontraras h3,
 .que-hacemos h3 {
   font-weight: 400 !important;
 }
 
-/* --- Texto apagado por defecto --- */
 .fade-text h3,
 .fade-text p {
-  opacity: 0.50;               /* casi transparente */
+  opacity: 0.50;
   transition: opacity .45s ease;
 }
 
-/* --- Al hacer hover, aparece al 100% junto con el zoom --- */
 .que-item:hover .fade-text h3,
 .que-item:hover .fade-text p {
   opacity: 1;
 }
 
-
-/* === BANDA PARALLAX FULLWIDTH ======================= */
-
 .banda-parallax {
   position: relative;
-  height: 300px;        /* altura de la franja */
+  height: 300px;
   overflow: hidden;
 }
 
@@ -2552,19 +2160,17 @@ body.home-no-hero main {
   height: 100%;
 }
 
-/* La imagen ocupa un poco más de alto para poder moverla */
 .banda-parallax-img {
   position: absolute;
-  top: -10%;            /* sale un poco por arriba */
+  top: -10%;
   left: 0;
   width: 100%;
-  height: 180%;         /* más alta que la banda */
+  height: 180%;
   object-fit: cover;
   transform: translateY(0);
   will-change: transform;
 }
 
-/* Contenido opcional encima de la imagen */
 .banda-parallax-content {
   position: relative;
   z-index: 2;
@@ -2596,7 +2202,6 @@ body.home-no-hero main {
   margin: 0;
 }
 
-/* Más compacto en móvil */
 @media (max-width: 768px) {
   .banda-parallax {
     height: 260px;
@@ -2616,9 +2221,6 @@ body.home-no-hero main {
   }
 }
 
-
-
-/* Evitar que el botón dentro del parallax se deforme */
 .parallax-section .btn-te,
 .parallax .btn-te,
 .parallax-container .btn-te {
@@ -2628,39 +2230,33 @@ body.home-no-hero main {
   min-width: 0 !important;
 }
 
-
-/* --- Footer --- */
-
 footer {
   padding: 1.5rem 0 2rem;
   margin-top: 3rem;
   font-size: 1.1rem;
 
-  /* mismo fondo que el cuerpo, sin franja gris “bloque” */
   background-color: transparent;
   border-top: 1px solid #e0e0e0;
 }
 
 footer .beautiful-jekyll-footer {
   text-align: center;
-  
+
 }
 
-/* iconos + texto más suaves */
 footer p.text-muted,
 footer .copyright,
 footer .theme-by {
   color: #777 !important;
   margin: 0.3rem 0;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  
+
 }
 
 footer .copyright{
   font-size: 0.9rem;
 }
 
-/* enlaces del footer en verde pero discretos */
 footer a {
   color: #6fa52a;
   text-decoration: none;
@@ -2670,25 +2266,22 @@ footer a {
 footer a:hover,
 footer a:focus {
   color: #6fa52a;
-  
+
   transform: translateY(-1px);
   transition: transform .2s ease;
 
 }
 
-/* lista de iconos sociales */
 footer .list-inline {
   margin: 0 0 0.75rem;
   padding: 0;
 }
 
-/* línea “Powered by…” más pequeña y suave */
 footer .theme-by {
   font-size: 0.7rem;
   opacity: 0.65;
 }
 
-/* responsive: un pelín más de aire en pantallas grandes */
 @media (min-width: 768px) {
   footer {
     padding: 2rem 0 2.5rem;
@@ -2699,8 +2292,6 @@ footer .theme-by {
   }
 }
 
-
-/* Sitemap del footer */
 .footer-sitemap {
   margin: 1rem 0 1.5rem;
   display: flex;
@@ -2720,8 +2311,6 @@ footer .theme-by {
   color: #4a8b1d;
 }
 
-
-/* Animación hover iconos sociales */
 footer .beautiful-jekyll-footer .list-inline-item a {
   display: inline-flex;
   align-items: center;
@@ -2734,36 +2323,28 @@ footer .beautiful-jekyll-footer .list-inline-item a {
   transition: transform 0.25s ease, background-color 0.25s ease;
 }
 
-/* Icono normal */
 footer .beautiful-jekyll-footer .list-inline-item a i {
   font-size: 22px;
 }
 
-/* Hover como los botones */
 footer .beautiful-jekyll-footer .list-inline-item a:hover {
   transform: translateY(-4px);
   background-color: #2f2f2f;
 }
 
-
-
 html,
 body {
   overflow-x: hidden;
 }
-/* ============================
-   QUÉ HACEMOS — versión móvil
-   ============================ */
+
 @media (max-width: 768px) {
 
-  /* Centrar título */
   .que-hacemos-title {
     text-align: center !important;
     margin-bottom: 2rem;
     padding: 0 1rem;
   }
 
-  /* Cada fila pasa a columna, centrada */
   .qh-row {
     display: flex;
     flex-direction: column;
@@ -2773,7 +2354,6 @@ body {
     padding: 0 1rem;
   }
 
-  /* Imagen más grande, centrada y con margen lateral */
   .qh-img img {
     width: 90% !important;
     max-width: 360px;
@@ -2782,7 +2362,6 @@ body {
     margin: 0 auto 1.5rem;
   }
 
-  /* Contenido centrado */
   .qh-content {
     text-align: center !important;
     max-width: 95%;
@@ -2794,7 +2373,6 @@ body {
     text-align: center !important;
   }
 
-  /* Botón centrado */
   .qh-btn {
     display: inline-flex;
     margin: 1.5rem auto 0;
@@ -2802,13 +2380,108 @@ body {
 
 }
 
-
-
-
-/* FIX: en páginas tipo .blog-post no capar imágenes dentro de cards */
 .blog-post .card-design .media img,
 .blog-post .card-agenda .media img,
 .blog-post .media--16-9 > img,
 .blog-post .media--4-3 > img {
   max-width: 100% !important;
 }
+
+  .blog-post .page-scouts .card-design .media img { max-width: 100% !important; }
+
+  .page-scouts .card-design .media{
+    position: relative;
+    overflow: hidden;
+    background: #f2f4f1;
+  }
+  .page-scouts .card-design .media > img{
+    position: absolute !important;
+    inset: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    transform: none !important;
+  }
+
+  .page-scouts .card-design .card-body{ padding: 18px 22px 20px; }
+  .page-scouts .card-design .card-body h3{ margin: 0 0 10px; }
+  .page-scouts .card-design .card-body p{ margin: 0 0 10px; }
+  .page-scouts .card-design .card-body ul{ margin: 10px 0 0 18px; }
+
+  .page-scouts .botones-inline{
+    display:flex; flex-wrap:wrap; gap:12px;
+    align-items:center; justify-content:center;
+  }
+
+  .page-scouts-gallery .photo-grid{
+    display:grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+    margin-top: 10px;
+  }
+
+.page-scouts-gallery .photo-item{
+  display:block;
+  line-height:0;
+  overflow:hidden;
+  border-radius:18px;
+  background:#fff;
+}
+
+.page-scouts-gallery .photo-item img{
+  display:block !important;
+  width:100%;
+  height:220px;
+  object-fit:cover;
+  vertical-align:middle;
+}
+
+  @media (max-width: 992px){
+    .page-scouts-gallery .photo-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .page-scouts-gallery .photo-item img{ height:210px; }
+  }
+
+  @media (max-width: 576px){
+    .page-scouts-gallery .photo-grid{ grid-template-columns: 1fr; }
+    .page-scouts-gallery .photo-item img{ height:220px; }
+  }
+
+h1,h2,h3,h4,h5,h6 { font-family: Escribana, "Open Sans", sans-serif; }
+.card-design .primary-text,.card-agenda .primary-text { margin: 0; line-height: 1.15; }
+.card-agenda .secondary-text { margin: .4rem 0 0; }
+.agenda-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1rem; }
+.agenda-grid .card { min-width: 0; margin: 0; }
+.agenda-archivo { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #b1bba7; }
+.agenda-grid--archivo { grid-template-columns: repeat(2,minmax(0,1fr)); max-width: 660px; }
+.agenda-grid--archivo .primary-text { font-size: 1.45rem; }
+.agenda-archivo .past-event { filter: grayscale(100%); }
+.agenda-archivo .past-event:hover { filter: grayscale(100%); opacity: 1; }
+.voluntariado-plataformas { display: grid; gap: 1.5rem; }
+.plataforma { padding: 1.5rem; border: 1px solid #a7b898; border-radius: 10px; background: #ffffff8c; }
+.plataforma-logo { display: block; width: 210px; height: 90px; object-fit: contain; box-shadow: none; margin: 0 0 1rem; }
+.plataforma p { margin: 1rem 0 1.5rem; }
+.resenas { display: grid; gap: 1rem; }
+.resena { margin: 0; padding: 1.5rem; border-left: 4px solid #84bb2e; background: #ffffff8c; }
+.resena blockquote { color: #404040; }
+.resena blockquote p { margin: 0 0 1rem; }
+.resena figcaption { font-size: .9rem; color: #526348; }
+.visita-cta { text-align: center; margin: 2.5rem 0; }
+.contacto-datos p { margin: .8rem 0; }
+.contacto-redes { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; }
+.contacto-redes img { width: 180px; height: 180px; object-fit: contain; }
+.ficha-foto img { width: 100%; max-height: 520px; object-fit: contain; }
+iframe { max-width: 100%; border: 0; }
+[hidden] { display: none !important; }
+.skip-link { position: fixed; top: -100px; left: 1rem; z-index: 10000; padding: .7rem 1rem; color: white; background: #315c22; }
+.skip-link:focus { top: .5rem; }
+a:focus-visible,button:focus-visible,summary:focus-visible { outline: 3px solid #315c22; outline-offset: 4px; }
+.navbar-brand-logo img { max-width: min(55vw,330px); object-fit: contain; }
+.design-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1rem; }
+.centrado { flex-wrap: wrap; }
+.centrado > p { width: 100%; text-align: center; }
+@media(max-width:600px) { .agenda-grid,.agenda-grid--archivo,.design-grid { grid-template-columns: 1fr; } .plataforma { padding: 1.2rem; } .btn-te { max-width: 100%; text-align: center; } }
+@media(hover:none) { .fade-text h3,.fade-text p { opacity: 1; } }
+@media(prefers-reduced-motion:reduce) { *,*::before,*::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } .img1 { opacity: 1; scale: 1; } .banda-parallax-img { transform: none !important; will-change: auto; } }
+
+@font-face { font-family: "Open Sans"; font-style: normal; font-weight: 300 800; font-display: swap; src: url("../fonts/open-sans-latin.woff2") format("woff2"); }
+.marca-escribana { font-family: Escribana, "Open Sans", sans-serif; font-size: 1em; }
