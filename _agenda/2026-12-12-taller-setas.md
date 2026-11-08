@@ -1,18 +1,15 @@
-
 ---
 title: Cultivo de setas en exterior
 subtitle: Descubre el fascinante mundo de los hongos y aprende a cultivarlos
 start-date: 2026-12-12
 end-date: 2026-12-12
-formatted-date: 12 de diciembre
+formatted-date: 12 de diciembre de 2026
 cover-img: /assets/img/agenda/cultivo-setas.jpg
 in-home: true
 inscription: true
 taller: true
-description: Taller práctico de cultivo de setas en exterior en Torre Escribana, Zaragoza. Aprende a aislar micelio, preparar sustratos, inocular troncos y favorecer los hongos beneficiosos del suelo.
+description: Taller práctico de cultivo de setas en exterior organizado por Torre Escribana y AVA en Zaragoza. Aprende a aislar micelio, preparar sustratos, inocular troncos y favorecer los hongos beneficiosos del suelo.
 ---
-
-
 
 <div class="box-cita">
 Los hongos son mucho más que setas: son los grandes conectores de la vida bajo nuestros pies.
@@ -21,6 +18,20 @@ Los hongos son mucho más que setas: son los grandes conectores de la vida bajo 
 ## Cultivo de setas en exterior
 
 ### Una jornada para descubrir, comprender y cultivar el fascinante mundo de los hongos
+
+<div style="text-align:center; margin:30px auto 35px;">
+  <p style="margin-bottom:15px;">
+    Una jornada organizada conjuntamente por <strong>Torre Escribana</strong> y <strong>AVA</strong>.
+  </p>
+  <a href="https://www.avacoop.com/" target="_blank" rel="noopener noreferrer" title="Visitar la web de AVA">
+    <img src="/assets/img/agenda/logoava.png"
+         alt="AVA - Entidad coorganizadora del taller"
+         style="width:105px; max-width:100%; height:auto; border-radius:5px; display:inline-block;">
+  </a>
+  <p style="font-size:0.85rem; margin-top:8px;">
+    <a href="https://www.avacoop.com/" target="_blank" rel="noopener noreferrer">Conoce AVA</a>
+  </p>
+</div>
 
 Los hongos desempeñan un papel fundamental en los ecosistemas. Descomponen la materia orgánica, reciclan nutrientes, establecen relaciones de simbiosis con las plantas y contribuyen a mantener la fertilidad y la salud de nuestros suelos.
 
@@ -90,13 +101,15 @@ Además de los conocimientos y la experiencia práctica, te llevarás:
 
 **📍 Lugar:** Torre Escribana — Montañana, Zaragoza.
 
-**📅 Fecha:** Pendiente de confirmar.
+**📅 Fecha:** Sábado 12 de diciembre de 2026.
 
 **🕘 Duración:** Jornada de mañana y tarde.
 
 **💶 Precio general:** 85 € por persona.
 
 **💚 Precio reducido:** 70 € para personas desempleadas o en situación de vulnerabilidad.
+
+**🤝 Organizan:** Torre Escribana y [AVA](https://www.avacoop.com/).
 
 </div>
 
@@ -107,4 +120,3 @@ Este taller está pensado para personas interesadas en el cultivo de setas, la h
 En Torre Escribana creemos que la mejor manera de aprender es observar, experimentar y poner las manos en la tierra.
 
 **¡Ven a descubrir el mundo de los hongos y aprende a cultivarlos!**
-
