@@ -80,19 +80,34 @@ Conoceremos las condiciones de incubación, los cuidados necesarios y las estrat
 
 ## Información del taller
 
-<div class="box-success">
+<h2>Información del taller</h2>
 
-**Lugar:** Torre Escribana — Montañana, Zaragoza.
+<div class="box-success" style="padding:20px 25px;">
 
-**Fecha:** Sábado 12 de diciembre de 2026.
+  <p style="margin:0 0 10px 0;">
+    <strong>Lugar:</strong> Torre Escribana — Montañana, Zaragoza.
+  </p>
 
-**Duración:** Jornada de mañana y tarde.
+  <p style="margin:0 0 10px 0;">
+    <strong>Fecha:</strong> Sábado 12 de diciembre de 2026.
+  </p>
 
-**Precio general:** 85 € por persona.
+  <p style="margin:0 0 10px 0;">
+    <strong>Duración:</strong> Jornada de mañana y tarde.
+  </p>
 
-**Precio reducido:** 70 € para personas desempleadas o en situación de vulnerabilidad.
+  <p style="margin:0 0 10px 0;">
+    <strong>Precio general:</strong> 85 € por persona.
+  </p>
 
-**Organizan:** Torre Escribana y [AVA](https://www.avacoop.com/).
+  <p style="margin:0 0 10px 0;">
+    <strong>Precio reducido:</strong> 70 € para personas desempleadas o en situación de vulnerabilidad.
+  </p>
+
+  <p style="margin:0;">
+    <strong>Organizan:</strong> Torre Escribana y
+    <a href="https://www.avacoop.com/" target="_blank" rel="noopener noreferrer">AVA</a>.
+  </p>
 
 </div>
 
