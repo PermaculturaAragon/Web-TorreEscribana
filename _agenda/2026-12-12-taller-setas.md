@@ -101,7 +101,7 @@ Conoceremos las condiciones de incubación, los cuidados necesarios y las estrat
   </p>
 
   <p style="margin:0 0 10px 0;">
-    <strong>Precio reducido:</strong> 75 € para personas desempleadas o en situación de vulnerabilidad.
+    <strong>Precio reducido:</strong> 65 € para personas desempleadas o en situación de vulnerabilidad (antes del 28 de noviembre).
   </p>
 
   <p style="margin:0;">
