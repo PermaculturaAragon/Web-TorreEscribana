@@ -97,11 +97,11 @@ Conoceremos las condiciones de incubación, los cuidados necesarios y las estrat
   </p>
 
   <p style="margin:0 0 10px 0;">
-    <strong>Precio general:</strong> 85 € por persona.
+    <strong>Precio general:</strong> 90 € por persona. 75 € para inscritos antes del 28 de noviembre
   </p>
 
   <p style="margin:0 0 10px 0;">
-    <strong>Precio reducido:</strong> 70 € para personas desempleadas o en situación de vulnerabilidad.
+    <strong>Precio reducido:</strong> 75 € para personas desempleadas o en situación de vulnerabilidad.
   </p>
 
   <p style="margin:0;">
